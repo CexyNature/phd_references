@@ -1,0 +1,5197 @@
+﻿@article{RN5690,
+   author = {Abdo, D. A. and Seager, J. W. and Harvey, E. S. and McDonald, J. I. and Kendrick, G. A. and Shortis, M. R.},
+   title = {Efficiently measuring complex sessile epibenthic organisms using a novel photogrammetric technique},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {339},
+   number = {1},
+   pages = {120-133},
+   ISSN = {00220981},
+   DOI = {10.1016/j.jembe.2006.07.015},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN831,
+   author = {Abrantes, K. and Sheaves, M.},
+   title = {Incorporation of terrestrial wetland material into aquatic food webs in a tropical estuarine wetland},
+   journal = {Estuarine Coastal and Shelf Science},
+   volume = {80},
+   number = {3},
+   pages = {401-412},
+   ISSN = {0272-7714},
+   DOI = {10.1016/j.ecss.2008.09.009},
+   url = {<Go to ISI>://WOS:000261562600011
+http://www.sciencedirect.com/science/article/pii/S0272771408003594
+http://ac.els-cdn.com/S0272771408003594/1-s2.0-S0272771408003594-main.pdf?_tid=596a03e8-75db-11e4-ab38-00000aacb35d&acdnat=1417054748_07d60b8aed4d59f31b5132971b37babf},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN5269,
+   author = {Allan, B. M. and Nimmo, D. G. and Ierodiaconou, D. and VanDerWal, J. and Koh, L. P. and Ritchie, E. G.},
+   title = {Futurecasting ecological research: the rise of technoecology},
+   journal = {Ecosphere},
+   volume = {9},
+   number = {5},
+   ISSN = {2150-8925},
+   DOI = {ARTN e02163 10.1002/ecs2.2163},
+   url = {<Go to ISI>://WOS:000435640100002},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN4218,
+   author = {Aller, J. Y. and Aller, R. C.},
+   title = {Evidence for Localized Enhancement of Biological-Activity Associated with Tube and Burrow Structures in Deep-Sea Sediments at the Hebble Site, Western North-Atlantic},
+   journal = {Deep-Sea Research Part a-Oceanographic Research Papers},
+   volume = {33},
+   number = {6},
+   pages = {755-790},
+   ISSN = {0198-0149},
+   DOI = {Doi 10.1016/0198-0149(86)90088-9},
+   url = {<Go to ISI>://WOS:A1986D855000003
+https://pdf.sciencedirectassets.com/272852/1-s2.0-S0198014900X01094/1-s2.0-0198014986900889/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDJzAfDkIM8R%2FZyLryWXU%2FIpn9F%2Bn4%2BeuYLQCryoxjHWgIhAO5lNd7RFHUCLLJTa5UMMfDO%2BIfhnkvYwvfqcLYzzeQHKr0DCLP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAhoMMDU5MDAzNTQ2ODY1IgwnZ1qnXNU1T4rBLugqkQNRICJ4UNETWHXuPrJxoKcnQpVsPLBiEBPoZ%2F9MvSk%2BqkB9KFhtErCZkfkT9SzULzeyrlMVDjVLesUbS99PSbx50uqah1uO7iCAiOOrGXJaM8yEwt4nvbJ2DxpkQtOBoJuwCDgTXoPEsMKxA8NfxKt1tkQeTexaet0ZFjF7orrsDxI%2BuibAO9Px%2ByxfsGYMd4AzSXRhVNSQ81l9rbe8R1Nq7b20NMa9tHQHFkUJKb5r7%2B4ZRlh5iC3WXUcT6zyN0aK6SadLF1f2QYtN%2FX7iHQ5aV3o2RZxC%2B3gT%2BGNSW4%2FpJPde4pVcj7uscUl7shHcsDfzfskQpYECe1pXhg1jIZJBNPrlQfnMYlgYvtPqrNnwVozGe9Hb9dTAhqtV0Itze%2BTVBNkQJJJ%2BaSWn%2BnZRHBtVZrrL4jgi7Z9al5NtWfl8Sb4FeJ38Sb%2Bz33EaSRFk1ZuWNTFxk%2BSjXV9H8PfUwgiI03kao7fVa7drQ2wwtbva9MN82jTNgiIyUhdYT6MwCZvo14%2BmDCPvjsjRkn0VqNTNsjCF76fyBTrqAYC0ZmQlfx4WRYeriZthUxK49BQnKUxpk32J3nzd3Z6ZNaOaCu%2FKyJ6%2F%2FGkUsmcZDCrLtljzspP1osumyLm3wGNxNzkLtXT34HZRnoD%2FE81O3y%2BY%2BjGJyoEPbEeZz1M%2FHqGR2gF023fTdxuYf0PzGZc0S9gi4rN8ZLwSdXXtN0s0j%2B5dSwwztyY%2FAV6MBcaPeS4zWtDmOLbJRwq9S6cEmaNGKXOr0%2Bmg85HpwE3nmQ3H4mdj1vSkzbCFFtIGR8UHi76Y%2FgoyFLQeXn4LnFzBZP7skw%2BDcojOswWKIWnNnB3qehl05WNf9yfk8Q%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200217T032757Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3LGT2IFE%2F20200217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1769f5615a36bb4ad780f1242126d73c80f36a32c00bd5e0369400cb44b2aa3a&hash=559667d4d00dc019722038f98053db0309b73372fbafb4235899a46138b72637&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=0198014986900889&tid=spdf-ee146c34-ff4d-4709-8a15-4e2774233c50&sid=b32d79f69e6cc14f5f5a4ad9e999c35a55e3gxrqa&type=client},
+   year = {1986},
+   type = {Journal Article}
+}
+
+@article{RN5441,
+   author = {Aller, R. C.},
+   title = {Bioturbation and Remineralization of Sedimentary Organic-Matter - Effects of Redox Oscillation},
+   journal = {Chemical Geology},
+   volume = {114},
+   number = {3-4},
+   pages = {331-345},
+   ISSN = {0009-2541},
+   DOI = {Doi 10.1016/0009-2541(94)90062-0},
+   url = {<Go to ISI>://WOS:A1994NP38400011},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{RN5626,
+   author = {Apel, M. and Türkay, M.},
+   title = {Taxonomic Composition, Distribution and Zooeoahic Relationships of the Grapsid and Ocypodid Crab Fauna of Intertidal Soft Bottoms in the Arabian Gulf},
+   journal = {Estuarine, Coastal and Shelf Science},
+   volume = {49},
+   pages = {131-142},
+   ISSN = {02727714},
+   DOI = {10.1016/s0272-7714(99)80018-3},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN5377,
+   author = {Araujo Junior, J. M. C. and Ferreira, T. O. and Suarez-Abelenda, M. and Nobrega, G. N. and Albuquerque, Agbm and Bezerra, A. C. and Otero, X. L.},
+   title = {The role of bioturbation by Ucides cordatus crab in the fractionation and bioavailability of trace metals in tropical semiarid mangroves},
+   journal = {Mar Pollut Bull},
+   volume = {111},
+   number = {1-2},
+   pages = {194-202},
+   ISSN = {1879-3363 (Electronic)
+0025-326X (Linking)},
+   DOI = {10.1016/j.marpolbul.2016.07.011},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27422484},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5379,
+   author = {Aschenbroich, Adélaïde and Michaud, Emma and Stieglitz, Thomas and Fromard, François and Gardel, Antoine and Tavares, Marcos and Thouzeau, Gérard},
+   title = {Brachyuran crab community structure and associated sediment reworking activities in pioneer and young mangroves of French Guiana, South America},
+   journal = {Estuarine, Coastal and Shelf Science},
+   volume = {182},
+   pages = {60-71},
+   ISSN = {02727714},
+   DOI = {10.1016/j.ecss.2016.09.003},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5664,
+   author = {Asner, G. P. and Martin, R. E. and Knapp, D. E. and Tupayachi, R. and Anderson, C. B. and Sinca, F. and Vaughn, N. R. and Llactayo, W.},
+   title = {Airborne laser-guided imaging spectroscopy to map forest trait diversity and guide conservation},
+   journal = {Science},
+   volume = {355},
+   number = {6323},
+   pages = {385-389},
+   ISSN = {1095-9203 (Electronic)
+0036-8075 (Linking)},
+   DOI = {10.1126/science.aaj1987},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28126815},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN5799,
+   author = {Attanasi, A. and Cavagna, A. and Castello, L. D. and Giardina, I. and Jelic, A. and Melillo, S. and Parisi, L. and Pellacini, F. and Shen, E. and Silvestri, E. and Viale, M.},
+   title = {GReTA-A Novel Global and Recursive Tracking Algorithm in Three Dimensions},
+   journal = {IEEE Trans Pattern Anal Mach Intell},
+   volume = {37},
+   number = {12},
+   pages = {2451-63},
+   ISSN = {1939-3539 (Electronic)
+0098-5589 (Linking)},
+   DOI = {10.1109/TPAMI.2015.2414427},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26539850},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@inproceedings{RN5863,
+   author = {Azhar, M. I. H. and Zaman, F. H. K. and Tahir, N. M. and Hashim, H.},
+   title = {People Tracking System Using DeepSORT},
+   booktitle = {2020 10th IEEE International Conference on Control System, Computing and Engineering (ICCSCE)},
+   pages = {137-141},
+   DOI = {10.1109/ICCSCE50387.2020.9204956},
+   url = {https://ieeexplore.ieee.org/document/9204956/},
+   year = {2020},
+   type = {Conference Proceedings}
+}
+
+@article{RN5830,
+   author = {Azra, M. N. and Aaqillah-Amr, M. A. and Ikhwanuddin, M. and Ma, H. Y. and Waiho, K. and Ostrensky, A. and Tavares, C. P. D. and Abol-Munafi, A. B.},
+   title = {Effects of climate-induced water temperature changes on the life history of brachyuran crabs},
+   journal = {Reviews in Aquaculture},
+   volume = {12},
+   number = {2},
+   pages = {1211-1216},
+   ISSN = {1753-5123},
+   url = {<Go to ISI>://WOS:000481837700001},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5097,
+   author = {Babenko, B. and Yang, M. H. and Belongie, S.},
+   title = {Visual Tracking with Online Multiple Instance Learning},
+   journal = {Cvpr: 2009 Ieee Conference on Computer Vision and Pattern Recognition, Vols 1-4},
+   pages = {983-+},
+   ISSN = {1063-6919},
+   url = {<Go to ISI>://WOS:000279038000126},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN5040,
+   author = {Backwell, P. R. Y.},
+   title = {Synchronous waving in fiddler crabs: a review},
+   journal = {Current Zoology},
+   volume = {65},
+   number = {1},
+   pages = {83-88},
+   ISSN = {1674-5507},
+   DOI = {10.1093/cz/zoy053},
+   url = {<Go to ISI>://WOS:000459340000011
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6347057/pdf/zoy053.pdf},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN4459,
+   author = {Backwell, P. R. Y. and Passmore, N. I.},
+   title = {Time constraints and multiple choice criteria in the sampling behaviour and mate choice of the fiddler crab, Uca annulipes},
+   journal = {Behavioral Ecology and Sociobiology},
+   volume = {38},
+   number = {6},
+   pages = {407-416},
+   ISSN = {0340-5443},
+   DOI = {DOI 10.1007/s002650050258},
+   url = {<Go to ISI>://WOS:A1996UU50300006
+https://link-springer-com.elibrary.jcu.edu.au/content/pdf/10.1007/s002650050258.pdf},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@article{RN5614,
+   author = {Bailey, L. L. and Simons, T. R. and Pollock, K. H.},
+   title = {Estimating site occupancy and species detection probability parameters for terrestrial salamanders},
+   journal = {Ecological Applications},
+   volume = {14},
+   number = {3},
+   pages = {692-702},
+   ISSN = {1051-0761},
+   DOI = {Doi 10.1890/03-5012},
+   url = {<Go to ISI>://WOS:000222174000006},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN5837,
+   author = {Baker, R. and Taylor, M. D. and Able, K. W. and Beck, M. W. and Cebrian, J. and Colombano, D. D. and Connolly, R. M. and Currin, C. and Deegan, L. A. and Feller, I. C. and Gilby, B. L. and Kimball, M. E. and Minello, T. J. and Rozas, L. P. and Simenstad, C. and Turner, R. E. and Waltham, N. J. and Weinstein, M. P. and Ziegler, S. L. and zu Ermgassen, P. S. E. and Alcott, C. and Alford, S. B. and Barbeau, M. A. and Crosby, S. C. and Dodds, K. and Frank, A. and Goeke, J. and Gaines, L. A. G. and Hardcastle, F. E. and Henderson, C. J. and James, W. R. and Kenworthy, M. D. and Lesser, J. and Mallick, D. and Martin, C. W. and McDonald, A. E. and McLuckie, C. and Morrison, B. H. and Nelson, J. A. and Norris, G. S. and Ollerhead, J. and Pahl, J. W. and Ramsden, S. and Rehage, J. S. and Reinhardt, J. F. and Rezek, R. J. and Risse, L. M. and Smith, J. A. M. and Sparks, E. L. and Staver, L. W.},
+   title = {Fisheries rely on threatened salt marshes},
+   journal = {Science},
+   volume = {370},
+   number = {6517},
+   pages = {670-671},
+   ISSN = {0036-8075},
+   url = {<Go to ISI>://WOS:000586868600029},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5795,
+   author = {Ballerini, M. and Cabibbo, N. and Candelier, R. and Cavagna, A. and Cisbani, E. and Giardina, I. and Lecomte, V. and Orlandi, A. and Parisi, G. and Procaccini, A. and Viale, M. and Zdravkovic, V.},
+   title = {Interaction ruling animal collective behavior depends on topological rather than metric distance: evidence from a field study},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {105},
+   number = {4},
+   pages = {1232-7},
+   ISSN = {1091-6490 (Electronic)
+0027-8424 (Linking)},
+   DOI = {10.1073/pnas.0711437105},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/18227508},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN4305,
+   author = {Balmford, A. and Green, R. E. and Jenkins, M.},
+   title = {Measuring the changing state of nature},
+   journal = {Trends in Ecology & Evolution},
+   volume = {18},
+   number = {7},
+   pages = {326-330},
+   ISSN = {0169-5347},
+   DOI = {Doi 10.1016/S0169-5347(03)00067-3},
+   url = {<Go to ISI>://WOS:000184123500005
+http://ac.els-cdn.com/S0169534703000673/1-s2.0-S0169534703000673-main.pdf?_tid=666957ae-ecd7-11e6-b6fd-00000aacb35e&acdnat=1486432236_ff439349890346467c50efb93ab1e259},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN5310,
+   author = {Barabasi, A. L. and Albert, R.},
+   title = {Emergence of scaling in random networks},
+   journal = {Science},
+   volume = {286},
+   number = {5439},
+   pages = {509-512},
+   ISSN = {0036-8075},
+   url = {<Go to ISI>://WOS:000083121200054},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN5851,
+   author = {Barmuta, L. A. and Lake, P. S.},
+   title = {On the Value of the River Continuum Concept},
+   journal = {New Zealand Journal of Marine and Freshwater Research},
+   volume = {16},
+   number = {2},
+   pages = {227-229},
+   ISSN = {0028-8330},
+   url = {<Go to ISI>://WOS:A1982PY14100011},
+   year = {1982},
+   type = {Journal Article}
+}
+
+@article{RN3577,
+   author = {Barnosky, A. D. and Matzke, N. and Tomiya, S. and Wogan, G. O. and Swartz, B. and Quental, T. B. and Marshall, C. and McGuire, J. L. and Lindsey, E. L. and Maguire, K. C. and Mersey, B. and Ferrer, E. A.},
+   title = {Has the Earth's sixth mass extinction already arrived?},
+   journal = {Nature},
+   volume = {471},
+   number = {7336},
+   pages = {51-7},
+   ISSN = {1476-4687 (Electronic)
+0028-0836 (Linking)},
+   DOI = {10.1038/nature09678},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/21368823},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN5605,
+   author = {Barros, F.},
+   title = {Ghost crabs as a tool for rapid assessment of human impacts on exposed sandy beaches},
+   journal = {Biological Conservation},
+   volume = {97},
+   number = {3},
+   pages = {399-404},
+   DOI = {https://doi.org/10.1016/S0006-3207(00)00116-6},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN5712,
+   author = {Bell, S. S.},
+   title = {Habitat Complexity of Polychaete Tube-Caps - Influence of Architecture on Dynamics of a Meioepibenthic Assemblage},
+   journal = {Journal of Marine Research},
+   volume = {43},
+   number = {3},
+   pages = {647-671},
+   ISSN = {0022-2402},
+   DOI = {Doi 10.1357/002224085788440358},
+   url = {<Go to ISI>://WOS:A1985AQP4700008},
+   year = {1985},
+   type = {Journal Article}
+}
+
+@article{RN5828,
+   author = {Bellard, C. and Bertelsmeier, C. and Leadley, P. and Thuiller, W. and Courchamp, F.},
+   title = {Impacts of climate change on the future of biodiversity},
+   journal = {Ecology Letters},
+   volume = {15},
+   number = {4},
+   pages = {365-377},
+   ISSN = {1461-023x},
+   url = {<Go to ISI>://WOS:000301349600009
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3880584/pdf/emss-54918.pdf},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN5016,
+   author = {Bellwood, David R. and Streit, Robert P. and Brandl, Simon J. and Tebbett, Sterling B.},
+   title = {The meaning of the term ‘function’ in ecology: a coral reef perspective},
+   journal = {Functional Ecology},
+   ISSN = {0269-8463
+1365-2435},
+   DOI = {10.1111/1365-2435.13265},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN5855,
+   author = {Bertinetto, L. and Mueller, R. and Tertikas, K. and Samangooei, S. and Lord, N.A.},
+   title = {Making better mistakes: Leveraging class hierarchies with deep networks.},
+   journal = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+   pages = {12506-12515},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5539,
+   author = {Bertness, M. D. and Miller, T.},
+   title = {The distribution and dynamics of Uca pugnax (Smith) burrows in a New England salt marsh},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {83},
+   number = {211-237},
+   pages = {211},
+   year = {1984},
+   type = {Journal Article}
+}
+
+@article{RN5817,
+   author = {Bestley, S. and Jonsen, I. and Harcourt, R. G. and Hindell, M. A. and Gales, N. J.},
+   title = {Putting the behavior into animal movement modeling: Improved activity budgets from use of ancillary tag information},
+   journal = {Ecology and Evolution},
+   volume = {6},
+   number = {22},
+   pages = {8243-8255},
+   ISSN = {2045-7758},
+   url = {<Go to ISI>://WOS:000387664500028
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5108274/pdf/ECE3-6-8243.pdf},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5848,
+   author = {Bickford, D. and Lohman, D. J. and Sodhi, N. S. and Ng, P. K. L. and Meier, R. and Winker, K. and Ingram, K. K. and Das, I.},
+   title = {Cryptic species as a window on diversity and conservation},
+   journal = {Trends in Ecology & Evolution},
+   volume = {22},
+   number = {3},
+   pages = {148-155},
+   ISSN = {0169-5347},
+   url = {<Go to ISI>://WOS:000244947400007},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@book{RN5839,
+   author = {Bliss, Dorothy E.},
+   title = {The Biology of Crustacea},
+   publisher = {Academic Press},
+   address = {New York},
+   pages = {v. <1-10 >},
+   ISBN = {0121064018 (v. 1)},
+   year = {1982},
+   type = {Book}
+}
+
+@article{RN5169,
+   author = {Blomley, R. and Weinmann, M. and Leitloff, J. and Jutzi, B.},
+   title = {Shape distribution features for point cloud analysis - a geometric histogram approach on multiple scales},
+   journal = {ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences},
+   volume = {II-3},
+   pages = {9-16},
+   ISSN = {2194-9050},
+   DOI = {10.5194/isprsannals-II-3-9-2014},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN5620,
+   author = {Boggon, T.},
+   title = {A cautionary note: temporal effects on the capture of mangrove crabs by pitfall traps},
+   journal = {Wetlands Australia Journal},
+   volume = {23},
+   number = {2},
+   pages = {32-37},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN4767,
+   author = {Booksmythe, I. and Detto, T. and Backwell, P. R. Y.},
+   title = {Female fiddler crabs settle for less: the travel costs of mate choice},
+   journal = {Animal Behaviour},
+   volume = {76},
+   number = {6},
+   pages = {1775-1781},
+   ISSN = {0003-3472},
+   DOI = {10.1016/j.anbehav.2008.07.022},
+   url = {<Go to ISI>://WOS:000261161000002},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN5039,
+   author = {Booksmythe, I. and Jennions, M. D. and Backwell, P. R. Y.},
+   title = {Investigating the 'dear enemy' phenomenon in the territory defence of the fiddler crab, Uca mjoebergi},
+   journal = {Animal Behaviour},
+   volume = {79},
+   number = {2},
+   pages = {419-423},
+   ISSN = {0003-3472},
+   DOI = {10.1016/j.anbehav.2009.11.020},
+   url = {<Go to ISI>://WOS:000273986300022
+https://ac.els-cdn.com/S0003347209005259/1-s2.0-S0003347209005259-main.pdf?_tid=0469b46e-f3c6-44c9-865d-2e9a007c883c&acdnat=1552463333_593eef47e217705da303af1d1a9a16c9},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN5644,
+   author = {Boon, P. Y. and Yeo, D. C. J. and Todd, P. A.},
+   title = {Sound production and reception in mangrove crabs Perisesarma spp. (Brachyura: Sesarmidae)},
+   journal = {Aquatic Biology},
+   volume = {5},
+   number = {2},
+   pages = {107-116},
+   ISSN = {1864-7790},
+   DOI = {10.3354/ab00136},
+   url = {<Go to ISI>://WOS:000266737900001},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN5326,
+   author = {Booth, J. M. and Fusi, M. and Marasco, R. and Mbobo, T. and Daffonchio, D.},
+   title = {Fiddler crab bioturbation determines consistent changes in bacterial communities across contrasting environmental conditions},
+   journal = {Sci Rep},
+   volume = {9},
+   number = {1},
+   pages = {3749},
+   ISSN = {2045-2322 (Electronic)
+2045-2322 (Linking)},
+   DOI = {10.1038/s41598-019-40315-0},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30842580},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN5834,
+   author = {Both, C. and Visser, M. E.},
+   title = {The effect of climate change on the correlation between avian life-history traits},
+   journal = {Global Change Biology},
+   volume = {11},
+   number = {10},
+   pages = {1606-1613},
+   ISSN = {1354-1013},
+   url = {<Go to ISI>://WOS:000232390200005},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN5669,
+   author = {Botto, F. and Iribarne, O.},
+   title = {Contrasting effects of two burrowing crabs (Chasmagnathus granulata and Uca uruguayensis) on sediment composition and transport in estuarine environments},
+   journal = {Estuarine Coastal and Shelf Science},
+   volume = {51},
+   number = {2},
+   pages = {141-151},
+   ISSN = {0272-7714},
+   DOI = {DOI 10.1006/ecss.2000.0642},
+   url = {<Go to ISI>://WOS:000089487500002},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN4490,
+   author = {Bradley, M. and Baker, R. and Sheaves, M.},
+   title = {Hidden Components in Tropical Seascapes: Deep-Estuary Habitats Support Unique Fish Assemblages},
+   journal = {Estuaries and Coasts},
+   volume = {40},
+   number = {4},
+   pages = {1195-1206},
+   ISSN = {1559-2723},
+   DOI = {10.1007/s12237-016-0192-z},
+   url = {<Go to ISI>://WOS:000402100700019},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN3280,
+   author = {Breitfuss, M. J.},
+   title = {Defining the characteristics of burrows to better estimate abundance of the grapsid crab, Helograpsus haswellianus (Decapoda, Grapsidae), on east Australian saltmarsh},
+   journal = {Crustaceana},
+   volume = {76},
+   pages = {499-507},
+   ISSN = {0011-216X},
+   DOI = {10.1163/156854003322033889},
+   url = {<Go to ISI>://WOS:000184493300009},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN3281,
+   author = {Breitfuss, M. J. and Connolly, R. M. and Dale, P. E. R.},
+   title = {Densities and aperture sizes of burrows constructed by Helograpsus haswellianus (Decapoda : Varunidae) in saltmarshes with and without mosquito-control runnels},
+   journal = {Wetlands},
+   volume = {24},
+   number = {1},
+   pages = {14-22},
+   ISSN = {0277-5212},
+   DOI = {10.1672/0277-5212(2004)024[0014:daasob]2.0.co;2},
+   url = {<Go to ISI>://WOS:000220437800002
+http://download.springer.com/static/pdf/75/art%253A10.1672%252F0277-5212%25282004%2529024%255B0014%253ADAASOB%255D2.0.CO%253B2.pdf?auth66=1422512067_e682ddc93ee944d16cdec9c81e3f94ff&ext=.pdf},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@inbook{RN5856,
+   author = {Brill, Frank and Erukhimov, Victor and Giduthuri, Radhakrishna and Ramm, Stephen},
+   title = {Chapter 6 - Basic image transformations},
+   booktitle = {OpenVX Programming Guide},
+   editor = {Brill, Frank and Erukhimov, Victor and Giduthuri, Radhakrishna and Ramm, Stephen},
+   publisher = {Academic Press},
+   pages = {85-123},
+   ISBN = {978-0-12-816425-9},
+   DOI = {https://doi.org/10.1016/B978-0-12-816425-9.00012-7},
+   url = {https://www.sciencedirect.com/science/article/pii/B9780128164259000127},
+   year = {2020},
+   type = {Book Section}
+}
+
+@article{RN5780,
+   author = {Brousseau, D. J. and Baglivo, J. A. and Filipowicz, A. and Sego, L. and Alt, C.},
+   title = {An experimental field study of site fidelity and mobility in the Asian shore crab, Hemigrapsus sanguineus},
+   journal = {Northeastern Naturalist},
+   volume = {9},
+   number = {4},
+   pages = {381-390},
+   ISSN = {1092-6194},
+   DOI = {Doi 10.2307/3858551},
+   url = {<Go to ISI>://WOS:000180034000002},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN5358,
+   author = {Brunier, Guillaume and Michaud, Emma and Fleury, Jules and Anthony, Edward J. and Morvan, Sylvain and Gardel, Antoine},
+   title = {Assessing the relationship between macro-faunal burrowing activity and mudflat geomorphology from UAV-based Structure-from-Motion photogrammetry},
+   journal = {Remote Sensing of Environment},
+   volume = {241},
+   pages = {111717},
+   ISSN = {00344257},
+   DOI = {10.1016/j.rse.2020.111717},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@book{RN4817,
+   author = {Brusca, Richard C. and Brusca, Gary J.},
+   title = {Invertebrates},
+   publisher = {Sinauer Associates},
+   address = {Sunderland, Mass.},
+   edition = {2nd},
+   pages = {xix, 936 p.},
+   ISBN = {0878930973 (hardcover)},
+   url = {Table of contents http://www.loc.gov/catdir/toc/fy038/2002154089.html},
+   year = {2003},
+   type = {Book}
+}
+
+@article{RN5283,
+   author = {Bryson, M. and Ferrari, R. and Figueira, W. and Pizarro, O. and Madin, J. and Williams, S. and Byrne, M.},
+   title = {Characterization of measurement errors using structure-from-motion and photogrammetry to measure marine habitat structural complexity},
+   journal = {Ecol Evol},
+   volume = {7},
+   number = {15},
+   pages = {5669-5681},
+   ISSN = {2045-7758 (Print)
+2045-7758 (Linking)},
+   DOI = {10.1002/ece3.3127},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28808546},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN4829,
+   author = {Burg, S. and Rixen, C. and Stockli, V. and Wipf, S.},
+   title = {Observation bias and its causes in botanical surveys on high-alpine summits},
+   journal = {Journal of Vegetation Science},
+   volume = {26},
+   number = {1},
+   pages = {191-200},
+   ISSN = {1100-9233},
+   DOI = {10.1111/jvs.12211},
+   url = {<Go to ISI>://WOS:000345704700020},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN5805,
+   author = {Burggren, W. W.},
+   title = {Respiration and Circulation in Land Crabs - Novel Variations on the Marine Design},
+   journal = {American Zoologist},
+   volume = {32},
+   number = {3},
+   pages = {417-427},
+   ISSN = {0003-1569},
+   url = {<Go to ISI>://WOS:A1992KR81400009},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@article{RN5686,
+   author = {Burns, J. H. R. and Delparte, D. and Gates, R. D. and Takabayashi, M.},
+   title = {Integrating structure-from-motion photogrammetry with geospatial software as a novel technique for quantifying 3D ecological characteristics of coral reefs},
+   journal = {Peerj},
+   volume = {3},
+   ISSN = {2167-8359},
+   DOI = {ARTN e1077
+10.7717/peerj.1077},
+   url = {<Go to ISI>://WOS:000358689600003
+https://peerj.com/articles/1077.pdf},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN5770,
+   author = {Burt, W.H.},
+   title = {Territoriality and home range concepts as applied to mammals},
+   journal = {Journal of mammalogy},
+   volume = {24},
+   number = {3},
+   pages = {346-352},
+   year = {1943},
+   type = {Journal Article}
+}
+
+@article{RN5643,
+   author = {Buscaino, G. and Filiciotto, F. and Gristina, M. and Buffa, G. and Bellante, A. and Maccarrone, V. and Patti, B. and Mazzola, S.},
+   title = {Defensive strategies of European spiny lobster Palinurus elephas during predator attack},
+   journal = {Marine Ecology Progress Series},
+   volume = {423},
+   pages = {143-154},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps08957},
+   url = {<Go to ISI>://WOS:000287965900013},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN5797,
+   author = {Butail, S. and Manoukis, N. and Diallo, M. and Ribeiro, J. M. and Lehmann, T. and Paley, D. A.},
+   title = {Reconstructing the flight kinematics of swarming and mating in wild mosquitoes},
+   journal = {J R Soc Interface},
+   volume = {9},
+   number = {75},
+   pages = {2624-38},
+   ISSN = {1742-5662 (Electronic)
+1742-5662 (Linking)},
+   DOI = {10.1098/rsif.2012.0150},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22628212},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN5459,
+   author = {Butlin, Roger K. and Stankowski, Sean},
+   title = {Is it time to abandon the biological species concept? No},
+   journal = {National Science Review},
+   volume = {7},
+   number = {8},
+   pages = {1400-1401},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5809,
+   author = {Cadotte, M. W. and Carscadden, K. and Mirotchnick, N.},
+   title = {Beyond species: functional diversity and the maintenance of ecological processes and services},
+   journal = {Journal of Applied Ecology},
+   volume = {48},
+   number = {5},
+   pages = {1079-1087},
+   ISSN = {0021-8901},
+   url = {<Go to ISI>://WOS:000295095100003
+https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2664.2011.02048.x?download=true},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN5784,
+   author = {Cagnacci, F. and Boitani, L. and Powell, R. A. and Boyce, M. S.},
+   title = {Animal ecology meets GPS-based radiotelemetry: a perfect storm of opportunities and challenges},
+   journal = {Philosophical Transactions of the Royal Society B-Biological Sciences},
+   volume = {365},
+   number = {1550},
+   pages = {2157-2162},
+   ISSN = {0962-8436},
+   url = {<Go to ISI>://WOS:000278922900002},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN5187,
+   author = {Calenge, C.},
+   title = {The package "adehabitat" for the R software: A tool for the analysis of space and habitat use by animals},
+   journal = {Ecological Modelling},
+   volume = {197},
+   number = {3-4},
+   pages = {516-519},
+   ISSN = {0304-3800},
+   DOI = {10.1016/j.ecolmodel.2006.03.017},
+   url = {<Go to ISI>://WOS:000239985700024},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@misc{RN5044,
+   year = {2016},
+   type = {Computer Program}
+}
+
+@misc{RN5134,
+   year = {2019},
+   type = {Computer Program}
+}
+
+@article{RN5769,
+   author = {Cannicci, S. and Fratini, S. and Vannini, M.},
+   title = {Short-range homing in fiddler crabs (Ocypodidae, genus Uca): A homing mechanism not based on local visual landmarks},
+   journal = {Ethology},
+   volume = {105},
+   number = {10},
+   pages = {867-880},
+   ISSN = {0179-1613},
+   url = {<Go to ISI>://WOS:000083210900004},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN4896,
+   author = {Cannicci, S. and Fratini, S. and Vannini, M.},
+   title = {Use of time, space and food resources in the mangrove climbing crab Selatium elongatum (Grapsodae: Sesarminae)},
+   journal = {Marine Biology},
+   volume = {135},
+   pages = {335-339},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN5648,
+   author = {Cannicci, S. and Morino, L. and Vannini, M.},
+   title = {Behavioural evidence for visual recognition of predators by the mangrove climbing crab Sesarma leptosoma},
+   journal = {Animal Behaviour},
+   volume = {63},
+   pages = {77-83},
+   ISSN = {0003-3472},
+   DOI = {10.1006/anbe.2001.1882},
+   url = {<Go to ISI>://WOS:000173746700009},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN5781,
+   author = {Cannicci, S. and Paula, J. and Vannini, M.},
+   title = {Activity pattern and spatial strategy in Pachygrapsus marmoratus (Decapoda: Grapsidae) from Mediterranean and Atlantic shores},
+   journal = {Marine Biology},
+   volume = {133},
+   number = {3},
+   pages = {429-435},
+   ISSN = {0025-3162},
+   DOI = {DOI 10.1007/s002270050481},
+   url = {<Go to ISI>://WOS:000079888600005},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN4895,
+   author = {Cannicci, S. and Ritossa, S. and Ruwa, R. K. and Vannini, M.},
+   title = {Tree fidelity and hole fidelity in the tree crab Sesarma leptosoma (Decapoda, Grapsidae)},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {196},
+   number = {1-2},
+   pages = {299-311},
+   ISSN = {0022-0981},
+   DOI = {Doi 10.1016/0022-0981(95)00136-0},
+   url = {<Go to ISI>://WOS:A1996UP21900016},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@article{RN5295,
+   author = {Caravello, H. E. and Cameron, G. N.},
+   title = {Time Activity Budgets of the Gulf-Coast Fiddler-Crab (Uca-Panacea)},
+   journal = {American Midland Naturalist},
+   volume = {126},
+   number = {2},
+   pages = {403-407},
+   ISSN = {0003-0031},
+   DOI = {Doi 10.2307/2426118},
+   url = {<Go to ISI>://WOS:A1991GM89100019},
+   year = {1991},
+   type = {Journal Article}
+}
+
+@article{RN901,
+   author = {Cardinale, B.},
+   title = {Impacts of Biodiversity Loss},
+   journal = {Science},
+   volume = {336},
+   number = {6081},
+   pages = {552-553},
+   ISSN = {0036-8075},
+   DOI = {10.1126/science.1222102},
+   url = {<Go to ISI>://WOS:000303498800035},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN843,
+   author = {Cardinale, B. J. and Duffy, J. E. and Gonzalez, A. and Hooper, D. U. and Perrings, C. and Venail, P. and Narwani, A. and Mace, G. M. and Tilman, D. and Wardle, D. A. and Kinzig, A. P. and Daily, G. C. and Loreau, M. and Grace, J. B. and Larigauderie, A. and Srivastava, D. S. and Naeem, S.},
+   title = {Biodiversity loss and its impact on humanity},
+   journal = {Nature},
+   volume = {486},
+   number = {7401},
+   pages = {59-67},
+   ISSN = {0028-0836},
+   DOI = {10.1038/nature11148},
+   url = {<Go to ISI>://WOS:000304854000027
+http://www.nature.com/nature/journal/v486/n7401/pdf/nature11148.pdf},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN5705,
+   author = {Carvalho, Renan D. and Pardo, Juan C. F. and Costa, Tânia M.},
+   title = {Construction and structure of the semidomes of the fiddler crab Minuca rapax (Brachyura: Ocypodidae) in southern Brazil},
+   journal = {Journal of Crustacean Biology},
+   volume = {38},
+   number = {2},
+   pages = {241-244},
+   ISSN = {0278-0372
+1937-240X},
+   DOI = {10.1093/jcbiol/rux123},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN5636,
+   author = {Castellanos, I. and Barbosa, P.},
+   title = {Evaluation of predation risk by a caterpillar using substrate-borne vibrations},
+   journal = {Animal Behaviour},
+   volume = {72},
+   pages = {461-469},
+   ISSN = {0003-3472},
+   DOI = {10.1016/j.anbehav.2006.02.005},
+   url = {<Go to ISI>://WOS:000240217300022},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN4447,
+   author = {Cernansky, R.},
+   title = {The Biodiversity revolution - Ecologists are increasingly looking at traits — rather than species — to measure the health of ecosystems.},
+   journal = {Nature},
+   volume = {546},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN3738,
+   author = {Chapin, F. S. and Zavaleta, E. S. and Eviner, V. T. and Naylor, R. L. and Vitousek, P. M. and Reynolds, H. L. and Hooper, D. U. and Lavorel, S. and Sala, O. E. and Hobbie, S. E. and Mack, M. C. and Diaz, S.},
+   title = {Consequences of changing biodiversity},
+   journal = {Nature},
+   volume = {405},
+   number = {6783},
+   pages = {234-242},
+   ISSN = {0028-0836},
+   DOI = {10.1038/35012241},
+   url = {<Go to ISI>://WOS:000087080100061
+http://www.nature.com/nature/journal/v405/n6783/pdf/405234a0.pdf},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN5052,
+   author = {Checon, Helio H. and Costa, Tânia M.},
+   title = {The importance of considering small-scale variability in macrobenthic distribution: spatial segregation between two fiddler crab species (genus Leptuca) (Decapoda, Ocypodidae)},
+   journal = {Iheringia. Série Zoologia},
+   volume = {108},
+   number = {0},
+   ISSN = {1678-4766
+0073-4721},
+   DOI = {10.1590/1678-4766e2018034},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN5165,
+   author = {Chen, Tung-Yun and Hwang, Gwo-Wen and Mayfield, Anderson B. and Chen, Chang-Po and Lin, Hsing-Juh},
+   title = {The relationship between intertidal soil composition and fiddler crab burrow depth},
+   journal = {Ecological Engineering},
+   volume = {100},
+   pages = {256-260},
+   ISSN = {09258574},
+   DOI = {10.1016/j.ecoleng.2016.12.011},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN5866,
+   author = {Chiarucci, A. and Bacaro, G. and Scheiner, S. M.},
+   title = {Old and new challenges in using species diversity for assessing biodiversity},
+   journal = {Philosophical Transactions of the Royal Society B-Biological Sciences},
+   volume = {366},
+   number = {1576},
+   pages = {2426-2437},
+   ISSN = {0962-8436},
+   url = {<Go to ISI>://WOS:000292819200009},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN5796,
+   author = {Chiu, C. and Reddy, P. V. and Xian, W. and Krishnaprasad, P. S. and Moss, C. F.},
+   title = {Effects of competitive prey capture on flight behavior and sonar beam pattern in paired big brown bats, Eptesicus fuscus},
+   journal = {J Exp Biol},
+   volume = {213},
+   number = {Pt 19},
+   pages = {3348-56},
+   ISSN = {1477-9145 (Electronic)
+0022-0949 (Linking)},
+   DOI = {10.1242/jeb.044818},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/20833928},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN5297,
+   author = {Christy, J. H.},
+   title = {Burrow Structure and Use in the Sand Fiddler Crab, Uca-Pugilator (Bosc)},
+   journal = {Animal Behaviour},
+   volume = {30},
+   number = {Aug},
+   pages = {687-694},
+   ISSN = {0003-3472},
+   DOI = {Doi 10.1016/S0003-3472(82)80139-5},
+   url = {<Go to ISI>://WOS:A1982PG04500007},
+   year = {1982},
+   type = {Journal Article}
+}
+
+@article{RN4788,
+   author = {Christy, J. H.},
+   title = {Pillar function in the fiddler crab Uca beebei (I): effects on male spacing and aggresion},
+   journal = {Ethology},
+   volume = {78},
+   pages = {53-71},
+   year = {1988},
+   type = {Journal Article}
+}
+
+@article{RN5130,
+   author = {Christy, J. H. and Backwell, P. R. Y. and Schober, U.},
+   title = {Interspecific attractiveness of structures built by courting male fiddler crabs: experimental evidence of a sensory trap},
+   journal = {Behavioral Ecology and Sociobiology},
+   volume = {53},
+   number = {2},
+   pages = {84-91},
+   ISSN = {0340-5443},
+   DOI = {10.1007/s00265-002-0553-4},
+   url = {<Go to ISI>://WOS:000180871900003},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN5031,
+   author = {Christy, J. H. and Salmon, M.},
+   title = {Ecology and Evolution of Mating Systems of Fiddler Crabs (Genus Uca)},
+   journal = {Biological Reviews of the Cambridge Philosophical Society},
+   volume = {59},
+   number = {4},
+   pages = {483-509},
+   ISSN = {0006-3231},
+   DOI = {DOI 10.1111/j.1469-185X.1984.tb00412.x},
+   url = {<Go to ISI>://WOS:A1984TV09700002},
+   year = {1984},
+   type = {Journal Article}
+}
+
+@inproceedings{RN5697,
+   author = {Cignoni, P. and Callieri, M. and Corsini, M. and Dellepiane, M. and Ganovelli, F. and Ranzuglia, G. },
+   title = {MeshLab: an Open-Source Mesh Processing Tool},
+   booktitle = {Sixth Eurographics Italian Chapter Conference},
+   publisher = {The Eurographics Association},
+   pages = {129-136},
+   ISBN = {978-3-905673-68-5},
+   DOI = {10.2312/LocalChapterEvents/ItalChap/ItalianChapConf2008/129-136},
+   year = {2008},
+   type = {Conference Proceedings}
+}
+
+@article{RN5818,
+   author = {Clark, T. D. and Sandblom, E. and Hinch, S. G. and Patterson, D. A. and Frappell, P. B. and Farrell, A. P.},
+   title = {Simultaneous biologging of heart rate and acceleration, and their relationships with energy expenditure in free-swimming sockeye salmon (Oncorhynchus nerka)},
+   journal = {Journal of Comparative Physiology B-Biochemical Systemic and Environmental Physiology},
+   volume = {180},
+   number = {5},
+   pages = {673-684},
+   ISSN = {0174-1578},
+   url = {<Go to ISI>://WOS:000277789000005},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN5625,
+   author = {Clayton, D. A.},
+   title = {Hood construction as a spacing mechanism in Cleistostoma kuwaitense (Crustacea, Ocypodidae)},
+   journal = {Marine Biology},
+   volume = {99},
+   number = {1},
+   pages = {57-61},
+   ISSN = {0025-3162},
+   DOI = {Doi 10.1007/Bf00644977},
+   url = {<Go to ISI>://WOS:A1988P533800007},
+   year = {1988},
+   type = {Journal Article}
+}
+
+@misc{RN5142,
+   year = {2019},
+   type = {Computer Program}
+}
+
+@article{RN5307,
+   author = {Colby, D. R. and Fonseca, M. S.},
+   title = {Population-Dynamics, Spatial-Dispersion and Somatic Growth of the Sand Fiddler Crab Uca-Pugilator},
+   journal = {Marine Ecology Progress Series},
+   volume = {16},
+   number = {3},
+   pages = {269-279},
+   ISSN = {0171-8630},
+   url = {<Go to ISI>://WOS:A1984SL32300007},
+   year = {1984},
+   type = {Journal Article}
+}
+
+@article{RN5596,
+   author = {Colpo, K. D. and Negreiros-Fransozo, M. L.},
+   title = {Sampling technique affects the population structure assessments of fiddler crab Minuca vocator (Herbst, 1804) (Ocypodidae: Gelasiminae)},
+   journal = {Nauplius},
+   volume = {24},
+   number = {0},
+   ISSN = {0104-6497},
+   DOI = {ARTN e2016015
+10.1590/2358-2936e2016015},
+   url = {<Go to ISI>://WOS:000456319000015},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN837,
+   author = {Costanza, R. and dArge, R. and deGroot, R. and Farber, S. and Grasso, M. and Hannon, B. and Limburg, K. and Naeem, S. and Oneill, R. V. and Paruelo, J. and Raskin, R. G. and Sutton, P. and vandenBelt, M.},
+   title = {The value of the world's ecosystem services and natural capital},
+   journal = {Nature},
+   volume = {387},
+   number = {6630},
+   pages = {253-260},
+   ISSN = {0028-0836},
+   DOI = {10.1038/387253a0},
+   url = {<Go to ISI>://WOS:A1997WZ16700043
+http://www.nature.com/nature/journal/v387/n6630/pdf/387253a0.pdf},
+   year = {1997},
+   type = {Journal Article}
+}
+
+@article{RN3546,
+   author = {Costanza, R. and de Groot, R. and Sutton, P. and van der Ploeg, S. and Anderson, S. J. and Kubiszewski, I. and Farber, S. and Turner, R. K.},
+   title = {Changes in the global value of ecosystem services},
+   journal = {Global Environmental Change},
+   volume = {26},
+   number = {1},
+   pages = {152-158},
+   ISSN = {09593780 (ISSN)},
+   DOI = {10.1016/j.gloenvcha.2014.04.002},
+   url = {http://www.scopus.com/inward/record.url?eid=2-s2.0-84901406973&partnerID=40&md5=fe826968ef7cb8b8dc10e0ec2430c154
+http://ac.els-cdn.com/S0959378014000685/1-s2.0-S0959378014000685-main.pdf?_tid=071f6330-bff4-11e5-9c42-00000aacb361&acdnat=1453349231_34792c767ca919eecb1c7ed7357fff5d},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN5010,
+   author = {Costello, M. J. and Coll, M. and Danovaro, R. and Halpin, P. and Ojaveer, H. and Miloslavich, P.},
+   title = {A Census of Marine Biodiversity Knowledge, Resources, and Future Challenges},
+   journal = {Plos One},
+   volume = {5},
+   number = {8},
+   ISSN = {1932-6203},
+   url = {<Go to ISI>://WOS:000280520400019
+https://www-ncbi-nlm-nih-gov.elibrary.jcu.edu.au/pmc/articles/PMC2914025/pdf/pone.0012110.pdf},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@book{RN4862,
+   author = {Crane, Jocelyn},
+   title = {Fiddler crabs of the world. Ocypodidae: genus Uca},
+   publisher = {Princeto University Press},
+   address = {Princeton, NJ},
+   pages = {736},
+   ISBN = {0-691-08102-6},
+   year = {1975},
+   type = {Book}
+}
+
+@article{RN4394,
+   author = {Crispim Junior, C. F. and Pederiva, C. N. and Bose, R. C. and Garcia, V. A. and Lino-de-Oliveira, C. and Marino-Neto, J.},
+   title = {ETHOWATCHER: validation of a tool for behavioral and video-tracking analysis in laboratory animals},
+   journal = {Comput Biol Med},
+   volume = {42},
+   number = {2},
+   pages = {257-64},
+   ISSN = {1879-0534 (Electronic)
+0010-4825 (Linking)},
+   DOI = {10.1016/j.compbiomed.2011.12.002},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22204867},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN4818,
+   author = {Crutzen, P. J.},
+   title = {Geology of mankind},
+   journal = {Nature},
+   volume = {415},
+   number = {6867},
+   pages = {23-23},
+   ISSN = {0028-0836},
+   url = {<Go to ISI>://WOS:000173028800020},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN3342,
+   author = {Cruz-Motta, J. J. and Miloslavich, P. and Palomo, G. and Iken, K. and Konar, B. and Pohle, G. and Trott, T. and Benedetti-Cecchi, L. and Herrera, C. and Hernandez, A. and Sardi, A. and Bueno, A. and Castillo, J. and Klein, E. and Guerra-Castro, E. and Gobin, J. and Gomez, D. I. and Riosmena-Rodriguez, R. and Mead, A. and Bigatti, G. and Knowlton, A. and Shirayama, Y.},
+   title = {Patterns of spatial variation of assemblages associated with intertidal rocky shores: a global perspective},
+   journal = {PLoS One},
+   volume = {5},
+   number = {12},
+   pages = {e14354},
+   ISSN = {1932-6203 (Electronic)
+1932-6203 (Linking)},
+   DOI = {10.1371/journal.pone.0014354},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/21179546},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN5370,
+   author = {Culibrk, D. and Marques, O. and Socek, D. and Kalva, H. and Furht, B.},
+   title = {Neural network approach to background modeling for video object segmentation},
+   journal = {IEEE Trans Neural Netw},
+   volume = {18},
+   number = {6},
+   pages = {1614-27},
+   ISSN = {1045-9227 (Print)
+1045-9227 (Linking)},
+   DOI = {10.1109/TNN.2007.896861},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/18051181},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN5393,
+   author = {Dai, Weiqi and Li, Huan and Zhou, Zeng and Cybele, Stephanie and Lu, Cuizhuo and Zhao, Kun and Zhang, Xiaoyan and Yang, Huatao and Li, Dingyuan},
+   title = {UAV Photogrammetry for Elevation Monitoring of Intertidal Mudflats},
+   journal = {Journal of Coastal Research},
+   volume = {85},
+   pages = {236-240},
+   ISSN = {0749-0208
+1551-5036},
+   DOI = {10.2112/si85-048.1},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN4188,
+   author = {Daily, G. C. and Soderqvist, T. and Aniyar, S. and Arrow, K. and Dasgupta, P. and Ehrlich, P. R. and Folke, C. and Jansson, A. and Jansson, B. and Kautsky, N. and Levin, S. and Lubchenco, J. and Maler, K. G. and Simpson, D. and Starrett, D. and Tilman, D. and Walker, B.},
+   title = {Ecology. The value of nature and the nature of value},
+   journal = {Science},
+   volume = {289},
+   number = {5478},
+   pages = {395-6},
+   ISSN = {0036-8075 (Print)
+0036-8075 (Linking)},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/10939949},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN830,
+   author = {Dale, P. E. R. and Connelly, R.},
+   title = {Wetlands and human health: an overview},
+   journal = {Wetlands Ecology and Management},
+   volume = {20},
+   number = {3},
+   pages = {165-171},
+   ISSN = {0923-4861},
+   DOI = {10.1007/s11273-012-9264-4},
+   url = {<Go to ISI>://WOS:000306130200001
+http://link.springer.com/article/10.1007%2Fs11273-012-9264-4
+http://download.springer.com/static/pdf/809/art%253A10.1007%252Fs11273-012-9264-4.pdf?auth66=1417055212_4bb20b17b622a146abc966ac4a4d2569&ext=.pdf},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN5785,
+   author = {Damschen, E. I. and Brudvig, L. A. and Haddad, N. M. and Levey, D. J. and Orrock, J. L. and Tewksbury, J. J.},
+   title = {The movement ecology and dynamics of plant communities in fragmented landscapes},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {105},
+   number = {49},
+   pages = {19078-19083},
+   ISSN = {0027-8424},
+   url = {<Go to ISI>://WOS:000261706600013},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN5311,
+   author = {Dandois, J. P. and Olano, M. and Ellis, E. C.},
+   title = {Optimal Altitude, Overlap, and Weather Conditions for Computer Vision UAV Estimates of Forest Structure},
+   journal = {Remote Sensing},
+   volume = {7},
+   number = {10},
+   pages = {13895-13920},
+   ISSN = {2072-4292},
+   url = {<Go to ISI>://WOS:000364328600061},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN908,
+   author = {Danovaro, R. and Gambi, C. and Dell'Anno, A. and Corinaidesi, C. and Fraschetti, S. and Vanreusel, A. and Vincx, M. and Gooday, A. J.},
+   title = {Exponential decline of deep-sea ecosystem functioning linked to benthic biodiversity loss},
+   journal = {Current Biology},
+   volume = {18},
+   number = {1},
+   pages = {1-8},
+   ISSN = {0960-9822},
+   DOI = {10.1016/j.cub.2007.11.056},
+   url = {<Go to ISI>://WOS:000252292400021},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN3544,
+   author = {Davidson, N. C.},
+   title = {How much wetland has the world lost? Long-term and recent trends in global wetland area},
+   journal = {Marine and Freshwater Research},
+   volume = {65},
+   number = {10},
+   pages = {934-941},
+   ISSN = {13231650 (ISSN)},
+   DOI = {10.1071/MF14173},
+   url = {http://www.scopus.com/inward/record.url?eid=2-s2.0-84907434605&partnerID=40&md5=a8dade617ded2e8435f60a8118ff9281},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN900,
+   author = {Davis, B. and Johnston, R. and Baker, R. and Sheaves, M.},
+   title = {Fish Utilisation of Wetland Nurseries with Complex Hydrological Connectivity},
+   journal = {Plos One},
+   volume = {7},
+   number = {11},
+   pages = {11},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0049107},
+   url = {<Go to ISI>://WOS:000312272600045},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN3548,
+   author = {de Groot, R. and Brander, L. and van der Ploeg, S. and Costanza, R. and Bernard, F. and Braat, L. and Christie, M. and Crossman, N. and Ghermandi, A. and Hein, L. and Hussain, S. and Kumar, P. and McVittie, A. and Portela, R. and Rodriguez, L. C. and ten Brink, P. and van Beukering, P.},
+   title = {Global estimates of the value of ecosystems and their services in monetary units},
+   journal = {Ecosystem Services},
+   volume = {1},
+   number = {1},
+   pages = {50-61},
+   ISSN = {22120416 (ISSN)},
+   DOI = {10.1016/j.ecoser.2012.07.005},
+   url = {http://www.scopus.com/inward/record.url?eid=2-s2.0-84868275668&partnerID=40&md5=a2596dadc77fe45288d799c0cb2b803d
+http://ac.els-cdn.com/S2212041612000101/1-s2.0-S2212041612000101-main.pdf?_tid=fc32f8b0-bff3-11e5-893c-00000aab0f27&acdnat=1453349213_fda13babe42062e8a23c69ed98ff4709},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@inbook{RN4172,
+   author = {De Groot, Rudolf S and Kumar, P. and Van der Ploeg, S. and Sukhdev, P.},
+   title = {Estimates of monetary values of ecosystem services},
+   booktitle = {The Economics of Ecosystems and Biodiversity: Ecological and Economic Foundations},
+   editor = {Kumar, P.},
+   publisher = {Earthscan},
+   address = {London, UK},
+   ISBN = {9781849712125},
+   year = {2010},
+   type = {Book Section}
+}
+
+@article{RN5290,
+   author = {Dell, A. I. and Bender, J. A. and Branson, K. and Couzin, I. D. and de Polavieja, G. G. and Noldus, L. P. and Perez-Escudero, A. and Perona, P. and Straw, A. D. and Wikelski, M. and Brose, U.},
+   title = {Automated image-based tracking and its application in ecology},
+   journal = {Trends in Ecology & Evolution},
+   volume = {29},
+   number = {7},
+   pages = {417-28},
+   ISSN = {1872-8383 (Electronic)
+0169-5347 (Linking)},
+   DOI = {10.1016/j.tree.2014.05.004},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/24908439},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN5672,
+   author = {Dembowski, J. B.},
+   title = {Notes on the behavior of the fiddler crab},
+   journal = {The Biological Bulletin},
+   volume = {50},
+   number = {3},
+   pages = {179-201},
+   year = {1926},
+   type = {Journal Article}
+}
+
+@article{RN5714,
+   author = {Depatra, K. D. and Levin, L. A.},
+   title = {Evidence of the Passive Deposition of Meiofauna into Fiddler Crab Burrows},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {125},
+   number = {3},
+   pages = {173-192},
+   ISSN = {0022-0981},
+   url = {<Go to ISI>://WOS:A1989T536500001},
+   year = {1989},
+   type = {Journal Article}
+}
+
+@article{RN5826,
+   author = {D'Hondt, S.},
+   title = {Consequences of the cretaceous/paleogene mass extinction for marine ecosystems},
+   journal = {Annual Review of Ecology Evolution and Systematics},
+   volume = {36},
+   pages = {295-317},
+   ISSN = {1543-592x},
+   url = {<Go to ISI>://WOS:000234684900013},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN4292,
+   author = {Dittmann, S.},
+   title = {Effects of macrobenthic burrows on infaunal communities in tropical tidal flats},
+   journal = {Marine Ecology Progress Series},
+   volume = {134},
+   number = {1-3},
+   pages = {119-130},
+   ISSN = {0171-8630},
+   DOI = {DOI 10.3354/meps134119},
+   url = {<Go to ISI>://WOS:A1996UK71800012},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@article{RN5852,
+   author = {Doretto, A. and Piano, E. and Larson, C. E.},
+   title = {The River Continuum Concept: lessons from the past and perspectives for the future},
+   journal = {Canadian Journal of Fisheries and Aquatic Sciences},
+   volume = {77},
+   number = {11},
+   pages = {1853-1864},
+   ISSN = {0706-652x},
+   url = {<Go to ISI>://WOS:000586660600010},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN3821,
+   author = {Duffy, J. Emmett},
+   title = {Why biodiversity is important to the functioning of real-world ecosystems},
+   journal = {Frontiers in Ecology and the Environment},
+   volume = {7},
+   number = {8},
+   pages = {437-444},
+   ISSN = {1540-9295},
+   DOI = {10.1890/070195},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN4395,
+   author = {Duke, Norman C. and Kovacs, John M. and Griffiths, Anthony D. and Preece, Luke and Hill, Duncan J. E. and van Oosterzee, Penny and Mackenzie, Jock and Morning, Hailey S. and Burrows, Damien},
+   title = {Large-scale dieback of mangroves in Australia},
+   journal = {Marine and Freshwater Research},
+   ISSN = {1323-1650},
+   DOI = {10.1071/mf16322},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN4332,
+   author = {Dunbar, K. and Baker, R. and Sheaves, M.},
+   title = {Effects of forest width on fish use of fringing mangroves in a highly urbanised tropical estuary},
+   journal = {Marine and Freshwater Research},
+   DOI = {10.1071/MF16098},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN5716,
+   author = {Dye, A. H. and Lasiak, T. A.},
+   title = {Microbenthos, Meiobenthos and Fiddler-Crabs - Trophic Interactions in a Tropical Mangrove Sediment},
+   journal = {Marine Ecology Progress Series},
+   volume = {32},
+   number = {2-3},
+   pages = {259-264},
+   ISSN = {0171-8630},
+   url = {<Go to ISI>://WOS:A1986E112800016},
+   year = {1986},
+   type = {Journal Article}
+}
+
+@article{RN5397,
+   author = {Escapa, M. and Iribarne, O. and Navarro, D.},
+   title = {Effects of the intertidal burrowing crab Chasmagnathus granulatus on infaunal zonation patterns, tidal behavior, and risk of mortality},
+   journal = {Estuaries},
+   volume = {27},
+   number = {1},
+   pages = {120-131},
+   ISSN = {0160-8347},
+   DOI = {Doi 10.1007/Bf02803566},
+   url = {<Go to ISI>://WOS:000221048900011},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN5328,
+   author = {Escapa, M. and Minkoff, D. R. and Perillo, G. M. E. and Iribarne, O.},
+   title = {Direct and indirect effects of burrowing crab Chasmagnathus granulatus activities on erosion of southwest Atlantic Sarcocornia-dominated marshes},
+   journal = {Limnology and Oceanography},
+   volume = {52},
+   number = {6},
+   pages = {2340-2349},
+   ISSN = {0024-3590},
+   DOI = {DOI 10.4319/lo.2007.52.6.2340},
+   url = {<Go to ISI>://WOS:000251129700002},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN5378,
+   author = {Escapa, Mauricio and Perillo, Gerardo M. E. and Iribarne, Oscar},
+   title = {Sediment dynamics modulated by burrowing crab activities in contrasting SW Atlantic intertidal habitats},
+   journal = {Estuarine, Coastal and Shelf Science},
+   volume = {80},
+   number = {3},
+   pages = {365-373},
+   ISSN = {02727714},
+   DOI = {10.1016/j.ecss.2008.08.020},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN4827,
+   author = {Fairweather, P. G.},
+   title = {Determining the 'health' of estuaries: Priorities for ecological research},
+   journal = {Australian Journal of Ecology},
+   volume = {24},
+   number = {4},
+   pages = {441-451},
+   ISSN = {0307-692x},
+   url = {<Go to ISI>://WOS:000081839900013},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN3566,
+   author = {Fanjul, E. and Bazterrica, M. C. and Escapa, M. and Grela, M. A. and Iribarne, O.},
+   title = {Impact of crab bioturbation on benthic flux and nitrogen dynamics of Southwest Atlantic intertidal marshes and mudflats},
+   journal = {Estuarine Coastal and Shelf Science},
+   volume = {92},
+   number = {4},
+   pages = {629-638},
+   ISSN = {0272-7714},
+   DOI = {10.1016/j.ecss.2011.03.002},
+   url = {<Go to ISI>://WOS:000291184300012
+http://ac.els-cdn.com/S0272771411000837/1-s2.0-S0272771411000837-main.pdf?_tid=539e5cce-d472-11e5-99f7-00000aacb360&acdnat=1455602500_3c009dfdb8cdb15c57959227ddc433c8},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN5325,
+   author = {Fanjul, Eugenia and Escapa, Mauricio and Montemayor, Diana and Addino, Mariana and Alvarez, María Fernanda and Grela, María A. and Iribarne, Oscar},
+   title = {Effect of crab bioturbation on organic matter processing in South West Atlantic intertidal sediments},
+   journal = {Journal of Sea Research},
+   volume = {95},
+   pages = {206-216},
+   ISSN = {13851101},
+   DOI = {10.1016/j.seares.2014.05.005},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@techreport{RN3927,
+   author = {FAO},
+   title = {Valuing coastal ecosystems as economic assets},
+   institution = {Food and Agriculture Organization},
+   year = {2016},
+   type = {Report}
+}
+
+@article{RN5804,
+   author = {Faria, S. C. and Provete, D. B. and Thurman, C. L. and McNamara, J. C.},
+   title = {Phylogenetic patterns and the adaptive evolution of osmoregulation in fiddler crabs (Brachyura, Uca)},
+   journal = {Plos One},
+   volume = {12},
+   number = {2},
+   ISSN = {1932-6203},
+   url = {<Go to ISI>://WOS:000394231800128},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN5284,
+   author = {Ferrari, R. and Bryson, M. and Bridge, T. and Hustache, J. and Williams, S. B. and Byrne, M. and Figueira, W.},
+   title = {Quantifying the response of structural complexity and community composition to environmental change in marine communities},
+   journal = {Glob Chang Biol},
+   volume = {22},
+   number = {5},
+   pages = {1965-75},
+   ISSN = {1365-2486 (Electronic)
+1354-1013 (Linking)},
+   DOI = {10.1111/gcb.13197},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26679689},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5249,
+   author = {Ferrari, R. and Figueira, W. F. and Pratchett, M. S. and Boube, T. and Adam, A. and Kobelkowsky-Vidrio, T. and Doo, S. S. and Atwood, T. B. and Byrne, M.},
+   title = {3D photogrammetry quantifies growth and external erosion of individual coral colonies and skeletons},
+   journal = {Sci Rep},
+   volume = {7},
+   number = {1},
+   pages = {16737},
+   ISSN = {2045-2322 (Electronic)
+2045-2322 (Linking)},
+   DOI = {10.1038/s41598-017-16408-z},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29196651},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN5288,
+   author = {Ferrari, Renata and McKinnon, David and He, Hu and Smith, Ryan and Corke, Peter and González-Rivero, Manuel and Mumby, Peter and Upcroft, Ben},
+   title = {Quantifying Multiscale Habitat Structural Complexity: A Cost-Effective Framework for Underwater 3D Modelling},
+   journal = {Remote Sensing},
+   volume = {8},
+   number = {2},
+   pages = {113},
+   ISSN = {2072-4292},
+   DOI = {10.3390/rs8020113},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@misc{RN5755,
+   year = {2017},
+   type = {Computer Program}
+}
+
+@article{RN4743,
+   author = {Figueira, Will and Ferrari, Renata and Weatherby, Elyse and Porter, Augustine and Hawes, Steven and Byrne, Maria},
+   title = {Accuracy and Precision of Habitat Structural Complexity Metrics Derived from Underwater Photogrammetry},
+   journal = {Remote Sensing},
+   volume = {7},
+   number = {12},
+   pages = {16883-16900},
+   ISSN = {2072-4292},
+   DOI = {10.3390/rs71215859},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN5824,
+   author = {Finnegan, S. and Heim, N. A. and Peters, S. E. and Fischer, W. W.},
+   title = {Climate change and the selective signature of the Late Ordovician mass extinction},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {109},
+   number = {18},
+   pages = {6829-6834},
+   ISSN = {0027-8424},
+   url = {<Go to ISI>://WOS:000303602100021
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3345012/pdf/pnas.1117039109.pdf},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN5607,
+   author = {Flores, A. A. V. and Abrantes, K. and Paula, J.},
+   title = {Estimating abundance and spatial distribution patterns of the bubble crab Dotilla fenestrata (Crustacea: Brachyura)},
+   journal = {Austral Ecology},
+   volume = {30},
+   pages = {14-23},
+   DOI = {https://doi.org/10.1111/j.1442-9993.2005.01409.x},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN5680,
+   author = {Florey, C. L. and Moore, P. A.},
+   title = {Analysis and description of burrow structure in four species of freshwater crayfishes (Decapoda: Astacoidea: Cambaridae) using photogrammetry to recreate casts as 3D models},
+   journal = {Journal of Crustacean Biology},
+   volume = {39},
+   number = {6},
+   pages = {711-719},
+   ISSN = {0278-0372},
+   DOI = {10.1093/jcbiol/ruz075},
+   url = {<Go to ISI>://WOS:000507311500006},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN5051,
+   author = {Fogo, B. R. and Sanches, F. H. C. and Costa, T. M.},
+   title = {Testing the dear enemy relationship in fiddler crabs: Is there a difference between fighting conspecific and heterospecific opponents?},
+   journal = {Behav Processes},
+   volume = {162},
+   pages = {90-96},
+   ISSN = {1872-8308 (Electronic)
+0376-6357 (Linking)},
+   DOI = {10.1016/j.beproc.2019.02.001},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30738811},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN5265,
+   author = {Forsmoo, J. and Anderson, K. D. and Macleod, C. J. A. and Wilkinson, M. E. and DeBell, L. and Brazier, R. E.},
+   title = {Structure from motion photogrammetry in ecology: Does the choice of software matter?},
+   journal = {Ecology and Evolution},
+   volume = {9},
+   pages = {12964-12979},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN5718,
+   author = {Fraser, B. T. and Congalton, R. G.},
+   title = {Issues in Unmanned Aerial Systems (UAS) Data Collection of Complex Forest Environments},
+   journal = {Remote Sensing},
+   volume = {10},
+   number = {6},
+   DOI = {ARTN 908
+10.3390/rs10060908},
+   url = {<Go to ISI>://WOS:000436561800102},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN5231,
+   author = {Fratini, S. and Cannicci, S. and Abincha, Lydia M. and Vannini, M.},
+   title = {Feeding, temporal, and spatial preferences of Metopograpsus thukuhar (Decapoda; Grapsidae): an opportunistic mangrove dweller},
+   journal = {Journal of Crustacean Biology},
+   volume = {20},
+   number = {2},
+   pages = {326-333},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@misc{RN5141,
+   pages = {1434-1441},
+   year = {2010},
+   type = {Conference Paper}
+}
+
+@book{RN5820,
+   author = {Futuyma, Douglas J.},
+   title = {Evolutionary biology},
+   publisher = {Sinauer Associates},
+   address = {Sunderland, Mass.},
+   edition = {3rd},
+   pages = {xviii, 763, 49 p.},
+   ISBN = {0878931899 (cloth)},
+   year = {1998},
+   type = {Book}
+}
+
+@article{RN3600,
+   author = {Gagic, V. and Bartomeus, I. and Jonsson, T. and Taylor, A. and Winqvist, C. and Fischer, C. and Slade, E. M. and Steffan-Dewenter, I. and Emmerson, M. and Potts, S. G. and Tscharntke, T. and Weisser, W. and Bommarco, R.},
+   title = {Functional identity and diversity of animals predict ecosystem functioning better than species-based indices},
+   journal = {Proceedings of the Royal Society B-Biological Sciences},
+   volume = {282},
+   number = {1801},
+   ISSN = {0962-8452},
+   DOI = {UNSP 20142620
+10.1098/rspb.2014.2620},
+   url = {<Go to ISI>://WOS:000350077000014
+http://rspb.royalsocietypublishing.org/content/royprsb/282/1801/20142620.full.pdf},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN3599,
+   author = {Gamfeldt, L. and Lefcheck, J. S. and Byrnes, J. E. K. and Cardinale, B. J. and Duffy, J. E. and Griffin, J. N.},
+   title = {Marine biodiversity and ecosystem functioning: what's known and what's next?},
+   journal = {Oikos},
+   volume = {124},
+   number = {3},
+   pages = {252-265},
+   ISSN = {0030-1299},
+   DOI = {10.1111/oik.01549},
+   url = {<Go to ISI>://WOS:000350462700002
+http://onlinelibrary.wiley.com/store/10.1111/oik.01549/asset/oik1549.pdf?v=1&t=ikw5rci6&s=c67f7b058b08c9c019fd311e6c1e1be289984b1b},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN5458,
+   author = {Gao, L. and Rieseberg, Loren H.},
+   title = {While neither universally applicable nor practical operationally, the biological species concept continues to offer a compelling framework for studying species and speciation},
+   journal = {National Science Review},
+   volume = {7},
+   number = {8},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@misc{RN5760,
+   year = {2018},
+   type = {Computer Program}
+}
+
+@article{RN5332,
+   author = {Gittman, R. K. and Keller, D. A.},
+   title = {Fiddler crabs facilitate Spartina alterniflora growth, mitigating periwinkle overgrazing of marsh habitat},
+   journal = {Ecology},
+   volume = {94},
+   number = {12},
+   pages = {2709-18},
+   ISSN = {0012-9658 (Print)
+0012-9658 (Linking)},
+   DOI = {10.1890/13-0152.1},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/24597218},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN5610,
+   author = {Golley, F. and Odum, H. T. and Wilson, R. F.},
+   title = {The structure and metabolism of a Puerto Rican red mangrove forest in May},
+   journal = {Ecology},
+   volume = {43},
+   number = {1},
+   pages = {9-19},
+   year = {1962},
+   type = {Journal Article}
+}
+
+@article{RN5517,
+   author = {Goodall, Victoria L. and Ferreira, Sam M. and Funston, Paul J. and Maruping-Mzileni, Nkabeng},
+   title = {Uncovering hidden states in African lion movement data using hidden Markov models},
+   journal = {Wildlife Research},
+   volume = {46},
+   number = {4},
+   pages = {296},
+   ISSN = {1035-3712},
+   DOI = {10.1071/wr18004},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN4270,
+   author = {Greenfield, B. L. and Kraan, C. and Pilditch, C. A. and Thrush, S. F.},
+   title = {Mapping functional groups can provide insight into ecosystem functioning and potential resilience of intertidal sandflats},
+   journal = {Marine Ecology Progress Series},
+   volume = {548},
+   pages = {1-10},
+   ISSN = {0171-8630
+1616-1599},
+   DOI = {10.3354/meps11692},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5333,
+   author = {Gribsholt, B. and Kostka, J. E. and Kristensen, E.},
+   title = {Impact of fiddler crabs and plant roots on sediment biogeochemistry in a Georgia saltmarsh},
+   journal = {Marine Ecology Progress Series},
+   volume = {259},
+   pages = {237-251},
+   ISSN = {0171-8630},
+   DOI = {DOI 10.3354/meps259237},
+   url = {<Go to ISI>://WOS:000186029000020},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN4372,
+   author = {Griffin, Kingsley J. and Hedge, Luke H. and González-Rivero, Manuel and Hoegh-Guldberg, Ove I. and Johnston, Emma L.},
+   title = {An evaluation of semi-automated methods for collecting ecosystem-level data in temperate marine systems},
+   journal = {Ecology and Evolution},
+   ISSN = {20457758},
+   DOI = {10.1002/ece3.3041},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN5479,
+   author = {Gruber, Jodie and Kahn, Andrew and Backwell, Patricia R. Y.},
+   title = {Risks and rewards: balancing costs and benefits of predator avoidance in a fiddler crab},
+   journal = {Animal Behaviour},
+   volume = {158},
+   pages = {9-13},
+   ISSN = {00033472},
+   DOI = {10.1016/j.anbehav.2019.09.014},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@misc{RN5146,
+   pages = {2033-2040},
+   year = {2011},
+   type = {Conference Paper}
+}
+
+@article{RN5342,
+   author = {Gutierrez, J. L. and Jones, C. G. and Groffman, P. M. and Findlay, S. E. G. and Iribarne, O. O. and Ribeiro, P. D. and Bruschetti, C. M.},
+   title = {The contribution of crab burrow excavation to carbon availability in surficial salt-marsh sediments},
+   journal = {Ecosystems},
+   volume = {9},
+   number = {4},
+   pages = {647-658},
+   ISSN = {1432-9840},
+   DOI = {10.1007/s10021-006-0135-9},
+   url = {<Go to ISI>://WOS:000238292700012},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN5180,
+   author = {Hackel, T. and Wegner, J. D. and Schindler, K.},
+   title = {Contour detection in unstructured 3D point clouds},
+   journal = {2016 Ieee Conference on Computer Vision and Pattern Recognition (Cvpr)},
+   pages = {1610-1618},
+   ISSN = {1063-6919},
+   DOI = {10.1109/Cvpr.2016.178},
+   url = {<Go to ISI>://WOS:000400012301070},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5802,
+   author = {Halsey, L. G.},
+   title = {Terrestrial movement energetics: current knowledge and its application to the optimising animal},
+   journal = {Journal of Experimental Biology},
+   volume = {219},
+   number = {10},
+   pages = {1424-1431},
+   ISSN = {0022-0949},
+   url = {<Go to ISI>://WOS:000376118500007},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5861,
+   author = {Halsey, L. G. and Green, J. A. and Wilson, R. P. and Frappell, P. B.},
+   title = {Accelerometry to Estimate Energy Expenditure during Activity: Best Practice with Data Loggers},
+   journal = {Physiological and Biochemical Zoology},
+   volume = {82},
+   number = {4},
+   pages = {396-404},
+   ISSN = {1522-2152},
+   url = {<Go to ISI>://WOS:000266373400011},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN5800,
+   author = {Handegard, N. O. and Boswell, K. M. and Ioannou, C. C. and Leblanc, S. P. and Tjostheim, D. B. and Couzin, I. D.},
+   title = {The dynamics of coordinated group hunting and collective information transfer among schooling prey},
+   journal = {Curr Biol},
+   volume = {22},
+   number = {13},
+   pages = {1213-7},
+   ISSN = {1879-0445 (Electronic)
+0960-9822 (Linking)},
+   DOI = {10.1016/j.cub.2012.04.050},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22683262},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN5652,
+   author = {Harris, C. R. and Millman, K. J. and van der Walt, S. J. and Gommers, R. and Virtanen, P. and Cournapeau, D. and Wieser, E. and Taylor, J. and Berg, S. and Smith, N. J. and Kern, R. and Picus, M. and Hoyer, S. and van Kerkwijk, M. H. and Brett, M. and Haldane, A. and del R?o, J. F. and Wiebe, M. and Peterson, P. and G?rard-Marchant, P. and Sheppard, K. and Reddy, T. and Weckesser, W. and Abbasi, H. and Gohlke, C. and Oliphant, T. E.},
+   title = {Array programming with NumPy},
+   journal = {Nature},
+   volume = {585},
+   number = {7825},
+   pages = {357-362},
+   ISSN = {0028-0836},
+   DOI = {10.1038/s41586-020-2649-2},
+   url = {<Go to ISI>://WOS:000571285200009},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4931,
+   author = {Hart, E. M. and Barmby, P. and LeBauer, D. and Michonneau, F. and Mount, S. and Mulrooney, P. and Poisot, T. and Woo, K. H. and Zimmerman, N. B. and Hollister, J. W.},
+   title = {Ten Simple Rules for Digital Data Storage},
+   journal = {PLoS Comput Biol},
+   volume = {12},
+   number = {10},
+   pages = {e1005097},
+   ISSN = {1553-7358 (Electronic)
+1553-734X (Linking)},
+   DOI = {10.1371/journal.pcbi.1005097},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27764088},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5673,
+   author = {Hayasaka, I.},
+   title = {The burrowing activities of certain crabs and their geologic significance},
+   journal = {American Midland Naturalist},
+   volume = {16},
+   number = {1},
+   pages = {99-103},
+   year = {1935},
+   type = {Journal Article}
+}
+
+@article{RN4991,
+   author = {He, N. and Liu, C. and Piao, S. and Sack, L. and Xu, L. and Luo, Y. and He, J. and Han, X. and Zhou, G. and Zhou, X. and Lin, Y. and Yu, Q. and Liu, S. and Sun, W. and Niu, S. and Li, S. and Zhang, J. and Yu, G.},
+   title = {Ecosystem Traits Linking Functional Traits to Macroecology},
+   journal = {Trends Ecol Evol},
+   ISSN = {1872-8383 (Electronic)
+0169-5347 (Linking)},
+   DOI = {10.1016/j.tree.2018.11.004},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30527959},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN4427,
+   author = {Hemmi, J. M.},
+   title = {Burrow surveillance in fiddler crabs I. Description of behaviour},
+   journal = {Journal of Experimental Biology},
+   volume = {206},
+   number = {22},
+   pages = {3935-3950},
+   ISSN = {0022-0949
+1477-9145},
+   DOI = {10.1242/jeb.00632},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN4428,
+   author = {Hemmi, J. M.},
+   title = {Burrow surveillance in fiddler crabs II. The sensory cues},
+   journal = {Journal of Experimental Biology},
+   volume = {206},
+   number = {22},
+   pages = {3951-3961},
+   ISSN = {0022-0949
+1477-9145},
+   DOI = {10.1242/jeb.00636},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN4430,
+   author = {Hemmi, J. M. and Marshall, J. and Pix, W. and Vorobyev, M. and Zeil, J.},
+   title = {The variable colours of the fiddler crab Uca vomeris and their relation to background and predation},
+   journal = {The Journal of Experimental Biology},
+   volume = {209},
+   number = {Pt 20},
+   pages = {4140-53},
+   ISSN = {0022-0949 (Print)
+0022-0949 (Linking)},
+   DOI = {10.1242/jeb.02483},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/17023607},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN4429,
+   author = {Hemmi, J. M. and Zeil, J.},
+   title = {Robust judgement of inter-object distance by an arthropod},
+   journal = {Nature},
+   volume = {421},
+   pages = {160-163},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN5635,
+   author = {Hergenroder, R. and Barth, F. G.},
+   title = {The Release of Attack and Escape Behavior by Vibratory Stimuli in a Wandering Spider (Cupiennius-Salei Keys)},
+   journal = {Journal of Comparative Physiology},
+   volume = {152},
+   number = {3},
+   pages = {347-358},
+   DOI = {Doi 10.1007/Bf00606240},
+   url = {<Go to ISI>://WOS:A1983RF81500006},
+   year = {1983},
+   type = {Journal Article}
+}
+
+@misc{RN5373,
+   DOI= {10.5281/zenodo.3820270},
+   url = {https://doi.org/10.5281/zenodo.3820270},
+   year = {2020},
+   type = {Computer Program}
+}
+
+@article{RN5698,
+   author = {Herrera, César and Sheaves, Janine and Baker, Ronald and Sheaves, Marcus},
+   title = {A computer vision approach for studying fossorial and cryptic crabs},
+   journal = {bioRxiv},
+   pages = {2020.05.11.085803},
+   DOI = {10.1101/2020.05.11.085803},
+   url = {https://www.biorxiv.org/content/biorxiv/early/2020/05/12/2020.05.11.085803.full.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5791,
+   author = {Hewitt, B. M. and Yap, M. H. and Hodson-Tole, E. F. and Kennerley, A. J. and Sharp, P. S. and Grant, R. A.},
+   title = {A novel automated rodent tracker (ART), demonstrated in a mouse model of amyotrophic lateral sclerosis},
+   journal = {J Neurosci Methods},
+   volume = {300},
+   pages = {147-156},
+   ISSN = {1872-678X (Electronic)
+0165-0270 (Linking)},
+   DOI = {10.1016/j.jneumeth.2017.04.006},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28414047},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN5783,
+   author = {Hockett, J. C. and Kritzler, H.},
+   title = {Capture-recapture methods with Uca},
+   journal = {The Biological Bulletin},
+   volume = {142},
+   number = {1},
+   pages = {49-56},
+   year = {1972},
+   type = {Journal Article}
+}
+
+@article{RN5738,
+   author = {Holyoak, M. and Casagrandi, R. and Nathan, R. and Revilla, E. and Spiegel, O.},
+   title = {Trends and missing parts in the study of movement ecology},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {105},
+   number = {49},
+   pages = {19060-19065},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.0800483105},
+   url = {<Go to ISI>://WOS:000261706600010
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614715/pdf/zpq19060.pdf},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN5638,
+   author = {Horch, K.},
+   title = {The acoustic behavior of the ghost crab Ocypode cordimana Latreille, 1818 (Decapoda, Brachyura)},
+   journal = {Crustaceana},
+   volume = {29},
+   number = {2},
+   pages = {193-205},
+   year = {1975},
+   type = {Journal Article}
+}
+
+@misc{RN5055,
+   month = {2018-04-24},
+   url = {http://www.marinespecies.org},
+   year = {2019},
+   type = {Online Database}
+}
+
+@article{RN5806,
+   author = {Hoye, T. T. and Arje, J. and Bjerge, K. and Hansen, O. L. P. and Iosifidis, A. and Leese, F. and Mann, H. M. R. and Meissner, K. and Melvad, C. and Raitoharju, J.},
+   title = {Deep learning and computer vision will transform entomology},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {118},
+   number = {2},
+   ISSN = {0027-8424},
+   url = {<Go to ISI>://WOS:000607277100005},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5653,
+   author = {Hunter, J. D.},
+   title = {Matplotlib: A 2D graphics environment},
+   journal = {Computing in Science & Engineering},
+   volume = {9},
+   number = {3},
+   pages = {90-95},
+   ISSN = {1521-9615},
+   DOI = {Doi 10.1109/Mcse.2007.55},
+   url = {<Go to ISI>://WOS:000245668100019},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN5013,
+   author = {Iken, K. and Konar, B. and Benedetti-Cecchi, L. and Cruz-Motta, J. J. and Knowlton, A. and Pohle, G. and Mead, A. and Miloslavich, P. and Wong, M. and Trott, T. and Mieszkowska, N. and Riosmena-Rodriguez, R. and Airoldi, L. and Kimani, E. and Shirayama, Y. and Fraschetti, S. and Ortiz-Touzet, M. and Silva, A.},
+   title = {Large-Scale Spatial Distribution Patterns of Echinoderms in Nearshore Rocky Habitats},
+   journal = {Plos One},
+   volume = {5},
+   number = {11},
+   ISSN = {1932-6203},
+   url = {<Go to ISI>://WOS:000283839100006},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN5717,
+   author = {James, M. R. and Robson, S. and Smith, M. W.},
+   title = {3-D uncertainty-based topographic change detection with structure-from-motion photogrammetry: precision maps for ground control and directly georeferenced surveys},
+   journal = {Earth Surface Processes and Landforms},
+   volume = {42},
+   number = {12},
+   pages = {1769-1788},
+   ISSN = {0197-9337},
+   url = {<Go to ISI>://WOS:000411021500002
+https://onlinelibrary-wiley-com.elibrary.jcu.edu.au/doi/full/10.1002/esp.4125},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN5350,
+   author = {Joo, R. and Boone, M. E. and Clay, T. A. and Patrick, S. C. and Clusella-Trullas, S. and Basille, M.},
+   title = {Navigating through the r packages for movement},
+   journal = {J Anim Ecol},
+   ISSN = {1365-2656 (Electronic)
+0021-8790 (Linking)},
+   DOI = {10.1111/1365-2656.13116},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/31587257},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN5300,
+   author = {Jordao, J. M. and Oliveira, R. F.},
+   title = {Comparison of non-invasive methods for quantifying population density of the fiddler crab Uca tangeri},
+   journal = {Journal of the Marine Biological Association of the United Kingdom},
+   volume = {83},
+   number = {5},
+   pages = {981-982},
+   ISSN = {0025-3154},
+   url = {<Go to ISI>://WOS:000186421900018},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN5825,
+   author = {Kaiho, K. and Oshima, N. and Adachi, K. and Adachi, Y. and Mizukami, T. and Fujibayashi, M. and Saito, R.},
+   title = {Global climate change driven by soot at the K-Pg boundary as the cause of the mass extinction},
+   journal = {Scientific Reports},
+   volume = {6},
+   ISSN = {2045-2322},
+   url = {<Go to ISI>://WOS:000379566700001},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN4729,
+   author = {Kamal, Shafagh and Lee, Shing Yip and Warnken, Jan and McMahon, Sean},
+   title = {Investigating three-dimensional mesoscale habitat complexity and its ecological implications using low-cost RGB-D sensor technology},
+   journal = {Methods in Ecology and Evolution},
+   volume = {5},
+   number = {9},
+   pages = {845-853},
+   ISSN = {2041210X},
+   DOI = {10.1111/2041-210x.12210},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN4562,
+   author = {Kardish, Melissa R. and Mueller, Ulrich G. and Amador-Vargas, Sabrina and Dietrich, Emma I. and Ma, Rong and Barrett, Brian and Fang, Chi-Chun},
+   title = {Blind trust in unblinded observation in Ecology, Evolution, and Behavior},
+   journal = {Frontiers in Ecology and Evolution},
+   volume = {3},
+   ISSN = {2296-701X},
+   DOI = {10.3389/fevo.2015.00051},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@misc{RN5759,
+   year = {2020},
+   type = {Computer Program}
+}
+
+@article{RN5334,
+   author = {Katz, L. C.},
+   title = {Effects of Burrowing by the Fiddler Crab, Uca-Pugnax (Smith)},
+   journal = {Estuarine and Coastal Marine Science},
+   volume = {11},
+   number = {2},
+   pages = {233-237},
+   ISSN = {0302-3524},
+   DOI = {Doi 10.1016/S0302-3524(80)80043-0},
+   url = {<Go to ISI>://WOS:A1980KD17100008},
+   year = {1980},
+   type = {Journal Article}
+}
+
+@article{RN4876,
+   author = {Kelleway, J. J. and Cavanaugh, K. and Rogers, K. and Feller, I. C. and Ens, E. and Doughty, C. and Saintilan, N.},
+   title = {Review of the ecosystem service implications of mangrove encroachment into salt marshes},
+   journal = {Glob Chang Biol},
+   volume = {23},
+   number = {10},
+   pages = {3967-3983},
+   ISSN = {1365-2486 (Electronic)
+1354-1013 (Linking)},
+   DOI = {10.1111/gcb.13727},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28544444},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN4605,
+   author = {Kent, C. P. Salgado and McGuinness, K. A.},
+   title = {A Comparison of Methods for Estimating Relative Abundance of Grapsid Crabs},
+   journal = {Wetlands Ecology and Management},
+   volume = {14},
+   number = {1},
+   pages = {1-9},
+   ISSN = {0923-4861
+1572-9834},
+   DOI = {10.1007/s11273-004-5075-6},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN5708,
+   author = {Kim, Tae Won and Lee, Ju Hyung and Choe, Jae C.},
+   title = {Not all crabs are created equal: diverse evolutionary paths of female preferences for courtship structures in fiddler crabs (genus Uca)},
+   journal = {Behavioral Ecology and Sociobiology},
+   volume = {71},
+   number = {2},
+   ISSN = {0340-5443
+1432-0762},
+   DOI = {10.1007/s00265-016-2235-7},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN5624,
+   author = {Kim, T. W. and Ryu, H. J. and Choi, J. B. and Choe, J. C.},
+   title = {Tower construction by the manicure crab Cleistostoma dilatatum during dry periods on an intertidal mudflat},
+   journal = {Journal of Ethology},
+   volume = {29},
+   number = {3},
+   pages = {459-465},
+   ISSN = {0289-0771},
+   DOI = {10.1007/s10164-011-0280-2},
+   url = {<Go to ISI>://WOS:000294179500008},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN3579,
+   author = {Klaine, S. J.},
+   title = {Wetlands - from Controversial Ecosystems to Integral Parts of Watershed Management},
+   journal = {Environmental Toxicology and Chemistry},
+   volume = {12},
+   number = {12},
+   pages = {2155-2156},
+   ISSN = {0730-7268},
+   DOI = {Doi 10.1897/1552-8618(1993)12[2155:Wfceti]2.0.Co;2},
+   url = {<Go to ISI>://WOS:A1993MG94100001},
+   year = {1993},
+   type = {Journal Article}
+}
+
+@article{RN5782,
+   author = {Koga, T.},
+   title = {Movements between microhabitats depending on reproduction and life history in the sand-bubbler crab Scopimera globosa},
+   journal = {Marine Ecology Progress Series},
+   volume = {117},
+   number = {1-3},
+   pages = {65-74},
+   ISSN = {0171-8630},
+   DOI = {DOI 10.3354/meps117065},
+   url = {<Go to ISI>://WOS:A1995QJ84800007},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN5524,
+   author = {Koga, T. and Goshima, S. and Murai, M. and Poovachiranon, S.},
+   title = {Predation and cannibalism by the male fiddler crab Uca tetragonon},
+   journal = {Journal of Ethology},
+   volume = {13},
+   number = {2},
+   pages = {181-183},
+   ISSN = {0289-0771},
+   DOI = {Doi 10.1007/Bf02350110},
+   url = {<Go to ISI>://WOS:A1995TP94500006},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN5281,
+   author = {Konovalov, Dmitry A. and Saleh, Alzayat and Bradley, Michael and Sankupellay, Mangalam and Marini, Simone and Sheaves, Marcus},
+   title = {Underwater Fish Detection with Weak Multi-Domain Supervision},
+   journal = {International Joint Conference on Neural Networks (IJCNN)},
+   pages = {1-8},
+   DOI = {10.1109/ijcnn.2019.8851907},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN789,
+   author = {Kostylev, V. E. and Erlandsson, J. and Ming, M. Y. and Williams, G. A.},
+   title = {The relative importance of habitat complexity and surface area in assessing biodiversity: Fractal application on rocky shores},
+   journal = {Ecological Complexity},
+   volume = {2},
+   number = {3},
+   pages = {272-286},
+   ISSN = {1476-945X},
+   DOI = {10.1016/j.ecocom.2005.04.002},
+   url = {<Go to ISI>://WOS:000231008800007
+http://ac.els-cdn.com/S1476945X05000255/1-s2.0-S1476945X05000255-main.pdf?_tid=080806c6-d9a5-11e3-980d-00000aacb361&acdnat=1399879038_4083fa4f118700b5d85a15e0319ea88e},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN5815,
+   author = {Kranstauber, B. and Cameron, A. and Weinzerl, R. and Fountain, T. and Tilak, S. and Wikelski, M. and Kays, R.},
+   title = {The Movebank data model for animal tracking},
+   journal = {Environmental Modelling & Software},
+   volume = {26},
+   number = {6},
+   pages = {834-835},
+   ISSN = {1364-8152},
+   url = {<Go to ISI>://WOS:000288583600017},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN4219,
+   author = {Kristensen, E.},
+   title = {Organic matter diagenesis at the oxic/anoxic interface in coastal marine sediments, with emphasis on the role of burrowing animals},
+   journal = {Hydrobiologia},
+   volume = {426},
+   number = {1-3},
+   pages = {1-24},
+   ISSN = {0018-8158},
+   DOI = {Doi 10.1023/A:1003980226194},
+   url = {<Go to ISI>://WOS:000088580000002
+https://link-springer-com.elibrary.jcu.edu.au/content/pdf/10.1023/A:1003980226194.pdf},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN3292,
+   author = {Kristensen, Erik},
+   title = {Mangrove crabs as ecosystem engineers; with emphasis on sediment processes},
+   journal = {Journal of Sea Research},
+   volume = {59},
+   number = {1-2},
+   pages = {30-43},
+   ISSN = {13851101},
+   DOI = {10.1016/j.seares.2007.05.004},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN3256,
+   author = {Kristensen, E. and Alongi, D. M.},
+   title = {Control by fiddler crabs (Uca vocans) and plant roots (Avicennia marina) on carbon, iron, and sulfur biogeochemistry in mangrove sediment},
+   journal = {Limnology and Oceanography},
+   volume = {51},
+   number = {4},
+   pages = {1557-1571},
+   ISSN = {0024-3590},
+   url = {<Go to ISI>://WOS:000239262200001},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN5684,
+   author = {Kristensen, E. and Penha-Lopes, G. and Delefosse, M. and Valdemarsen, T. and Quintana, C. O. and Banta, G. T.},
+   title = {What is bioturbation? The need for a precise definition for fauna in aquatic sciences},
+   journal = {Marine Ecology Progress Series},
+   volume = {446},
+   pages = {285-302},
+   ISSN = {0171-8630
+1616-1599},
+   DOI = {10.3354/meps09506},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN5150,
+   author = {Kumar, K. and Agarwal, S.},
+   title = {An efficient hierarchical approach for background subtraction and shadow removal using adaptive GMM and color discrimination},
+   journal = {International Journal of Computer Applications},
+   volume = {75},
+   number = {12},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN5646,
+   author = {Land, M. and Layne, J.},
+   title = {The Visual Control of Behavior in Fiddler-Crabs .1. Resolution, Thresholds and the Role of the Horizon},
+   journal = {Journal of Comparative Physiology a-Sensory Neural and Behavioral Physiology},
+   volume = {177},
+   number = {1},
+   pages = {81-90},
+   ISSN = {0340-7594},
+   DOI = {Doi 10.1007/Bf00243400},
+   url = {<Go to ISI>://WOS:A1995RJ03900007
+https://link-springer-com.elibrary.jcu.edu.au/content/pdf/10.1007/BF00243400.pdf},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN5645,
+   author = {Land, M. and Layne, J.},
+   title = {The Visual Control of Behavior in Fiddler-Crabs .2. Tracking Control-Systems in Courtship and Defense},
+   journal = {Journal of Comparative Physiology a-Sensory Neural and Behavioral Physiology},
+   volume = {177},
+   number = {1},
+   pages = {91-103},
+   ISSN = {0340-7594},
+   DOI = {Doi 10.1007/Bf00243401},
+   url = {<Go to ISI>://WOS:A1995RJ03900008
+https://link-springer-com.elibrary.jcu.edu.au/content/pdf/10.1007/BF00243401.pdf},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN4969,
+   author = {Langrock, R. and King, R. and Matthiopoulos, J. and Thomas, L. and Fortin, D. and Morales, J. M.},
+   title = {Flexible and practical modeling of animal telemetry data: hidden Markov models and extensions},
+   journal = {Ecology},
+   volume = {93},
+   number = {11},
+   pages = {2336-42},
+   ISSN = {0012-9658 (Print)
+0012-9658 (Linking)},
+   DOI = {Doi 10.1890/11-2241.1},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/23236905},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN4826,
+   author = {Larsen, B. B. and Miller, E. C. and Rhodes, M. K. and Wiens, J. J.},
+   title = {Inordinate Fondness Multiplied and Redistributed: The Number of Species on Earth and the New Pie of Life},
+   journal = {Quarterly Review of Biology},
+   volume = {92},
+   number = {3},
+   pages = {229-265},
+   ISSN = {0033-5770},
+   url = {<Go to ISI>://WOS:000408309200001},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN317,
+   author = {Larsen, S. and Ormerod, S. J.},
+   title = {Anthropogenic modification disrupts species co-occurrence in stream invertebrates},
+   journal = {Global Change Biology},
+   volume = {20},
+   number = {1},
+   pages = {51-60},
+   ISSN = {1354-1013},
+   DOI = {10.1111/gcb.12355},
+   url = {<Go to ISI>://WOS:000327998600006
+http://onlinelibrary.wiley.com/store/10.1111/gcb.12355/asset/gcb12355.pdf?v=1&t=i2zikjg3&s=80140dc79b73399f0a99860a7c1d61a3578e8c7a},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN3736,
+   author = {Lavorel, S. and Garnier, E.},
+   title = {Predicting changes in community composition and ecosystem functioning from plant traits: revisiting the Holy Grail},
+   journal = {Functional Ecology},
+   volume = {16},
+   number = {5},
+   pages = {545-556},
+   ISSN = {0269-8463},
+   DOI = {10.1046/j.1365-2435.2002.00664.x},
+   url = {<Go to ISI>://WOS:000178119300001
+http://onlinelibrary.wiley.com/store/10.1046/j.1365-2435.2002.00664.x/asset/j.1365-2435.2002.00664.x.pdf?v=1&t=imvm2nq9&s=5bca6a0d18724c16ebd766f9213f11e6f761b409},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN5858,
+   author = {Lavorel, S. and Grigulis, K. and McIntyre, S. and Williams, N. S. G. and Garden, D. and Dorrough, J. and Berman, S. and Quetier, F. and Thebault, A. and Bonis, A.},
+   title = {Assessing functional diversity in the field - methodology matters!},
+   journal = {Functional Ecology},
+   volume = {22},
+   number = {1},
+   pages = {134-147},
+   ISSN = {0269-8463},
+   url = {<Go to ISI>://WOS:000252443600018},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN5647,
+   author = {Layne, J. and Land, M. and Zeil, J.},
+   title = {Fiddler crabs use the visual horizon to distinguish predators from conspecifics: A review of the evidence},
+   journal = {Journal of the Marine Biological Association of the United Kingdom},
+   volume = {77},
+   number = {1},
+   pages = {43-54},
+   ISSN = {0025-3154},
+   DOI = {Doi 10.1017/S0025315400033774},
+   url = {<Go to ISI>://WOS:A1997WL38000005
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E7869DC96D5B8C49B0170E158D969451/S0025315400033774a.pdf/div-class-title-fiddler-crabs-use-the-visual-horizon-to-distinguish-predators-from-conspecifics-a-review-of-the-evidence-div.pdf},
+   year = {1997},
+   type = {Journal Article}
+}
+
+@article{RN5774,
+   author = {Layne, J. E. and Barnes, W. J. and Duncan, L. M.},
+   title = {Mechanisms of homing in the fiddler crab Uca rapax. 1. Spatial and temporal characteristics of a system of small-scale navigation},
+   journal = {J Exp Biol},
+   volume = {206},
+   number = {Pt 24},
+   pages = {4413-23},
+   ISSN = {0022-0949 (Print)
+0022-0949 (Linking)},
+   DOI = {10.1242/jeb.00660},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/14610027},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN5306,
+   author = {Lee, S. Y.},
+   title = {Ecological role of grapsid crabs in mangrove ecosystems: a review},
+   journal = {Marine and Freshwater Research},
+   volume = {49},
+   number = {4},
+   pages = {335-343},
+   ISSN = {1323-1650},
+   url = {<Go to ISI>://WOS:000076623200008},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{RN5821,
+   author = {Lefcheck, J. S. and Bastazini, V. A. G. and Griffin, J. N.},
+   title = {Choosing and using multiple traits in functional diversity research},
+   journal = {Environmental Conservation},
+   volume = {42},
+   number = {2},
+   pages = {104-107},
+   ISSN = {0376-8929},
+   url = {<Go to ISI>://WOS:000354047300003},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN3596,
+   author = {Lefcheck, J. S. and Duffy, J. E.},
+   title = {Multitrophic functional diversity predicts ecosystem functioning in experimental assemblages of estuarine consumers},
+   journal = {Ecology},
+   volume = {96},
+   number = {11},
+   pages = {2973-2983},
+   ISSN = {0012-9658},
+   DOI = {10.1890/14-1977.1},
+   url = {<Go to ISI>://WOS:000365521600012
+http://onlinelibrary.wiley.com.elibrary.jcu.edu.au/store/10.1890/14-1977.1/asset/ecy201596112973.pdf?v=1&t=ikw5r1t0&s=63ec4ea702ad7261356705bb77751738c4539557},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN4970,
+   author = {Leos-Barajas, V. and Gangloff, E. J. and Adam, T. and Langrock, R. and van Beest, F. M. and Nabe-Nielsen, J. and Morales, J. M.},
+   title = {Multi-scale Modeling of Animal Movement and General Behavior Data Using Hidden Markov Models with Hierarchical Structures},
+   journal = {Journal of Agricultural Biological and Environmental Statistics},
+   volume = {22},
+   number = {3},
+   pages = {232-248},
+   ISSN = {1085-7117},
+   DOI = {10.1007/s13253-017-0282-9},
+   url = {<Go to ISI>://WOS:000409098500003},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN5380,
+   author = {Li, Shanze and Cui, Baoshan and Xie, Tian and Bai, Junhong and Wang, Qing and Shi, Wei},
+   title = {What drives the distribution of crab burrows in different habitats of intertidal salt marshes, Yellow River Delta, China},
+   journal = {Ecological Indicators},
+   volume = {92},
+   pages = {99-106},
+   ISSN = {1470160X},
+   DOI = {10.1016/j.ecolind.2017.11.003},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN3257,
+   author = {Lim, S. S. L.},
+   title = {Fiddler crab burrow morphology: How do burrow dimensions and bioturbative activities compare in sympatric populations of Uca vocans (Linnaeus, 1758) and U-annulipes (H. Milne Edwards, 1837)?},
+   journal = {Crustaceana},
+   volume = {79},
+   pages = {525-540},
+   ISSN = {0011-216X},
+   DOI = {10.1163/156854006777584241},
+   url = {<Go to ISI>://WOS:000239513600002},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN5777,
+   author = {Lin, H. C. and Su, Y. C. and Su, S. H.},
+   title = {A comparative study of osmoregulation in four fiddler crabs (Ocypodidae: Uca)},
+   journal = {Zoological Science},
+   volume = {19},
+   number = {6},
+   pages = {643-50},
+   ISSN = {0289-0003 (Print)
+0289-0003 (Linking)},
+   DOI = {10.2108/zsj.19.643},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/12130791},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN4825,
+   author = {Locey, K. J. and Lennon, J. T.},
+   title = {Scaling laws predict global microbial diversity},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {113},
+   number = {21},
+   pages = {5970-5},
+   ISSN = {1091-6490 (Electronic)
+0027-8424 (Linking)},
+   DOI = {10.1073/pnas.1521291113},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27140646},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5304,
+   author = {Lourenco, R. and Paula, J. and Henriques, M.},
+   title = {Estimating the size of Uca tangeri (Crustacea : Ocypodidae) without massive crab capture},
+   journal = {Scientia Marina},
+   volume = {64},
+   number = {4},
+   pages = {437-439},
+   ISSN = {0214-8358},
+   url = {<Go to ISI>://WOS:000166234700011},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@book{RN4178,
+   author = {MA},
+   title = {Millennium Ecosystem Assessment. Ecosystems and human well-being: Wetlands and water synthesis},
+   publisher = {World Resources Institute},
+   address = {Washington DC, USA},
+   series = {Millennium Ecosystem Assessment},
+   pages = {68},
+   ISBN = {1-56973-597-2},
+   year = {2005},
+   type = {Book}
+}
+
+@article{RN5713,
+   author = {MacArthur, R. H. and MacArthur, J. W.},
+   title = {On bird species diversity},
+   journal = {Ecology},
+   volume = {42},
+   number = {3},
+   pages = {594-598},
+   year = {1961},
+   type = {Journal Article}
+}
+
+@article{RN4822,
+   author = {Mace, Georgina M. and Reyers, Belinda and Alkemade, Rob and Biggs, Reinette and Chapin, F. Stuart and Cornell, Sarah E. and Díaz, Sandra and Jennings, Simon and Leadley, Paul and Mumby, Peter J. and Purvis, Andy and Scholes, Robert J. and Seddon, Alistair W. R. and Solan, Martin and Steffen, Will and Woodward, Guy},
+   title = {Approaches to defining a planetary boundary for biodiversity},
+   journal = {Global Environmental Change},
+   volume = {28},
+   pages = {289-297},
+   ISSN = {09593780},
+   DOI = {10.1016/j.gloenvcha.2014.07.009},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN5301,
+   author = {Macia, A. and Quincardete, I. and Paula, J.},
+   title = {A comparison of alternative methods for estimating population density of the fiddler crab Uca annulipes at Saco Mangrove, Inhaca Island (Mozambique)},
+   journal = {Hydrobiologia},
+   volume = {449},
+   number = {1-3},
+   pages = {213-219},
+   ISSN = {0018-8158},
+   url = {<Go to ISI>://WOS:000170059800023
+https://link-springer-com.elibrary.jcu.edu.au/content/pdf/10.1023/A:1017502817087.pdf},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@book{RN5613,
+   author = {MacKenzie, D. I. and Nichols, J. D. and Royle, J. A. and Pollock, K. H. and Bailey, L. and Hines, J. E.},
+   title = {Occupancy estimation and modeling: inferring patterns and dynamics of species occurrence},
+   publisher = {Academic Press, Elsevier},
+   address = {London},
+   edition = {Second},
+   year = {2018},
+   type = {Book}
+}
+
+@article{RN5460,
+   author = {Mallet, James},
+   title = {Alternative views of biological species: reproductively isolated units or genotypic clusters?},
+   journal = {National Science Review},
+   volume = {7},
+   number = {8},
+   pages = {1401-1407},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5829,
+   author = {Malpeli, K. C. and Weiskopf, S. R. and Thompson, L. and Hardy, A. R.},
+   title = {What are the effects of climate variability and change on ungulate life-histories, population dynamics, and migration in North America? A systematic map protocol},
+   journal = {Environmental Evidence},
+   volume = {9},
+   number = {1},
+   url = {<Go to ISI>://WOS:000571748200003},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5361,
+   author = {Marcos, M. S. and David, L. and Penaflor, E. and Ticzon, V. and Soriano, M.},
+   title = {Automated benthic counting of living and non-living components in Ngedarrak Reef, Palau via subsurface underwater video},
+   journal = {Environ Monit Assess},
+   volume = {145},
+   number = {1-3},
+   pages = {177-84},
+   ISSN = {0167-6369 (Print)
+0167-6369 (Linking)},
+   DOI = {10.1007/s10661-007-0027-2},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/18210202},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN5327,
+   author = {Martinetto, Paulina and Montemayor, Diana I. and Alberti, Juan and Costa, César S. B. and Iribarne, Oscar},
+   title = {Crab Bioturbation and Herbivory May Account for Variability in Carbon Sequestration and Stocks in South West Atlantic Salt Marshes},
+   journal = {Frontiers in Marine Science},
+   volume = {3},
+   ISSN = {2296-7745},
+   DOI = {10.3389/fmars.2016.00122},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5298,
+   author = {Mathiassen, J. R. and Misimi, E. and Bondo, M. and Veliyulin, E. and Ostvik, S. O.},
+   title = {Trends in application of imaging technologies to inspection of fish and fish products},
+   journal = {Trends in Food Science & Technology},
+   volume = {22},
+   number = {6},
+   pages = {257-275},
+   ISSN = {0924-2244},
+   DOI = {10.1016/j.tifs.2011.03.006},
+   url = {<Go to ISI>://WOS:000292354400001
+https://pdf.sciencedirectassets.com/271911/1-s2.0-S0924224411X00055/1-s2.0-S0924224411000434/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEL7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIA8FcZERSvUrz1YCyQNMyLmG%2FTB5sY2GznabvDTJbjK9AiEA9y29Kn9CI%2F3j2%2FpwJS1t4pjI3JkcruXdtTdQeu%2BCD2gqtAMIVxACGgwwNTkwMDM1NDY4NjUiDKkjxGnKoqHhMvH8RCqRA0U5qnh1hXtPuM%2B%2Bw4Bk1SH%2BNt%2BwYfqQnuKY%2FuAqRBuEXqS5ljtjo1kY3IdsE26uzrSr93MskumudpqeXDIkRSjOa%2B3%2FAL%2BUHhwf59Xo0d359Kco%2F02UOAf%2BuGdZBbCjvwV21OXXxE%2Fv71Lpj35Svae6heCJ8DtCtJIO5So5TQMd%2BdUPDO%2F%2B7gI7bl0CahgV3gyGFvNhE%2B77IqezyIiA%2ByQb18llF2QdoAdASxMQszQILt145eRtvFeykMi%2FwkBdzz6UN8IiWEMRDORCs0ea6gDhrmaUebsVcssi85ZV4WgAsqFE4dYqWJW%2BbCQkvIvZs8WMgIl9wIi8E6r8tw2EEoBWIB%2FE1cMHIi0vr6H56ZdA3iVyjEeMbrBbz2KW8ToEi0YKIrUg6b7KjCKNuGOoppkxgyISsPs41pQBnBqEYnG4X1e5nmTlOoNZUZEnnSmacLe%2Birj4zX27Vn0dwVyhYocdsYIqCngIy0lCDVNtOS05SMs3djsAl%2FdWpOOvC%2BYYIm0x8Fx%2Bz0eDZhot4TqOujCqMJ2OqvEFOusBUU9viRee6XHvUrvd6d7jQbQT3t5%2FF4U8ukBi6ipBEDobX%2FGtYAB1dLAkVG4s73SGhK4ni9dSnXiWJcdsDTtf08rewpVx12j%2FdQmHojTGspd5sG8KjYFFxeA11A2mCt8dRwiRTaVr%2FsrtLNvyuhOc6uDNGkwX37dcbeZbzVFZWQpbISnLiknJM6VuDiTG4%2F6oW1iOHa4vlT5tpsH%2B6kaBD0G2R2r1QUZQuhUGr36%2BD9KllkzPoqTdMxB8U9GR8O69p%2F6sQ0XGP9vheMJ35Ayc29ZFECYdqkCV4dmjvWq1P692KknH0objay1vkw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200124T065459Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4BDHJ2UD%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2f1d51e7cc8c669f5b7b23854c323d6477dd7daad5a488d22532326f2f7121dc&hash=cdd41f9f4f33074637302239588cffbd16aeaa209c7c9eff96f70aa33a66349e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0924224411000434&tid=spdf-5cb297ac-1e31-4b32-a7df-c84f7b3081e2&sid=eeff2eeb63d72840791ba2008195f49fbb77gxrqa&type=client},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN3249,
+   author = {Mazumder, D. and Saintilan, N.},
+   title = {A comparison of sampling techniques in the assessment of burrowing crab abundance in saltmarsh and mangrove environments},
+   journal = {Wetlands (Australia)},
+   volume = {21},
+   number = {1},
+   pages = {1-15},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN5710,
+   author = {McCraith, B. J. and Gardner, L. R. and Wethey, D. S. and Moore, W. S.},
+   title = {The effect of fiddler crab burrowing on sediment mixing and radionuclide profiles along a topographic gradient in a southeastern salt marsh},
+   journal = {Journal of Marine Research},
+   volume = {61},
+   number = {3},
+   pages = {359-390},
+   ISSN = {0022-2402},
+   DOI = {Doi 10.1357/002224003322201232},
+   url = {<Go to ISI>://WOS:000184565700004},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN3327,
+   author = {McInnes, R. J.},
+   title = {Recognizing Ecosystem Services from Wetlands of International Importance: An Example from Sussex, UK},
+   journal = {Wetlands},
+   volume = {33},
+   number = {6},
+   pages = {1001-1017},
+   ISSN = {0277-5212},
+   DOI = {10.1007/s13157-013-0458-1},
+   url = {<Go to ISI>://WOS:000327386800003
+http://link.springer.com/article/10.1007%2Fs13157-013-0458-1
+http://download.springer.com/static/pdf/348/art%253A10.1007%252Fs13157-013-0458-1.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs13157-013-0458-1&token2=exp=1439424392~acl=%2Fstatic%2Fpdf%2F348%2Fart%25253A10.1007%25252Fs13157-013-0458-1.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs13157-013-0458-1*~hmac=51243686eafa4d38e35b4ac8aee5b9ae951acfb79ec99b3b323eb91d8793a5b4},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@inproceedings{RN5336,
+   author = {McKinney, W. and others},
+   title = {Data structures for statistical computing in python},
+   booktitle = {Proceedings of the 9th Python in Science Conference},
+   pages = {51-56},
+   year = {2010},
+   type = {Conference Proceedings}
+}
+
+@article{RN5859,
+   author = {McKinnon, E. A. and Love, O. P.},
+   title = {Ten years tracking the migrations of small landbirds: Lessons learned in the golden age of bio-logging},
+   journal = {Auk},
+   volume = {135},
+   number = {4},
+   pages = {834-856},
+   ISSN = {0004-8038},
+   url = {<Go to ISI>://WOS:000446824400002},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN5792,
+   author = {Mersch, D. P. and Crespi, A. and Keller, L.},
+   title = {Tracking Individuals Shows Spatial Fidelity Is a Key Regulator of Ant Social Organization},
+   journal = {Science},
+   volume = {340},
+   number = {6136},
+   pages = {1090-1093},
+   ISSN = {0036-8075},
+   DOI = {10.1126/science.1234316},
+   url = {<Go to ISI>://WOS:000319664500043},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN5810,
+   author = {Messier, J. and McGill, B. J. and Lechowicz, M. J.},
+   title = {How do traits vary across ecological scales? A case for trait-based ecology},
+   journal = {Ecology Letters},
+   volume = {13},
+   number = {7},
+   pages = {838-848},
+   ISSN = {1461-023x},
+   url = {<Go to ISI>://WOS:000278798100007},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN5676,
+   author = {Meysman, F. J. and Middelburg, J. J. and Heip, C. H.},
+   title = {Bioturbation: a fresh look at Darwin's last idea},
+   journal = {Trends Ecol Evol},
+   volume = {21},
+   number = {12},
+   pages = {688-95},
+   ISSN = {0169-5347 (Print)
+0169-5347 (Linking)},
+   DOI = {10.1016/j.tree.2006.08.002},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/16901581},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN4681,
+   author = {Meziane, T. and d'Agata, F. and Lee, S.Y.},
+   title = {Fate of mangrove organic matter along a subtropical estuary: small-scale exportation and contribution to the food of crab communities},
+   journal = {Marine Ecology Progress Series},
+   volume = {312},
+   pages = {15-27},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN4855,
+   author = {Michaels, Rachel E. and Zieman, Joseph C.},
+   title = {Fiddler crab (Uca spp.) burrows have little effect on surrounding sediment oxygen concentrations},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {448},
+   pages = {104-113},
+   ISSN = {00220981},
+   DOI = {10.1016/j.jembe.2013.06.020},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN4942,
+   author = {Michelot, T. and Langrock, R. and Patterson, T. A.},
+   title = {moveHMM: an R package for the statistical modelling of animal movement data using hidden Markov models},
+   journal = {Methods in Ecology and Evolution},
+   volume = {7},
+   number = {11},
+   pages = {1308-1315},
+   ISSN = {2041-210x},
+   DOI = {10.1111/2041-210x.12578},
+   url = {<Go to ISI>://WOS:000387669600006},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5293,
+   author = {Michener, W. K.},
+   title = {Meta-information concepts for ecological data management},
+   journal = {Ecological Informatics},
+   volume = {1},
+   number = {1},
+   pages = {3-7},
+   ISSN = {1574-9541},
+   DOI = {10.1016/j.ecoinf.2005.08.004},
+   url = {<Go to ISI>://WOS:000244785300002},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN5270,
+   author = {Michener, W. K. and Jones, M. B.},
+   title = {Ecoinformatics: supporting ecology as a data-intensive science},
+   journal = {Trends in Ecology & Evolution},
+   volume = {27},
+   number = {2},
+   pages = {85-93},
+   ISSN = {0169-5347},
+   DOI = {10.1016/j.tree.2011.11.016},
+   url = {<Go to ISI>://WOS:000300655200007
+https://pdf.sciencedirectassets.com/271938/1-s2.0-S0169534712X00028/1-s2.0-S0169534711003399/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIHsW8FUMJ9fl3Eo2gNWhNX%2B%2FjYI9HXJKKzT%2FYC72fSI1AiEAwMAtO4tUZ4UfHflRBEnBN78UGXJU8EJfSdp7%2FUSVOcsqtAMIPBACGgwwNTkwMDM1NDY4NjUiDOdwYTwmNOibrOqarCqRA0ol8lzb5qL4NlPb6yaTKOXydKhvB0lSok5ATieSIT%2B8ykrX9v5iIK%2BpKXz8nA8%2BP1y1l5n61b5zGmgh3t%2Bq4QgiddWdSfdddK0IxtOS6lKuXM8YHEmee7zXK3eeaOiVjHgi26A6vYC9X5y9heBYkSK3JA5tOvED6%2FtAp6Wr0Qo%2FJoXTwNf5EZbl4aylIBnJinIBjCO6%2BLkeCFEUbcaMuriJDC9oG10zPp%2Fju9I88FOHAbS4XaqNHDetwigbnVoDxf3F0UNOEz66U8AEMgReCivI7076aLPVZF%2FNL%2FLub2SfvgT8Rgw8qtSMtQLMWqFp7A4KYVynsTiQcw6O7YGBo3T5FsiTb%2BDrEgTPHOYRQWOjl%2F5NUdtJhz99k1%2BrnAPimq7A6xfSEkBA9N0pLsVbLDlVHy0QKD3T8mZdaQnG2JfrhWeedvDq%2BLsR8OXGYUMNk8TI5vL2TM8CIJKFWLG%2Fy%2FL1RfH7diq%2FiuRKMQPYFyVhwEC%2FGM1adcejHkY%2FoDZflKS1Ux9sp925QR2eW2K7QSkAMMm27%2FAFOusBa%2FfUtjAyDuIMLi%2BcFxmR83UxIqSCf%2F1cm1K7zWBSbqeTsbRbx2e30Nc1ow7%2FnEItuzY6k6aCRv0XrHvUQ9nDqpySmsM0s%2FYebneCw5UyjoAdh85OBktv9yNwaxHH3YlXZqIkBzVYW9KEZS0i0Z0z0pWA4PwBBhCdqgCnflX%2F84TejF9vdFBHed3OAYRC1c4z%2F3S64aNu97uGJVbkeGfVsLpQxS5JO%2Fy3U9WKFZepcN7qqI00buwT3DNFV4XpiB8CgwBKijUJI9XjH5172aPCcyDVDvnmCOf95vBn7ESK6Eu%2Bb%2B9ovO2bvoZFwA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200113T034751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY27MEK57S%2F20200113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=222e6ba0d8bbed87457ecea1806853c08dfd4aeb170633e7075fc1c29bf3aaaa&hash=ce1271fab52634ff3ab80016c1d41c922c4a4e655493e712990594d3536dfd6a&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0169534711003399&tid=spdf-d989dbb0-17d3-452c-9940-6cad81515439&sid=b383bbed158ac943b10af817426367b576acgxrqa&type=client},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN5525,
+   author = {Milner, R. N. C. and Detto, T. and Jennions, M. D. and Backwell, P. R. Y.},
+   title = {Hunting and predation in a fiddler crab},
+   journal = {Journal of Ethology},
+   volume = {28},
+   number = {1},
+   pages = {171-173},
+   ISSN = {0289-0771},
+   DOI = {10.1007/s10164-009-0156-x},
+   url = {<Go to ISI>://WOS:000273033200021},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN5011,
+   author = {Miloslavich, P. and Cruz-Motta, J. J. and Klein, E. and Iken, K. and Weinberger, V. and Konar, B. and Trott, T. and Pohle, G. and Bigatti, G. and Benedetti-Cecchi, L. and Shirayama, Y. and Mead, A. and Palomo, G. and Ortiz, M. and Gobin, J. and Sardi, A. and Diaz, J. M. and Knowlton, A. and Wong, M. and Peralta, A. C.},
+   title = {Large-Scale Spatial Distribution Patterns of Gastropod Assemblages in Rocky Shores},
+   journal = {Plos One},
+   volume = {8},
+   number = {8},
+   ISSN = {1932-6203},
+   url = {<Go to ISI>://WOS:000323115800056
+https://www-ncbi-nlm-nih-gov.elibrary.jcu.edu.au/pmc/articles/PMC3742765/pdf/pone.0071396.pdf},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN301,
+   author = {Mlambo, M. C.},
+   title = {Not all traits are 'functional': insights from taxonomy and biodiversity-ecosystem functioning research},
+   journal = {Biodiversity and Conservation},
+   volume = {23},
+   number = {3},
+   pages = {781-790},
+   ISSN = {0960-3115},
+   DOI = {10.1007/s10531-014-0618-5},
+   url = {<Go to ISI>://WOS:000331734800017
+http://link.springer.com/article/10.1007%2Fs10531-014-0618-5
+http://download.springer.com/static/pdf/940/art%253A10.1007%252Fs10531-014-0618-5.pdf?auth66=1417056254_917fec7d121a05f1add175ed44b71da4&ext=.pdf},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN5246,
+   author = {Mlambo, Reason and Woodhouse, Iain and Gerard, France and Anderson, Karen},
+   title = {Structure from Motion (SfM) Photogrammetry with Drone Data: A Low Cost Method for Monitoring Greenhouse Gas Emissions from Forests in Developing Countries},
+   journal = {Forests},
+   volume = {8},
+   number = {3},
+   pages = {68},
+   ISSN = {1999-4907},
+   DOI = {10.3390/f8030068},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN5691,
+   author = {Mohamed, Hassan and Nadaoka, Kazuo and Nakamura, Takashi},
+   title = {Towards Benthic Habitat 3D Mapping Using Machine Learning Algorithms and Structures from Motion Photogrammetry},
+   journal = {Remote Sensing},
+   volume = {12},
+   number = {1},
+   pages = {127},
+   ISSN = {2072-4292},
+   DOI = {10.3390/rs12010127},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4469,
+   author = {Mokhlesi, A. and Kamrani, E. and Backwell, P. and Sajjadi, M.},
+   title = {Study on the behaviour of two fiddler crabs, Uca sindensis and Uca annulipes (Decapoda: Ocypodidae), in Bandar Abbas, Iran},
+   journal = {Journal of the Marine Biological Association of the United Kingdom},
+   volume = {91},
+   number = {1},
+   pages = {245-249},
+   ISSN = {0025-3154},
+   DOI = {10.1017/S0025315410000172},
+   url = {<Go to ISI>://WOS:000287282500024},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN3848,
+   author = {Mora, C. and Tittensor, D. P. and Adl, S. and Simpson, A. G. B. and Worm, B.},
+   title = {How Many Species Are There on Earth and in the Ocean?},
+   journal = {Plos Biology},
+   volume = {9},
+   number = {8},
+   pages = {8},
+   ISSN = {1545-7885},
+   DOI = {10.1371/journal.pbio.1001127},
+   url = {<Go to ISI>://WOS:000294483000009
+http://journals.plos.org/plosbiology/article/asset?id=10.1371/journal.pbio.1001127.PDF},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN4973,
+   author = {Morales, J. M. and Ellner, S. P.},
+   title = {Scaling up animal movements in heterogeneous landscapes: The importance of behavior},
+   journal = {Ecology},
+   volume = {83},
+   number = {8},
+   pages = {2240-2247},
+   ISSN = {0012-9658},
+   url = {<Go to ISI>://WOS:000177434200018},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN5303,
+   author = {Mouton, E. C. and Felder, D. L.},
+   title = {Burrow distributions and population estimates for the fiddler crabs Uca spinicarpa and Uca longisignalis in a Gulf of Mexico salt marsh},
+   journal = {Estuaries},
+   volume = {19},
+   number = {1},
+   pages = {51-61},
+   ISSN = {0160-8347},
+   url = {<Go to ISI>://WOS:A1996TU21700006},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@article{RN3265,
+   author = {Murai, M. and Goshima, S. and Nakasone, Y.},
+   title = {Adaptive Droving Behavior Observed in the Fiddler Crab Uca-Vocans-Vocans},
+   journal = {Marine Biology},
+   volume = {76},
+   number = {2},
+   pages = {159-164},
+   ISSN = {0025-3162},
+   DOI = {10.1007/bf00392732},
+   url = {<Go to ISI>://WOS:A1983RR38800006
+http://download.springer.com/static/pdf/172/art%253A10.1007%252FBF00392732.pdf?auth66=1422507268_2ee9a48d9a3f7fc2dca85c7396fe647e&ext=.pdf},
+   year = {1983},
+   type = {Journal Article}
+}
+
+@article{RN5200,
+   author = {Murai, M. and Koga, T. and Goshima, S. and Poovachiranon, S.},
+   title = {Courtship and the Evolution of Underground Mating in Uca Tetragonon (Decapoda, Ocypodidae)},
+   journal = {Journal of Crustacean Biology},
+   volume = {15},
+   number = {4},
+   pages = {655-658},
+   ISSN = {0278-0372},
+   DOI = {Doi 10.2307/1548814},
+   url = {<Go to ISI>://WOS:A1995TD67000005},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN5814,
+   author = {Murray, N. J. and Phinn, S. R. and DeWitt, M. and Ferrari, R. and Johnston, R. and Lyons, M. B. and Clinton, N. and Thau, D. and Fuller, R. A.},
+   title = {The global distribution and trajectory of tidal flats},
+   journal = {Nature},
+   volume = {565},
+   number = {7738},
+   pages = {222-+},
+   ISSN = {0028-0836},
+   url = {<Go to ISI>://WOS:000455231000044},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN3656,
+   author = {Nagelkerken, I. and Blaber, S. J. M. and Bouillon, S. and Green, P. and Haywood, M. and Kirton, L. G. and Meynecke, J. O. and Pawlik, J. and Penrose, H. M. and Sasekumar, A. and Somerfield, P. J.},
+   title = {The habitat function of mangroves for terrestrial and marine fauna: A review},
+   journal = {Aquatic Botany},
+   volume = {89},
+   number = {2},
+   pages = {155-185},
+   ISSN = {0304-3770},
+   DOI = {10.1016/j.aquabot.2007.12.007},
+   url = {<Go to ISI>://WOS:000257964200008
+http://ac.els-cdn.com/S0304377007001830/1-s2.0-S0304377007001830-main.pdf?_tid=c3f874b2-fc6f-11e5-b891-00000aab0f27&acdnat=1459999446_65b1183f81bfac91799d11f725c3cec4},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN5655,
+   author = {Nalbach, H. O.},
+   title = {Discontinuous Turning Reaction during Escape in Soldier Crabs},
+   journal = {Journal of Experimental Biology},
+   volume = {148},
+   pages = {483-487},
+   ISSN = {0022-0949},
+   url = {<Go to ISI>://WOS:A1990CN22800031},
+   year = {1990},
+   type = {Journal Article}
+}
+
+@article{RN5036,
+   author = {Natalio, L. F. and Pardo, J. C. F. and Machado, G. B. O. and Fortuna, M. D. and Gallo, D. G. and Costa, T. M.},
+   title = {Potential effect of fiddler crabs on organic matter distribution: A combined laboratory and field experimental approach},
+   journal = {Estuarine Coastal and Shelf Science},
+   volume = {184},
+   pages = {158-165},
+   ISSN = {0272-7714},
+   DOI = {10.1016/j.ecss.2016.11.007},
+   url = {<Go to ISI>://WOS:000392778300016
+https://ac.els-cdn.com/S0272771416304279/1-s2.0-S0272771416304279-main.pdf?_tid=796320e4-81ac-477c-8ef1-5a0c362f26d3&acdnat=1552451524_8036b23a8fd939e0deda95dd1a0dbeae},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN4416,
+   author = {Nathan, R.},
+   title = {An emerging movement ecology paradigm},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {105},
+   number = {49},
+   pages = {19050-1},
+   ISSN = {1091-6490 (Electronic)
+0027-8424 (Linking)},
+   DOI = {10.1073/pnas.0808918105},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19060197},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN4413,
+   author = {Nathan, R. and Getz, W. M. and Revilla, E. and Holyoak, M. and Kadmon, R. and Saltz, D. and Smouse, P. E.},
+   title = {A movement ecology paradigm for unifying organismal movement research},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {105},
+   number = {49},
+   pages = {19052-9},
+   ISSN = {1091-6490 (Electronic)
+0027-8424 (Linking)},
+   DOI = {10.1073/pnas.0800375105},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19060196},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN5788,
+   author = {Nathan, R. and Giuggioli, L.},
+   title = {A milestone for movement ecology research},
+   journal = {Movement Ecology},
+   volume = {1},
+   number = {1},
+   pages = {1},
+   ISSN = {2051-3933 (Print)
+2051-3933 (Linking)},
+   DOI = {10.1186/2051-3933-1-1},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25709815},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN3279,
+   author = {Nerot, C. and Meziane, T. and Provost-Govrich, A. and Rybarczyk, H. and Lee, S. Y.},
+   title = {Role of grapsid crabs, Parasesarma erythrodactyla, in entry of mangrove leaves into an estuarine food web: a mesocosm study},
+   journal = {Marine Biology},
+   volume = {156},
+   number = {11},
+   pages = {2343-2352},
+   ISSN = {0025-3162},
+   DOI = {10.1007/s00227-009-1262-6},
+   url = {<Go to ISI>://WOS:000270180900013
+http://download.springer.com/static/pdf/547/art%253A10.1007%252Fs00227-009-1262-6.pdf?auth66=1422512073_2f04f416f8a8cd3ae35b9d1e69f18c5b&ext=.pdf},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN4481,
+   author = {Nobbs, M.},
+   title = {Effects of vegetation differ among three species of fiddler crabs (Uca spp.)},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {284},
+   number = {1-2},
+   pages = {41-50},
+   ISSN = {0022-0981},
+   DOI = {Pii S0022-0981(02)00488-4
+Doi 10.1016/S0022-0981(02)00488-4},
+   url = {<Go to ISI>://WOS:000180554000003},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN5004,
+   author = {Nobbs, Madeleine and Blamires, Sean J.},
+   title = {Fiddler crab spatial distributions are influenced by physiological stressors independent of sympatric interactions},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {491},
+   pages = {19-26},
+   ISSN = {00220981},
+   DOI = {10.1016/j.jembe.2017.03.007},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN4814,
+   author = {Nobbs, M. and McGuinness, K. A.},
+   title = {Developing methods for quantifying the apparent abundance of fiddler crabs (Ocypodidae: Uca) in mangrove habitats},
+   journal = {Australian Journal of Ecology},
+   volume = {24},
+   pages = {43-49},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN5794,
+   author = {Noldus, L. P. and Spink, A. J. and Tegelenbosch, R. A.},
+   title = {EthoVision: a versatile video tracking system for automation of behavioral experiments},
+   journal = {Behavior, Research Methods, Instruments, & Computers},
+   volume = {33},
+   number = {3},
+   pages = {398-414},
+   ISSN = {0743-3808 (Print)
+0743-3808 (Linking)},
+   DOI = {10.3758/bf03195394},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/11591072},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@phdthesis{RN5075,
+   author = {Nordhaus, Inga},
+   title = {Feeding ecology of the semi-terrestrial crab Ucides cordatus cordatus (Decapoda: Brachyura) in a mangrove forest in northern Brazil},
+   university = {Bremen University},
+   year = {2003},
+   type = {Thesis}
+}
+
+@article{RN5057,
+   author = {Nordhaus, I. and Diele, K. and Wolff, M.},
+   title = {Activity patterns, feeding and burrowing behaviour of the crab Ucides cordatus (Ucididae) in a high intertidal mangrove forest in North Brazil},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {374},
+   number = {2},
+   pages = {104-112},
+   ISSN = {0022-0981},
+   DOI = {10.1016/j.jembe.2009.04.002},
+   url = {<Go to ISI>://WOS:000267182800003},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN5847,
+   author = {O'Dor, R.},
+   title = {A census of marine life},
+   journal = {Bioscience},
+   volume = {54},
+   number = {2},
+   pages = {92-93},
+   ISSN = {0006-3568},
+   url = {<Go to ISI>://WOS:000188860900002},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN3933,
+   author = {Odum, Eugene P},
+   title = {Relationships between strcuture and function in the ecosystem},
+   journal = {The Ecological Society of Japan},
+   volume = {12},
+   number = {3},
+   pages = {108-118},
+   year = {1962},
+   type = {Journal Article}
+}
+
+@article{RN5793,
+   author = {Oleksyn, Semonn and Tosetto, Louise and Raoult, Vincent and Joyce, Karen E. and Williamson, Jane E.},
+   title = {Going Batty: The Challenges and Opportunities of Using Drones to Monitor the Behaviour and Habitat Use of Rays},
+   journal = {Drones},
+   volume = {5},
+   number = {1},
+   pages = {12},
+   ISSN = {2504-446X},
+   DOI = {10.3390/drones5010012},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5688,
+   author = {Olinger, L. K. and Scott, A. R. and McMurray, S. E. and Pawlik, J. R.},
+   title = {Growth estimates of Caribbean reef sponges on a shipwreck using 3D photogrammetry},
+   journal = {Scientific Reports},
+   volume = {9},
+   ISSN = {2045-2322},
+   DOI = {ARTN 18398
+10.1038/s41598-019-54681-2},
+   url = {<Go to ISI>://WOS:000501562100001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN5649,
+   author = {Ooi, T. L. and Wu, B. and He, Z. J. J.},
+   title = {Distance determined by the angular declination below the horizon},
+   journal = {Nature},
+   volume = {414},
+   number = {6860},
+   pages = {197-200},
+   ISSN = {0028-0836},
+   DOI = {Doi 10.1038/35102562},
+   url = {<Go to ISI>://WOS:000172029100045},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@misc{RN5335,
+   year = {2015},
+   type = {Computer Program}
+}
+
+@article{RN5674,
+   author = {Paarlberg, A. J. and Knaapen, M. A. F. and de Vries, M. B. and Hulscher, S. J. M. H. and Wang, Z. B.},
+   title = {Biological influences on morphology and bed composition of an intertidal flat},
+   journal = {Estuarine Coastal and Shelf Science},
+   volume = {64},
+   number = {4},
+   pages = {577-590},
+   ISSN = {0272-7714},
+   DOI = {10.1016/j.ecss.2005.04.008},
+   url = {<Go to ISI>://WOS:000231656200002},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN5857,
+   author = {Pakeman, R. J. and Quested, H. M.},
+   title = {Sampling plant functional traits: What proportion of the species need to be measured?},
+   journal = {Applied Vegetation Science},
+   volume = {10},
+   number = {1},
+   pages = {91-96},
+   ISSN = {1402-2001},
+   url = {<Go to ISI>://WOS:000245934700011},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN5833,
+   author = {Pankhurst, N. W. and Munday, P. L.},
+   title = {Effects of climate change on fish reproduction and early life history stages},
+   journal = {Marine and Freshwater Research},
+   volume = {62},
+   number = {9},
+   pages = {1015-1026},
+   ISSN = {1323-1650},
+   url = {<Go to ISI>://WOS:000295083900004},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN5704,
+   author = {Pardo, Juan C. F. and Stefanelli-Silva, Gabriel and Christy, John H. and Costa, Tânia M.},
+   title = {Fiddler crabs and their above-ground sedimentary structures: a review},
+   journal = {Journal of Ethology},
+   volume = {38},
+   number = {2},
+   pages = {137-154},
+   ISSN = {0289-0771
+1439-5444},
+   DOI = {10.1007/s10164-020-00647-1},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5432,
+   author = {Perillo, Gerardo M. E. and Minkoff, Dario R. and Piccolo, M. Cintia},
+   title = {Novel mechanism of stream formation in coastal wetlands by crab–fish–groundwater interaction},
+   journal = {Geo-Marine Letters},
+   volume = {25},
+   number = {4},
+   pages = {214-220},
+   ISSN = {0276-0460
+1432-1157},
+   DOI = {10.1007/s00367-005-0209-2},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN5242,
+   author = {Peso, M. and Curran, E. and Backwell, P. R.},
+   title = {Not what it looks like: mate-searching behaviour, mate preferences and clutch production in wandering and territory-holding female fiddler crabs},
+   journal = {R Soc Open Sci},
+   volume = {3},
+   number = {8},
+   pages = {160339},
+   ISSN = {2054-5703 (Print)
+2054-5703 (Linking)},
+   DOI = {10.1098/rsos.160339},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27853615},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5854,
+   author = {Peterson, Charles H. and Black, R.},
+   title = {An experimentalist's challenge: when artifacts of interventaion interact with treatments},
+   journal = {Marine Ecology Progress Series},
+   volume = {111},
+   number = {3},
+   pages = {289-297},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{RN5364,
+   author = {Phinn, Stuart R. and Roelfsema, Chris M. and Mumby, Peter J.},
+   title = {Multi-scale, object-based image analysis for mapping geomorphic and ecological zones on coral reefs},
+   journal = {International Journal of Remote Sensing},
+   volume = {33},
+   number = {12},
+   pages = {3768-3797},
+   ISSN = {0143-1161
+1366-5901},
+   DOI = {10.1080/01431161.2011.633122},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN5292,
+   author = {Piechaud, N. and Hunt, C. and Culverhouse, P. F. and Foster, N. L. and Howell, K. L.},
+   title = {Automated identification of benthic epifauna with computer vision},
+   journal = {Marine Ecology Progress Series},
+   volume = {615},
+   pages = {15-30},
+   ISSN = {0171-8630
+1616-1599},
+   DOI = {10.3354/meps12925},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN4313,
+   author = {Polidoro, B. A. and Carpenter, K. E. and Collins, L. and Duke, N. C. and Ellison, A. M. and Ellison, J. C. and Farnsworth, E. J. and Fernando, E. S. and Kathiresan, K. and Koedam, N. E. and Livingstone, S. R. and Miyagi, T. and Moore, G. E. and Vien, N. N. and Ong, J. E. and Primavera, J. H. and Salmo, S. G. and Sanciangco, J. C. and Sukardjo, S. and Wang, Y. M. and Yong, J. W. H.},
+   title = {The Loss of Species: Mangrove Extinction Risk and Geographic Areas of Global Concern},
+   journal = {PloS One},
+   volume = {5},
+   number = {4},
+   ISSN = {1932-6203},
+   DOI = {ARTN e10095 10.1371/journal.pone.0010095},
+   url = {<Go to ISI>://WOS:000276482000021
+http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0010095&type=printable},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN4592,
+   author = {Pommier, T. and Canback, B. and Riemann, L. and Bostrom, K. H. and Simu, K. and Lundberg, P. and Tunlid, A. and Hagstrom, A.},
+   title = {Global patterns of diversity and community structure in marine bacterioplankton},
+   journal = {Mol Ecol},
+   volume = {16},
+   number = {4},
+   pages = {867-80},
+   ISSN = {0962-1083 (Print)
+0962-1083 (Linking)},
+   DOI = {10.1111/j.1365-294X.2006.03189.x},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/17284217},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN5639,
+   author = {Popper, A. N. and Salmon, M. and Horch, K. W.},
+   title = {Acoustic detection and communication by decapod crustaceans},
+   journal = {Journal of Comparative Physiology A},
+   volume = {187},
+   pages = {83-89},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN5867,
+   author = {Price, S. A. and Schmitz, L.},
+   title = {A promising future for integrative biodiversity research: an increased role of scale-dependency and functional biology},
+   journal = {Philosophical Transactions of the Royal Society B-Biological Sciences},
+   volume = {371},
+   number = {1691},
+   ISSN = {0962-8436},
+   url = {<Go to ISI>://WOS:000374436100011},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN4520,
+   author = {Queiroz, Luciana de Souza and Rossi, Sergio and Calvet-Mir, Laura and Ruiz-Mallén, Isabel and García-Betorz, Sara and Salvà-Prat, Júlia and Meireles, Antônio Jeovah de Andrade},
+   title = {Neglected ecosystem services: Highlighting the socio-cultural perception of mangroves in decision-making processes},
+   journal = {Ecosystem Services},
+   volume = {26},
+   pages = {137-145},
+   ISSN = {22120416},
+   DOI = {10.1016/j.ecoser.2017.06.013},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@misc{RN5184,
+   pages = {https://www.R-project.org/},
+   year = {2018},
+   type = {Computer Program}
+}
+
+@article{RN5594,
+   author = {Ragionieri, L. and Fratini, S. and Schubart, C. D.},
+   title = {Revision of the Neosarmatium meinerti species complex (Decapoda: Brachyura: Sesarmidae), with descriptions of three pseudocryptic Indo–West pacific species},
+   journal = {THE RAFFLES BULLETIN OF ZOOLOGY},
+   volume = {60},
+   number = {1},
+   pages = {71-87},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN902,
+   author = {Reich, P. B. and Tilman, D. and Isbell, F. and Mueller, K. and Hobbie, S. E. and Flynn, D. F. B. and Eisenhauer, N.},
+   title = {Impacts of Biodiversity Loss Escalate Through Time as Redundancy Fades},
+   journal = {Science},
+   volume = {336},
+   number = {6081},
+   pages = {589-592},
+   ISSN = {0036-8075},
+   DOI = {10.1126/science.1217909},
+   url = {<Go to ISI>://WOS:000303498800046},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN4483,
+   author = {Reinsel, K. A.},
+   title = {Impact of fiddler crab foraging and tidal inundation on an intertidal sandflat: season-dependent effects in one tidal cycle},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {313},
+   number = {1},
+   pages = {1-17},
+   ISSN = {0022-0981},
+   DOI = {10.1016/j.jembe.2004.06.003},
+   url = {<Go to ISI>://WOS:000225377000001},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN5616,
+   author = {Reinsel, K. A. and Rittschof, D.},
+   title = {Environmental-Regulation of Foraging in the Sand Fiddler-Crab Uca-Pugilator (Bosc 1802)},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {187},
+   number = {2},
+   pages = {269-287},
+   ISSN = {0022-0981},
+   DOI = {Doi 10.1016/0022-0981(94)00192-G},
+   url = {<Go to ISI>://WOS:A1995QX14600009},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN5850,
+   author = {Renner, S. S. and Ricklefs, R. E.},
+   title = {Systematics and Biodiversity},
+   journal = {Trends in Ecology & Evolution},
+   volume = {9},
+   number = {2},
+   pages = {78-78},
+   ISSN = {0169-5347},
+   url = {<Go to ISI>://WOS:A1994MU94300018},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{RN5604,
+   author = {Ribeiro, Pablo D. and Daleo, Pedro and Iribarne, Oscar O.},
+   title = {Density affects mating mode and large male mating advantage in a fiddler crab},
+   journal = {Oecologia},
+   volume = {164},
+   number = {4},
+   pages = {931-941},
+   ISSN = {0029-8549
+1432-1939},
+   DOI = {10.1007/s00442-010-1801-3},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN2689,
+   author = {Ricklefs, Robert E.},
+   title = {A comprehensive framework for global patterns in biodiversity},
+   journal = {Ecology Letters},
+   volume = {7},
+   number = {1},
+   pages = {1-15},
+   ISSN = {1461-023X
+1461-0248},
+   DOI = {10.1046/j.1461-0248.2003.00554.x},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN3861,
+   author = {Ricklefs, R. E. and Latham, R. E. and Qian, H.},
+   title = {Global patterns of tree species richness in moist forests: distinguishing ecological influences and historical contingency},
+   journal = {Oikos},
+   volume = {86},
+   number = {2},
+   pages = {369-373},
+   ISSN = {0030-1299},
+   DOI = {10.2307/3546454},
+   url = {<Go to ISI>://WOS:000082100200018},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN5811,
+   author = {Roberts, T. E. and Bridge, T. C. and Caley, M. J. and Baird, A. H.},
+   title = {The Point Count Transect Method for Estimates of Biodiversity on Coral Reefs: Improving the Sampling of Rare Species},
+   journal = {Plos One},
+   volume = {11},
+   number = {3},
+   ISSN = {1932-6203},
+   DOI = {ARTN e0152335
+10.1371/journal.pone.0152335},
+   url = {<Go to ISI>://WOS:000372708000134
+https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0152335/1/pone.0152335.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210213%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210213T053026Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=c31f1450016e78c4bdab673a215b2de79eca05035019b067b5e6d77ee45d001f4216899ceaf6d60c1209eaeb32b7b60e4d7cebe255f4c405f63edd52919dfce9531619604a41f272c3109ff46f3843254459dac0c9ffa6b05299c5200528c63addba3d76ee97f8d4f0a1f94c46afee1cb98a05ec3efa691300c8cf829ae81ecd2454137ef80db7ba0231673bcbdf2cab341123e827705037cc662354164d40e510057dcc8a933308bec543697c5ccec31dfe4442385f1208057c5ec1ae76b5b75a57309a25eecdf3f177d0ed893e88eac510b60a03d429db58e7b82a91205ca00332fbe051e29ea08f56eb686e8dbdccc8701687b7f1cbacfd0433e474e021eb},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN4249,
+   author = {Robertson, A. I.},
+   title = {Leaf-Burying Crabs - Their Influence on Energy-Flow and Export from Mixed Mangrove Forests (Rhizophora Spp) in Northeastern Australia},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {102},
+   number = {2-3},
+   pages = {237-248},
+   ISSN = {0022-0981},
+   DOI = {Doi 10.1016/0022-0981(86)90179-6},
+   url = {<Go to ISI>://WOS:A1986F287700010},
+   year = {1986},
+   type = {Journal Article}
+}
+
+@article{RN4248,
+   author = {Robertson, A. I. and Daniel, P. A.},
+   title = {The Influence of Crabs on Litter Processing in High Intertidal Mangrove Forests in Tropical Australia},
+   journal = {Oecologia},
+   volume = {78},
+   number = {2},
+   pages = {191-198},
+   ISSN = {0029-8549},
+   DOI = {Doi 10.1007/Bf00377155},
+   url = {<Go to ISI>://WOS:A1989T021900006},
+   year = {1989},
+   type = {Journal Article}
+}
+
+@article{RN4793,
+   author = {Rosenberg, M. S.},
+   title = {The systematics and taxonomy of fiddler crabs: a phylogeny of the genus Uca},
+   journal = {Journal of Crustacean Biology},
+   volume = {21},
+   number = {3},
+   pages = {839-869},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN5574,
+   author = {Rosenberg, Michael S.},
+   title = {A fresh look at the biodiversity lexicon for fiddler crabs (Decapoda: Brachyura: Ocypodidae). Part 1: Taxonomy},
+   journal = {Journal of Crustacean Biology},
+   ISSN = {0278-0372
+1937-240X},
+   DOI = {10.1093/jcbiol/ruz057},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN5701,
+   author = {Rouhani, Mohammad and Lafarge, Florent and Alliez, Pierre},
+   title = {Semantic segmentation of 3D textured meshes for urban scene analysis},
+   journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+   volume = {123},
+   pages = {124-139},
+   ISSN = {09242716},
+   DOI = {10.1016/j.isprsjprs.2016.12.001},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN3285,
+   author = {Rozas, L. P. and Caldwell, P. and Minello, T. J.},
+   title = {The fishery value of salt marsh restoration projects},
+   journal = {Journal of Coastal Research},
+   pages = {37-50},
+   ISSN = {0749-0208},
+   url = {<Go to ISI>://WOS:000227787300004},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@book{RN5790,
+   author = {Ruppert, Edward E. and Barnes, Robert D. and Barnes, Robert D.},
+   title = {Invertebrate zoology},
+   publisher = {Saunders College Pub.},
+   address = {Fort Worth},
+   edition = {6th},
+   pages = {xii, 1056, 16, 30 p.},
+   ISBN = {0030266688},
+   url = {Contributor biographical information http://www.loc.gov/catdir/enhancements/fy1514/93085930-b.html
+Publisher description http://www.loc.gov/catdir/enhancements/fy1514/93085930-d.html},
+   year = {1994},
+   type = {Book}
+}
+
+@article{RN5862,
+   author = {Rutz, C. and Hays, G. C.},
+   title = {New frontiers in biologging science},
+   journal = {Biology Letters},
+   volume = {5},
+   number = {3},
+   pages = {289-292},
+   ISSN = {1744-9561},
+   url = {<Go to ISI>://WOS:000266144300001},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN5865,
+   author = {Saleh, A. and Laradji, I. H. and Konovalov, D. A. and Bradley, M. and Vazquez, D. and Sheaves, M.},
+   title = {A realistic fish-habitat dataset to evaluate algorithms for underwater visual analysis},
+   journal = {Scientific Reports},
+   volume = {10},
+   number = {1},
+   ISSN = {2045-2322},
+   url = {<Go to ISI>://WOS:000608588800002},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5132,
+   author = {Salmon, M.},
+   title = {Coastal Distribution Display and Sound Production by Florida Fiddler Crabs (Genus Uca)},
+   journal = {Animal Behaviour},
+   volume = {15},
+   number = {4},
+   pages = {449-&},
+   ISSN = {0003-3472},
+   DOI = {Doi 10.1016/0003-3472(67)90043-7},
+   url = {<Go to ISI>://WOS:A1967A170500009},
+   year = {1967},
+   type = {Journal Article}
+}
+
+@article{RN5633,
+   author = {Salmon, M.},
+   title = {Acoustic 'calling' by fiddler and ghost crabs},
+   journal = {Australian Museum Memoir},
+   volume = {18},
+   year = {1983},
+   type = {Journal Article}
+}
+
+@article{RN5343,
+   author = {Salmon, M.},
+   title = {The courtship, aggression and mating system of a “primitive” fiddler crab (Uca vocans: Ocypodidae)},
+   journal = {The Transactions of the Zoological Society of London},
+   volume = {37},
+   pages = {1-50},
+   DOI = {10.1111/j.1096-3642.1984.tb00067.x},
+   year = {1984},
+   type = {Journal Article}
+}
+
+@article{RN4456,
+   author = {Salmon, M.},
+   title = {On the Reproductive-Behavior of the Fiddler-Crab Uca-Thayeri, with Comparisons to Uca-Pugilator and Uca-Vocans - Evidence for Behavioral Convergence},
+   journal = {Journal of Crustacean Biology},
+   volume = {7},
+   number = {1},
+   pages = {25-44},
+   ISSN = {0278-0372},
+   DOI = {Doi 10.2307/1548623},
+   url = {<Go to ISI>://WOS:A1987G008800002},
+   year = {1987},
+   type = {Journal Article}
+}
+
+@inbook{RN5637,
+   author = {Salmon, M. and Horch, K.},
+   title = {Sound production and acoustic detection by Ocypodid crabs},
+   booktitle = {Recent advances in the behaviour of marine organisms. Vol 1: Invertebrates},
+   editor = {Winn, H. E. and Olla, B.},
+   publisher = {Plenum Press},
+   address = {New York},
+   volume = {1: Invertebrates},
+   year = {1972},
+   type = {Book Section}
+}
+
+@article{RN4903,
+   author = {Salmon, M. and Hyatt, G. W.},
+   title = {Spatial and Temporal Aspects of Reproduction in North-Carolina Fiddler Crabs (Uca-Pugilator Bosc)},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {70},
+   number = {1},
+   pages = {21-43},
+   ISSN = {0022-0981},
+   DOI = {Doi 10.1016/0022-0981(83)90146-6},
+   url = {<Go to ISI>://WOS:A1983QY46300002},
+   year = {1983},
+   type = {Journal Article}
+}
+
+@article{RN5651,
+   author = {Salvatier, J. and Wiecki, T. V. and Fonnesbeck, C.},
+   title = {Probabilistic programming in Python using PyMC3},
+   journal = {Peerj Computer Science},
+   volume = {2:e55},
+   ISSN = {2376-5992},
+   DOI = {ARTN e55
+10.7717/peerj-cs.55},
+   url = {<Go to ISI>://WOS:000437456500001
+https://peerj.com/articles/cs-55.pdf},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5035,
+   author = {Sanches, F. H. C. and Costa, T. M. and Barreto, R. E. and Backwell, P. R. Y.},
+   title = {The cost of living in mixed species populations: A fiddler crab example},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {500},
+   pages = {30-33},
+   ISSN = {0022-0981},
+   DOI = {10.1016/j.jembe.2017.12.010},
+   url = {<Go to ISI>://WOS:000426230500004
+https://ac.els-cdn.com/S002209811730477X/1-s2.0-S002209811730477X-main.pdf?_tid=65a8a5d4-fc46-421f-97ad-2a8d53a8e4c6&acdnat=1552451529_a2f4e1bc082de912a64e1a123f19f178},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN5689,
+   author = {Sanchez, F. and Serrano, A. and Ballesteros, M. G.},
+   title = {Photogrammetric quantitative study of habitat and benthic communities of deep Cantabrian Sea hard grounds},
+   journal = {Continental Shelf Research},
+   volume = {29},
+   number = {8},
+   pages = {1174-1188},
+   ISSN = {0278-4343},
+   DOI = {10.1016/j.csr.2009.01.004},
+   url = {<Go to ISI>://WOS:000266057100022},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN5692,
+   author = {Sanz-Ablanedo, E. and Chandler, J. H. and Rodriguez-Perez, J. R. and Ordonez, C.},
+   title = {Accuracy of Unmanned Aerial Vehicle (UAV) and SfM Photogrammetry Survey as a Function of the Number and Location of Ground Control Points Used},
+   journal = {Remote Sensing},
+   volume = {10},
+   number = {10},
+   ISSN = {2072-4292},
+   DOI = {ARTN 1606
+10.3390/rs10101606},
+   url = {<Go to ISI>://WOS:000448555800106},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN5813,
+   author = {Schiaparelli, S. and Hopcroft, R. R.},
+   title = {The Census of Antarctic Marine Life: Diversity and change in Southern Ocean Ecosystems},
+   journal = {Deep-Sea Research Part Ii-Topical Studies in Oceanography},
+   volume = {58},
+   number = {1-2},
+   pages = {1-4},
+   ISSN = {0967-0645},
+   url = {<Go to ISI>://WOS:000288470800001},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN5609,
+   author = {Schlacher, Thomas A. and de Jager, Rudolf and Nielsen, Tara},
+   title = {Vegetation and ghost crabs in coastal dunes as indicators of putative stressors from tourism},
+   journal = {Ecological Indicators},
+   volume = {11},
+   number = {2},
+   pages = {284-294},
+   ISSN = {1470160X},
+   DOI = {10.1016/j.ecolind.2010.05.006},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN4610,
+   author = {Schlacher, Thomas A. and Lucrezi, Serena and Peterson, Charles H. and Connolly, Rod M. and Olds, Andrew D. and Althaus, Franziska and Hyndes, Glenn A. and Maslo, Brooke and Gilby, Ben L. and Leon, Javier X. and Weston, Michael A. and Lastra, Mariano and Williams, Alan and Schoeman, David S.},
+   title = {Estimating animal populations and body sizes from burrows: Marine ecologists have their heads buried in the sand},
+   journal = {Journal of Sea Research},
+   volume = {112},
+   pages = {55-64},
+   ISSN = {13851101},
+   DOI = {10.1016/j.seares.2016.04.001},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5291,
+   author = {Schneider, Stefan and Taylor, Graham W. and Linquist, Stefan and Kremer, Stefan C. and O’Hara, Robert B.},
+   title = {Past, present and future approaches using computer vision for animal re‐identification from camera trap data},
+   journal = {Methods in Ecology and Evolution},
+   volume = {10},
+   number = {4},
+   pages = {461-470},
+   ISSN = {2041-210X
+2041-210X},
+   DOI = {10.1111/2041-210x.13133},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN5838,
+   author = {Schubart, C. D. and Cuesta, J. A. and Diesel, R. and Felder, D. L.},
+   title = {Molecular phylogeny, taxonomy, and evolution of nonmarine lineages within the American grapsoid crabs (Crustacea : Brachyura)},
+   journal = {Molecular Phylogenetics and Evolution},
+   volume = {15},
+   number = {2},
+   pages = {179-190},
+   ISSN = {1055-7903},
+   url = {<Go to ISI>://WOS:000087287700002},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN5538,
+   author = {Seiple, W. and Salmon, M.},
+   title = {Comparative social behavior of two grapsid crabs, Sesarma reticulatum (Say) and S. cinereum (Bosc)},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {62},
+   pages = {1-24},
+   year = {1982},
+   type = {Journal Article}
+}
+
+@article{RN5592,
+   author = {Shahdadi, A. and Davie, P. J. F. and Schubart, C. D.},
+   title = {Systematics and phylogeography of the Australasian mangrove crabs Parasesarma semperi and P. longicristatum (Decapoda : Brachyura : Sesarmidae) based on morphological and molecular data},
+   journal = {Invertebrate Systematics},
+   volume = {32},
+   number = {1},
+   pages = {196-214},
+   ISSN = {1445-5226},
+   DOI = {10.1071/Is17040},
+   url = {<Go to ISI>://WOS:000424753100010},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN5593,
+   author = {Shahdadi, A. and Schubart, C. D.},
+   title = {Taxonomic review of Perisesarma (Decapoda: Brachyura: Sesarmidae) and closely related genera based on morphology and molecular phylogenetics: new classification, two new genera and the questionable phylogenetic value of the epibranchial tooth},
+   journal = {Zoological Journal of the Linnean Society},
+   volume = {182},
+   number = {3},
+   pages = {517-548},
+   ISSN = {0024-4082},
+   DOI = {10.1093/zoolinnean/zlx032},
+   url = {<Go to ISI>://WOS:000427880300003},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@phdthesis{RN4727,
+   author = {Sheaves, Janine},
+   title = {Influence of seasonal variability and salinity gradients on benthic invertebrate assemblages in tropical and subtropical Australian estuaries},
+   university = {James Cook University},
+   year = {2015},
+   type = {Thesis}
+}
+
+@article{RN5500,
+   author = {Sheaves, Marcus and Bradley, Michael and Herrera, Cesar and Mattone, Carlo and Lennard, Caitlin and Sheaves, Janine and Konovalov, Dmitry A.},
+   title = {Optimizing video sampling for juvenile fish surveys: Using deep learning and evaluation of assumptions to produce critical fisheries parameters},
+   journal = {Fish and Fisheries},
+   ISSN = {1467-2960
+1467-2979},
+   DOI = {10.1111/faf.12501},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4048,
+   author = {Sheaves, M. and Johnston, R. and Baker, R.},
+   title = {Use of mangroves by fish: new insights from in-forest videos},
+   journal = {Marine Ecology Progress Series},
+   volume = {549},
+   pages = {167-182},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps11690},
+   url = {<Go to ISI>://WOS:000376376200014},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN833,
+   author = {Sheaves, M. and Johnston, R. and Molony, B. and Shepard, G.},
+   title = {The effect of impoundments on the structure and function of fish fauna in a highly regulated dry tropics estuary},
+   journal = {Estuaries and Coasts},
+   volume = {30},
+   number = {3},
+   pages = {507-517},
+   ISSN = {1559-2723},
+   url = {<Go to ISI>://WOS:000248249100014},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN814,
+   author = {Sheaves, M. and Molony, B.},
+   title = {Short-circuit in the mangrove food chain},
+   journal = {Marine Ecology Progress Series},
+   volume = {199},
+   pages = {97-109},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps199097},
+   url = {<Go to ISI>://WOS:000088434300008
+http://www.int-res.com/articles/meps/199/m199p097.pdf},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN5048,
+   author = {Shih, Hsi-Te and Ng, Peter KL and Davie, Peter JF and Schubart, Christoph D. and Türkay, Michael and Naderloo, Reza and Jones, Diana and Liu, Min-Yun },
+   title = {Systematics of the family Ocypodidae Rafinesque, 1815 (Crustacea: Brachyura), based on phylogenetic relationships, with a reorganization of subfamily rankings and a review of the taxonomic status of Uca Leach, 1814, sensu lato and its subgenera},
+   journal = {RAFFLES BULLETIN OF ZOOLOGY},
+   volume = {64},
+   pages = {139-175},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN3261,
+   author = {Shin, P. K. S. and Yiu, M. W. and Cheung, S. G.},
+   title = {Behavioural adaptations of the Fiddler crabs Uca vocans borealis (Crane) and Uca lactea lactea (De Haan) for coexistence on an intertidal shore},
+   journal = {Marine and Freshwater Behaviour and Physiology},
+   volume = {37},
+   number = {3},
+   pages = {147-160},
+   ISSN = {0091-181x},
+   DOI = {10.1080/10236240400006117},
+   url = {<Go to ISI>://WOS:000224605500001},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN5671,
+   author = {Shinn, E. A.},
+   title = {Burrowing in recent lime sediments of Florida and the Bahamas},
+   journal = { Journal of Paleontology},
+   volume = {42},
+   number = {4},
+   pages = {879-894},
+   year = {1968},
+   type = {Journal Article}
+}
+
+@article{RN3668,
+   author = {Skilleter, G. A. and Olds, A. and Loneragan, N. R. and Zharikov, Y.},
+   title = {The value of patches of intertidal seagrass to prawns depends on their proximity to mangroves},
+   journal = {Marine Biology},
+   volume = {147},
+   number = {2},
+   pages = {353-365},
+   ISSN = {0025-3162},
+   DOI = {10.1007/s00227-005-1580-2},
+   url = {<Go to ISI>://WOS:000229626500008
+http://download.springer.com/static/pdf/322/art%253A10.1007%252Fs00227-005-1580-2.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00227-005-1580-2&token2=exp=1460000427~acl=%2Fstatic%2Fpdf%2F322%2Fart%25253A10.1007%25252Fs00227-005-1580-2.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs00227-005-1580-2*~hmac=876425e1b5834e2e5e9b3a527a1007e8e63809175000183e3d8302b20aeecf5e},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN5711,
+   author = {Skilleter, G. A. and Warren, S.},
+   title = {Effects of habitat modification in mangroves on the structure of mollusc and crab assemblages},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {244},
+   number = {1},
+   pages = {107-129},
+   ISSN = {0022-0981},
+   DOI = {Doi 10.1016/S0022-0981(99)00133-1},
+   url = {<Go to ISI>://WOS:000084635600006},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN5302,
+   author = {Skov, M. W. and Hartnoll, R. G.},
+   title = {Comparative suitability of binocular observation, burrow counting and excavation for the quantification of the mangrove fiddler crab Uca annulipes (H. Milne Edwards)},
+   journal = {Hydrobiologia},
+   volume = {449},
+   number = {1-3},
+   pages = {201-212},
+   ISSN = {0018-8158},
+   url = {<Go to ISI>://WOS:000170059800022
+https://link-springer-com.elibrary.jcu.edu.au/content/pdf/10.1023/A:1017598616178.pdf},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN4887,
+   author = {Skov, M. W. and Hartnoll, R. G.},
+   title = {Paradoxical selective feeding on a low-nutrient diet: why do mangrove crabs eat leaves?},
+   journal = {Oecologia},
+   volume = {131},
+   number = {1},
+   pages = {1-7},
+   ISSN = {1432-1939 (Electronic)
+0029-8549 (Linking)},
+   DOI = {10.1007/s00442-001-0847-7},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28547499},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN5305,
+   author = {Skov, M. W. and Vannini, M. and Shunula, J. P. and Hartnoll, R. G. and Cannicci, S.},
+   title = {Quantifying the density of mangrove crabs: Ocypodidae and Grapsidae},
+   journal = {Marine Biology},
+   volume = {141},
+   number = {4},
+   pages = {725-732},
+   ISSN = {0025-3162},
+   url = {<Go to ISI>://WOS:000179260900012},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN5608,
+   author = {Smith III, T. J. and Boto, K. G. and Frusher, S. D. and Giddins, R. L.},
+   title = {Keystone species and mangrove forest dynamics: the influence of burrowing by crabs on soil nutrient status and forest productivity},
+   journal = {Estuarine, coastal and shelf science},
+   volume = {33},
+   number = {5},
+   pages = {419-432},
+   year = {1991},
+   type = {Journal Article}
+}
+
+@article{RN4960,
+   author = {Smith, N. F. and Wilcox, C. and Lessmann, J. M.},
+   title = {Fiddler crab burrowing affects growth and production of the white mangrove (Laguncularia racemosa) in a restored Florida coastal marsh},
+   journal = {Marine Biology},
+   volume = {156},
+   number = {11},
+   pages = {2255-2266},
+   ISSN = {0025-3162},
+   DOI = {10.1007/s00227-009-1253-7},
+   url = {<Go to ISI>://WOS:000270180900005},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN4432,
+   author = {Smolka, J. and Raderschall, C. A. and Hemmi, J. M.},
+   title = {Flicker is part of a multi-cue response criterion in fiddler crab predator avoidance},
+   journal = {The Journal of Experimental Biology},
+   volume = {216},
+   number = {Pt 7},
+   pages = {1219-24},
+   ISSN = {1477-9145 (Electronic)
+0022-0949 (Linking)},
+   DOI = {10.1242/jeb.076133},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/23239887},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN5086,
+   author = {Sridhar, V. H. and Roche, D. G. and Gingins, S.},
+   title = {Tracktor: Image-based automated tracking of animal movement and behaviour},
+   journal = {Methods in Ecology and Evolution},
+   volume = {10},
+   number = {6},
+   pages = {815-820},
+   ISSN = {2041-210x},
+   DOI = {10.1111/2041-210x.13166},
+   url = {<Go to ISI>://WOS:000470017200007},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN4819,
+   author = {Steffen, W. and Crutzen, J. and McNeill, J. R.},
+   title = {The Anthropocene: are humans now overwhelming the great forces of Nature?},
+   journal = {Ambio},
+   volume = {36},
+   number = {8},
+   pages = {614-21},
+   ISSN = {0044-7447 (Print)
+0044-7447 (Linking)},
+   DOI = {10.1579/0044-7447(2007)36[614:taahno]2.0.co;2},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/18240674},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN5835,
+   author = {Stenstrom, A. and Jonsdottir, I. S.},
+   title = {Effects of simulated climate change on phenology and life history traits in Carex bigelowii},
+   journal = {Nordic Journal of Botany},
+   volume = {24},
+   number = {3},
+   pages = {355-371},
+   ISSN = {0107-055x},
+   url = {<Go to ISI>://WOS:000243591400014},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN5433,
+   author = {Stieglitz, T. and Ridd, P. and Muller, P.},
+   title = {Passive irrigation and functional morphology of crustacean burrows in a tropical mangrove swamp},
+   journal = {Hydrobiologia},
+   volume = {421},
+   pages = {69-76},
+   ISSN = {0018-8158},
+   DOI = {Doi 10.1023/A:1003925502665},
+   url = {<Go to ISI>://WOS:000086541800007},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN5812,
+   author = {Stuart, C. T. and Arbizu, P. M. and Smith, C. R. and Molodtsova, T. and Brandt, A. and Etter, R. J. and Escobar-Briones, E. and Fabri, M. C. and Rex, M. A.},
+   title = {CeDAMar global database of abyssal biological sampling},
+   journal = {Aquatic Biology},
+   volume = {4},
+   number = {2},
+   pages = {143-145},
+   ISSN = {1864-7790},
+   url = {<Go to ISI>://WOS:000262421200004},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN5632,
+   author = {Su, Theresa L. and Lim, Shirley S. L.},
+   title = {To flee or not to flee: characterising differentiated anti-predatory responses of two mangrove crabs},
+   journal = {Ethology Ecology & Evolution},
+   volume = {29},
+   number = {2},
+   pages = {181-192},
+   ISSN = {0394-9370
+1828-7131},
+   DOI = {10.1080/03949370.2015.1129989},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN964,
+   author = {Sutherland, William J. and Freckleton, Robert P. and Godfray, H. Charles J. and Beissinger, Steven R. and Benton, Tim and Cameron, Duncan D. and Carmel, Yohay and Coomes, David A. and Coulson, Tim and Emmerson, Mark C. and Hails, Rosemary S. and Hays, Graeme C. and Hodgson, Dave J. and Hutchings, Michael J. and Johnson, David and Jones, Julia P. G. and Keeling, Matt J. and Kokko, Hanna and Kunin, William E. and Lambin, Xavier and Lewis, Owen T. and Malhi, Yadvinder and Mieszkowska, Nova and Milner-Gulland, E. J. and Norris, Ken and Phillimore, Albert B. and Purves, Drew W. and Reid, Jane M. and Reuman, Daniel C. and Thompson, Ken and Travis, Justin M. J. and Turnbull, Lindsay A. and Wardle, David A. and Wiegand, Thorsten and Gibson, David},
+   title = {Identification of 100 fundamental ecological questions},
+   journal = {Journal of Ecology},
+   volume = {101},
+   number = {1},
+   pages = {58-67},
+   ISSN = {00220477},
+   DOI = {10.1111/1365-2745.12025},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN5341,
+   author = {Takeda, S. and Kurihara, Y.},
+   title = {The Effects of Burrowing of Helice-Tridens (Dehaan) on the Soil of a Salt-Marsh Habitat},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {113},
+   number = {1},
+   pages = {79-89},
+   ISSN = {0022-0981},
+   DOI = {Doi 10.1016/0022-0981(87)90084-0},
+   url = {<Go to ISI>://WOS:A1987L061600007},
+   year = {1987},
+   type = {Journal Article}
+}
+
+@article{RN5778,
+   author = {Takeda, S. and Matsumasa, M. and Kikuchi, S. and Poovachiranon, S. and Murai, M.},
+   title = {Variation in the branchial formula of semiterrestrial crabs (Decapoda: Brachyura: Grapsidae and Ocypodidae) in relation to physiological adaptations to the environment},
+   journal = {Journal of Crustacean Biology},
+   volume = {16},
+   number = {3},
+   pages = {472-486},
+   ISSN = {0278-0372},
+   url = {<Go to ISI>://WOS:A1996VA95200007},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@article{RN5007,
+   author = {Takeshita, Fumio},
+   title = {Color changes of fiddler crab between seasons and under stressful conditions: Patterns of changes in lightness differ between carapace and claw},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {511},
+   pages = {113-119},
+   ISSN = {00220981},
+   DOI = {10.1016/j.jembe.2018.12.001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN3589,
+   author = {Taylor, L. and Hochuli, D. F.},
+   title = {Creating better cities: how biodiversity and ecosystem functioning enhance urban residents' wellbeing},
+   journal = {Urban Ecosystems},
+   volume = {18},
+   number = {3},
+   pages = {747-762},
+   ISSN = {1083-8155},
+   DOI = {10.1007/s11252-014-0427-3},
+   url = {<Go to ISI>://WOS:000360017700006
+http://download.springer.com.elibrary.jcu.edu.au/static/pdf/80/art%253A10.1007%252Fs11252-014-0427-3.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11252-014-0427-3&token2=exp=1456036411~acl=%2Fstatic%2Fpdf%2F80%2Fart%25253A10.1007%25252Fs11252-014-0427-3.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11252-014-0427-3*~hmac=ac2a37e684572474429c09834fc7cc98310b1fade13475ea589ec72da38b1d70},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN5535,
+   author = {Team, Theano Development},
+   title = {Theano: A Python framework for fast computation of mathematical expressions},
+   journal = {arXiv},
+   volume = {abs/1605.02688},
+   url = {http://arxiv.org/abs/1605.02688},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5679,
+   author = {Thomas, C. R. and Blum, L. K.},
+   title = {Importance of the fiddler crab Uca pugnax to salt marsh soil organic matter accumulation},
+   journal = {Marine Ecology Progress Series},
+   volume = {414},
+   pages = {167-177},
+   ISSN = {0171-8630
+1616-1599},
+   DOI = {10.3354/meps08708},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN4664,
+   author = {Thompson, L. R. and Sanders, J. G. and McDonald, D. and Amir, A. and Ladau, J. and Locey, K. J. and Prill, R. J. and Tripathi, A. and Gibbons, S. M. and Ackermann, G. and Navas-Molina, J. A. and Janssen, S. and Kopylova, E. and Vazquez-Baeza, Y. and Gonzalez, A. and Morton, J. T. and Mirarab, S. and Zech Xu, Z. and Jiang, L. and Haroon, M. F. and Kanbar, J. and Zhu, Q. and Jin Song, S. and Kosciolek, T. and Bokulich, N. A. and Lefler, J. and Brislawn, C. J. and Humphrey, G. and Owens, S. M. and Hampton-Marcell, J. and Berg-Lyons, D. and McKenzie, V. and Fierer, N. and Fuhrman, J. A. and Clauset, A. and Stevens, R. L. and Shade, A. and Pollard, K. S. and Goodwin, K. D. and Jansson, J. K. and Gilbert, J. A. and Knight, R. and Earth Microbiome Project, Consortium},
+   title = {A communal catalogue reveals Earth's multiscale microbial diversity},
+   journal = {Nature},
+   volume = {551},
+   number = {7681},
+   pages = {457-463},
+   ISSN = {1476-4687 (Electronic)
+0028-0836 (Linking)},
+   DOI = {10.1038/nature24621},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29088705},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@book{RN5612,
+   author = {Thompson, W.L.},
+   title = {Sampling rare or elusive species: concepts, designs, and techniques for estimating population parameters},
+   publisher = {Island Press},
+   address = {London},
+   year = {2004},
+   type = {Book}
+}
+
+@techreport{RN4828,
+   author = {Thomson, C and Kilminster, K.  and Hallett, C and Valesini , F and Hipsey, M and Trayler, K and Gaughan, D and Summers, R and Syme, G  and Seares, P},
+   title = {Research and information priorities for estuary management in southwest Western Australia},
+   institution = {Western Australian Marine Science Institution},
+   year = {2017},
+   type = {Report}
+}
+
+@article{RN4859,
+   author = {Thongtham, Nalinee and Kristensen, Erik and Puangprasan, Som-Ying},
+   title = {Leaf removal by sesarmid crabs in Bangrong mangrove forest, Phuket, Thailand; with emphasis on the feeding ecology of Neoepisesarma versicolor},
+   journal = {Estuarine, Coastal and Shelf Science},
+   volume = {80},
+   number = {4},
+   pages = {573-580},
+   ISSN = {02727714},
+   DOI = {10.1016/j.ecss.2008.09.017},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN2970,
+   author = {Tilman, D.},
+   title = {The ecological consequences of changes in biodiversity: A search for general principles},
+   journal = {Ecology},
+   volume = {80},
+   number = {5},
+   pages = {1455-1474},
+   ISSN = {0012-9658},
+   DOI = {10.1890/0012-9658(1999)080[1455:Tecoci]2.0.Co;2},
+   url = {<Go to ISI>://WOS:000085187900001},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN3605,
+   author = {Tilman, D. and Isbell, F. and Cowles, J. M.},
+   title = {Biodiversity and Ecosystem Functioning},
+   journal = {Annual Review of Ecology, Evolution, and Systematics, Vol 45},
+   volume = {45},
+   pages = {471-493},
+   ISSN = {1543-592x},
+   DOI = {10.1146/annurev-ecolsys-120213-091917},
+   url = {<Go to ISI>://WOS:000348461700021
+http://www.annualreviews.org/doi/pdf/10.1146/annurev-ecolsys-120213-091917},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN5478,
+   author = {Torres-Pulliza, D. and Dornelas, M. A. and Pizarro, O. and Bewley, M. and Blowes, S. A. and Boutros, N. and Brambilla, V. and Chase, T. J. and Frank, G. and Friedman, A. and Hoogenboom, M. O. and Williams, S. and Zawada, K. J. A. and Madin, J. S.},
+   title = {A geometric basis for surface habitat complexity and biodiversity},
+   journal = {Nat Ecol Evol},
+   ISSN = {2397-334X (Electronic)
+2397-334X (Linking)},
+   DOI = {10.1038/s41559-020-1281-8},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/32839543},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN3231,
+   author = {Trave, Claudia and Sheaves, Marcus},
+   title = {Ecotone analysis: assessing the impact of vehicle transit on saltmarsh crab population and ecosystem},
+   journal = {SpringerPlus},
+   volume = {3},
+   number = {1},
+   pages = {655},
+   ISSN = {2193-1801},
+   DOI = {10.1186/2193-1801-3-655},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN5772,
+   author = {Tseng, K. Y. and Tsai, J. R. and Lin, H. C.},
+   title = {Ion regulation in the antennal glands differs among Ocypodoidea and Grapsoidea crab species},
+   journal = {Comp Biochem Physiol A Mol Integr Physiol},
+   volume = {248},
+   pages = {110753},
+   ISSN = {1531-4332 (Electronic)
+1095-6433 (Linking)},
+   DOI = {10.1016/j.cbpa.2020.110753},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/32653510},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4627,
+   author = {Turnbaugh, P. J. and Ley, R. E. and Hamady, M. and Fraser-Liggett, C. M. and Knight, R. and Gordon, J. I.},
+   title = {The human microbiome project},
+   journal = {Nature},
+   volume = {449},
+   number = {7164},
+   pages = {804-10},
+   ISSN = {1476-4687 (Electronic)
+0028-0836 (Linking)},
+   DOI = {10.1038/nature06244},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/17943116},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN5602,
+   author = {Unno, J},
+   title = {The Western Australian soldier crab, Mictyris occidentalis Unno 2008 (Brachyura: Decapoda: Mictyridae): the importance of behaviour in design of sampling methods},
+   journal = {Journal of the Royal Society of Western Australia},
+   volume = {91},
+   pages = {243-263},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN5827,
+   author = {van de Schootbrugge, B. and Bachan, A. and Suan, G. and Richoz, S. and Payne, J. L.},
+   title = {Microbes, Mud and Methane: Cause and Consequence of Recurrent Early Jurassic Anoxia Following the End-Triassic Mass Extinction},
+   journal = {Palaeontology},
+   volume = {56},
+   number = {4},
+   pages = {685-709},
+   ISSN = {0031-0239},
+   url = {<Go to ISI>://WOS:000321832100002
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pala.12034?download=true},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN4965,
+   author = {Van Horn, G  and Mac Aodha, O and Song, Y  and Cui, Y  and Sun, C  and Shepard, A  and Adam, H  and Perona, P  and Belongie, S},
+   title = {The iNaturalist Species Classification and Detection Dataset},
+   journal = {Proceedings of the IEEE conference on computer vision and pattern recognition},
+   pages = {8769-8778},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN4563,
+   author = {Veiga, A. K. and Saraiva, A. M. and Chapman, A. D. and Morris, P. J. and Gendreau, C. and Schigel, D. and Robertson, T. J.},
+   title = {A conceptual framework for quality assessment and management of biodiversity data},
+   journal = {PLoS One},
+   volume = {12},
+   number = {6},
+   pages = {e0178731},
+   ISSN = {1932-6203 (Electronic)
+1932-6203 (Linking)},
+   DOI = {10.1371/journal.pone.0178731},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28658288},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN5696,
+   author = {Vermeiren, P. and Lennard, C. and Trave, C.},
+   title = {Habitat, Sexual and Allometric Influences on Morphological Traits of Intertidal Crabs},
+   journal = {Estuaries and Coasts},
+   ISSN = {1559-2723
+1559-2731},
+   DOI = {10.1007/s12237-020-00856-4},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN3296,
+   author = {Vermeiren, Peter and Sheaves, Marcus},
+   title = {Predictable Habitat Associations of Four Crab Species Across the Low Intertidal Landscape of a Tropical Estuary over Time},
+   journal = {Estuaries and Coasts},
+   volume = {38},
+   number = {1},
+   pages = {285-295},
+   ISSN = {1559-2723
+1559-2731},
+   DOI = {10.1007/s12237-014-9799-0},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN3295,
+   author = {Vermeiren, Peter and Sheaves, Marcus},
+   title = {Predicting habitat associations of five intertidal crab species among estuaries},
+   journal = {Estuarine, Coastal and Shelf Science},
+   volume = {149},
+   pages = {133-142},
+   ISSN = {02727714},
+   DOI = {10.1016/j.ecss.2014.08.008},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN825,
+   author = {Vermeiren, P. and Sheaves, M.},
+   title = {A remote photographic technique for high replication, large scale understanding of spatial distribution patterns of intertidal crabs},
+   journal = {Hydrobiologia},
+   volume = {724},
+   number = {1},
+   pages = {79-89},
+   ISSN = {0018-8158},
+   DOI = {10.1007/s10750-013-1726-z},
+   url = {<Go to ISI>://WOS:000328206600006
+http://download.springer.com/static/pdf/125/art%253A10.1007%252Fs10750-013-1726-z.pdf?auth66=1401947629_4a88673c16665066c633bdc2c8ac3bc8&ext=.pdf},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN4816,
+   author = {Vermeiren, P. and Sheaves, M.},
+   title = {Modeling Intertidal Crab Distribution Patterns Using Photographic Mapping Among Tropical Australian Estuaries},
+   journal = {Estuaries and Coasts},
+   volume = {38},
+   number = {5},
+   pages = {1545-1556},
+   ISSN = {1559-2723},
+   url = {<Go to ISI>://WOS:000358611500012
+https://link-springer-com.elibrary.jcu.edu.au/content/pdf/10.1007/s12237-014-9897-z.pdf},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN5803,
+   author = {Vianna, B. D. and Miyai, C. A. and Augusto, A. and Costa, T. M.},
+   title = {Effects of temperature increase on the physiology and behavior of fiddler crabs},
+   journal = {Physiology & Behavior},
+   volume = {215},
+   ISSN = {0031-9384},
+   url = {<Go to ISI>://WOS:000512221600016},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4967,
+   author = {Villon, S. and Mouillot, D. and Chaumont, M. and Darling, E. S. and Subsol, G. and Claverie, T. and Villeger, S.},
+   title = {A Deep learning method for accurate and fast identification of coral reef fishes in underwater images},
+   journal = {Ecological Informatics},
+   volume = {48},
+   pages = {238-244},
+   DOI = {10.1016/j.ecoinf.2018.09.007},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN5665,
+   author = {Violle, C. and Reich, P. B. and Pacala, S. W. and Enquist, B. J. and Kattge, J.},
+   title = {The emergence and promise of functional biogeography},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {111},
+   number = {38},
+   pages = {13690-6},
+   ISSN = {1091-6490 (Electronic)
+0027-8424 (Linking)},
+   DOI = {10.1073/pnas.1415442111},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25225414},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN4993,
+   author = {Viscido, Steven V. and Wethey, David S.},
+   title = {Quantitative analysis of fiddler crab flock movement: evidence for ‘selfish herd’ behaviour},
+   journal = {Animal Behaviour},
+   volume = {63},
+   number = {4},
+   pages = {735-741},
+   ISSN = {00033472},
+   DOI = {10.1006/anbe.2001.1935},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN5634,
+   author = {Von Hagen, H.},
+   title = {Visual and Acoustic Display in Uca mordax and U. burgersi, Sibling Species of Neotropical Fiddler Crabs. II. Vibration Signals},
+   journal = {Behaviour},
+   volume = {91},
+   number = {1/3},
+   pages = {204-228},
+   year = {1984},
+   type = {Journal Article}
+}
+
+@article{RN4795,
+   author = {Von Hagen, H.},
+   title = {Vibration signals in Australia fiddler crabs - a first inventory},
+   journal = {The Beagle, Records of the Museums and Art Galleries of the Northern Territory},
+   volume = {16},
+   pages = {97-106},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN4773,
+   author = {Walls, M. L. and Layne, J. E.},
+   title = {Direct evidence for distance measurement via flexible stride integration in the fiddler crab},
+   journal = {Current Biology},
+   volume = {19},
+   number = {1},
+   pages = {25-9},
+   ISSN = {1879-0445 (Electronic)
+0960-9822 (Linking)},
+   DOI = {10.1016/j.cub.2008.10.069},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19110426},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN5330,
+   author = {Wang, J. Q. and Zhang, X. D. and Jiang, L. F. and Bertness, M. D. and Fang, C. M. and Chen, J. K. and Hara, T. and Li, B.},
+   title = {Bioturbation of Burrowing Crabs Promotes Sediment Turnover and Carbon and Nitrogen Movements in an Estuarine Salt Marsh},
+   journal = {Ecosystems},
+   volume = {13},
+   number = {4},
+   pages = {586-599},
+   ISSN = {1432-9840},
+   DOI = {10.1007/s10021-010-9342-5},
+   url = {<Go to ISI>://WOS:000278682900008},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN4860,
+   author = {Wang, Mao and Gao, Xueqin and Wang, Wenqing},
+   title = {Differences in burrow morphology of crabs between Spartina alterniflora marsh and mangrove habitats},
+   journal = {Ecological Engineering},
+   volume = {69},
+   pages = {213-219},
+   ISSN = {09258574},
+   DOI = {10.1016/j.ecoleng.2014.03.096},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN5462,
+   author = {Wang, Xinfeng and He, Ziwen and Shi, Suhua and Wu, Chung- I.},
+   title = {Genes and speciation: is it time to abandon the biological species concept?},
+   journal = {National Science Review},
+   volume = {7},
+   number = {8},
+   pages = {1387-1397},
+   ISSN = {2095-51382053-714X},
+   DOI = {10.1093/nsr/nwz220},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5611,
+   author = {Warren, J. H.},
+   title = {The use of open burrows to estimate abundances of intertidal estuarine crabs},
+   journal = {Australian Journal of Ecology},
+   volume = {15},
+   number = {3},
+   pages = {277-280},
+   year = {1990},
+   type = {Journal Article}
+}
+
+@article{RN5585,
+   author = {Warren, J. H. and Underwood, A. J.},
+   title = {Effects of burrowing crabs on the topography of mangrove swamps in New South Wales},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {102},
+   pages = {223-235},
+   year = {1986},
+   type = {Journal Article}
+}
+
+@article{RN5299,
+   author = {Webb, A. P. and Eyre, B. D.},
+   title = {The effect of natural populations of the burrowing and grazing soldier crab (Mictyris longicarpus) on sediment irrigation, benthic metabolism and nitrogen fluxes},
+   journal = {Journal of Experimental Marine Biology and Ecology},
+   volume = {309},
+   number = {1},
+   pages = {1-19},
+   ISSN = {0022-0981},
+   DOI = {10.1016/j.jembe.2004.05.003},
+   url = {<Go to ISI>://WOS:000223871500001
+https://pdf.sciencedirectassets.com/271284/1-s2.0-S0022098100X06958/1-s2.0-S002209810400303X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIC5grDpS3O%2FnFIE7QSWw3hAUiq%2B8FJkbpWF8OfgavDuYAiEA1bMsrzq9mJLXLqXDxC3z5ix1w9w99THpYbTUUHjOvIMqtAMIWRACGgwwNTkwMDM1NDY4NjUiDEjeV356CAq0fRD0EiqRA9thNN5Hq92weF6d02enOtuuSV6HCgM69buAs7Zg6h%2FHeRuobu1I%2BjGz1iU52QLZ48uqTZ7DERnmexk5759ncC1ORcOz3THemggEMuEA48WLxcmFYvPfvBnVfaqR8SJ3Uq9mPyC%2FrMDlt1OSml0bzaIlEB865nWVRzhgQfvCnFmYyRkHJtvNxob3eHKIXl3Jl3YCoxuWKFgy9Rqa0UmmpydKOMgYGrJxuEud2VlTqn4j178rcb2RaappRxax0BvYBPtHzytwzezoox%2B0zQ%2F4E3dUptwuPTVGytz35Sf%2FRYNJR3E%2FQo%2FYhFEniV8rrZXB0wLAHMFZ7hJU%2FsSVtDPCkUjboNWyyEIxSSUHFb3Ei7PlV4D5WBBtfhWHA5MpD7l%2FfJ1dMeie4toRs4nQx54OJvyOATHk3wZohqD%2BHRhy0mRod%2FLVE92HGSfzHZxhXE4TDRjPcBUN3km9rjWM3Z%2FSEvQmvoqfd9Gq4bHdkRX06A2pAsTBke%2BedxjCEYdb1iGCKmjQH2z2QJmOEnZHZ3x5Z8J7ML%2FGqvEFOusB3q1zb3UMcKliM8zyJ7amdSjaeQGkqtZWmQ0StID%2BsHYx%2Bkb9R9InemAmDI4EJW8gx9I%2FSRk3pV%2F9xjcW6DtrBcq42cWpaheePpnty9oPmzqpNT4QyW1OsFzJKb5sbSDb%2FlLxkvvMlc6C2aDgr%2Br%2FvmrYsR92gKPcN0HBEjJVdzaseYJnNiXqLh%2FvqtDkYCayC9hBn%2FNVecVRXtodizo9I6ywTXZa9UaDZnGiODx19LUfb8xJh8yk7FKo41T0tlqTI3DhmDtV1tSyznvxc0oW4p8Bzcw7twrGoBQiBX2AcZV3uuGRsWqNCtKljw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200124T081442Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXHEGCRO6%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=bc66e4dc4a1dff54051018410c4b6a0d1a7404b7b88ff88e991a34d3b5394f29&hash=1405aa298c77f2d50317f013d811f5c2593405ee684b8e5068d15247104dc30d&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S002209810400303X&tid=spdf-a7916703-5c01-4a6e-b377-276d20147440&sid=eeff2eeb63d72840791ba2008195f49fbb77gxrqa&type=client},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN5181,
+   author = {Weinmann, Martin and Jutzi, Boris and Mallet, Clément},
+   title = {Semantic 3D scene interpretation: A framework combining optimal neighborhood size selection with relevant features},
+   journal = {ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+   volume = {2},
+   number = {3},
+   pages = {181},
+   ISSN = {2194-9042},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN5289,
+   author = {Weinstein, B. G.},
+   title = {A computer vision for animal ecology},
+   journal = {Journal of Animal Ecology},
+   volume = {87},
+   number = {3},
+   pages = {533-545},
+   ISSN = {0021-8790},
+   DOI = {10.1111/1365-2656.12780},
+   url = {<Go to ISI>://WOS:000430059900003},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN4284,
+   author = {Weinstein, Ben G. and Dray, Stephane},
+   title = {MotionMeerkat: integrating motion video detection and ecological monitoring},
+   journal = {Methods in Ecology and Evolution},
+   volume = {6},
+   number = {3},
+   pages = {357-362},
+   ISSN = {2041210X},
+   DOI = {10.1111/2041-210x.12320},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN4687,
+   author = {Werry, J. and Lee, S.Y.},
+   title = {Grapsid crabs mediate link between mangrove litter production and estuarine planktonic food chains},
+   journal = {Marine Ecology Progress Series},
+   volume = {293},
+   pages = {165-176},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN5687,
+   author = {Westoby, M. J. and Brasington, J. and Glasser, N. F. and Hambrey, M. J. and Reynolds, J. M.},
+   title = {'Structure-from-Motion' photogrammetry: A low-cost, effective tool for geoscience applications},
+   journal = {Geomorphology},
+   volume = {179},
+   pages = {300-314},
+   ISSN = {0169-555x},
+   DOI = {10.1016/j.geomorph.2012.08.021},
+   url = {<Go to ISI>://WOS:000313458000022},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@book{RN5654,
+   author = {Wickham, H.},
+   title = {ggplot2: Elegant Graphics for Data Analysis},
+   publisher = {Springer-Verlag},
+   address = {New York},
+   ISBN = {978-3-319-24277-4},
+   url = {https://ggplot2.tidyverse.org},
+   year = {2016},
+   type = {Book}
+}
+
+@misc{RN5758,
+   year = {2020},
+   type = {Computer Program}
+}
+
+@article{RN5819,
+   author = {Williams, H. J. and Holton, M. D. and Shepard, E. L. C. and Largey, N. and Norman, B. and Ryan, P. G. and Duriez, O. and Scantlebury, M. and Quintana, F. and Magowan, E. A. and Marks, N. J. and Alagaili, A. N. and Bennett, N. C. and Wilson, R. P.},
+   title = {Identification of animal movement patterns using tri-axial magnetometry},
+   journal = {Movement Ecology},
+   volume = {5},
+   ISSN = {2051-3933},
+   url = {<Go to ISI>://WOS:000397817700001
+https://www-ncbi-nlm-nih-gov.elibrary.jcu.edu.au/pmc/articles/PMC5367006/pdf/40462_2017_Article_97.pdf},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN5860,
+   author = {Wilmers, C. C. and Nickel, B. and Bryce, C. M. and Smith, J. A. and Wheat, R. E. and Yovovich, V.},
+   title = {The golden age of bio-logging: how animal-borne sensors are advancing the frontiers of ecology},
+   journal = {Ecology},
+   volume = {96},
+   number = {7},
+   pages = {1741-1753},
+   ISSN = {0012-9658},
+   url = {<Go to ISI>://WOS:000357525800001},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN5853,
+   author = {Wilson, K. A.},
+   title = {Ecology of Mangrove Crabs - Predation, Physical Factors and Refuges},
+   journal = {Bulletin of Marine Science},
+   volume = {44},
+   number = {1},
+   pages = {263-273},
+   ISSN = {0007-4977},
+   url = {<Go to ISI>://WOS:A1989U605200021},
+   year = {1989},
+   type = {Journal Article}
+}
+
+@article{RN5836,
+   author = {Winkler, D. W. and Dunn, P. O. and McCulloch, C. E.},
+   title = {Predicting the effects of climate change on avian life-history traits},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {99},
+   number = {21},
+   pages = {13595-13599},
+   ISSN = {0027-8424},
+   url = {<Go to ISI>://WOS:000178635700047
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC129719/pdf/pq2102013595.pdf},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN5756,
+   author = {Wolfrath, B.},
+   title = {Burrowing of the fiddler crab Uca tangeri in the Ria Formosa in Portugal and its influence on sediment structure},
+   journal = {Marine Ecology Progress Series},
+   volume = {85},
+   number = {3},
+   pages = {237-243},
+   ISSN = {0171-8630},
+   DOI = {DOI 10.3354/meps085237},
+   url = {<Go to ISI>://WOS:A1992JQ20200004},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@article{RN5248,
+   author = {Wróżyński, Rafał and Pyszny, Krzysztof and Sojka, Mariusz and Przybyła, Czesław and Murat-Błażejewska, Sadżide},
+   title = {Ground volume assessment using ’Structure from Motion’ photogrammetry with a smartphone and a compact camera},
+   journal = {Open Geosciences},
+   volume = {9},
+   number = {1},
+   ISSN = {2391-5447},
+   DOI = {10.1515/geo-2017-0023},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@misc{RN5139,
+   url = {http://ccwu.me/vsfm/},
+   year = {2011},
+   type = {Computer Program}
+}
+
+@inproceedings{RN5138,
+   author = {Wu, C.},
+   title = {Towards Linear-Time Incremental Structure from Motion},
+   booktitle = {2013 International Conference on 3D Vision - 3DV 2013},
+   pages = {127-134},
+   DOI = {10.1109/3DV.2013.25},
+   year = {2013},
+   type = {Conference Proceedings}
+}
+
+@article{RN5461,
+   author = {Wu, C. and Wang, X. and He, Ziwen and Shi, S.},
+   title = {Replies to the commentaries on the question of ‘Is it time to abandon the biological species concept?’},
+   journal = {National Science Review},
+   volume = {7},
+   number = {8},
+   pages = {1407-1409},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@misc{RN5140,
+   volume = {CVPR},
+   pages = {3057-3064},
+   year = {2011},
+   type = {Conference Paper}
+}
+
+@misc{RN4445,
+   year = {2008},
+   type = {Conference Paper}
+}
+
+@article{RN5431,
+   author = {Xin, P. and Jin, G. Q. and Li, L. and Barry, D. A.},
+   title = {Effects of crab burrows on pore water flows in salt marshes},
+   journal = {Advances in Water Resources},
+   volume = {32},
+   number = {3},
+   pages = {439-449},
+   ISSN = {0309-1708},
+   DOI = {10.1016/j.advwatres.2008.12.008},
+   url = {<Go to ISI>://WOS:000264729500012},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@inproceedings{RN5864,
+   author = {Xu, Zhang and Xiangyang, Hao and Songlin, Liu and Junqiang, Wang and Jiwei, Xu and Jun, Hu},
+   title = {Multi-target tracking of surveillance video with differential YOLO and DeepSort},
+   booktitle = {Proc.SPIE},
+   volume = {11179},
+   DOI = {10.1117/12.2540269},
+   url = {https://doi.org/10.1117/12.2540269https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11179/2540269/Multi-target-tracking-of-surveillance-video-with-differential-YOLO-and/10.1117/12.2540269.short?SSO=1},
+   year = {2019},
+   type = {Conference Proceedings}
+}
+
+@article{RN3798,
+   author = {Yasuhara, M. and Doi, H. and Wei, C. L. and Danovaro, R. and Myhre, S. E.},
+   title = {Biodiversity-ecosystem functioning relationships in long-term time series and palaeoecological records: deep sea as a test bed},
+   journal = {Philos Trans R Soc Lond B Biol Sci},
+   volume = {371},
+   number = {1694},
+   ISSN = {1471-2970 (Electronic)
+0962-8436 (Linking)},
+   DOI = {10.1098/rstb.2015.0282},
+   url = {http://www.ncbi.nlm.nih.gov/pubmed/27114583},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN4150,
+   author = {Yoccoz, N. G. and Nichols, J. D. and Boulinier, T.},
+   title = {Monitoring of biological diversity in space and time},
+   journal = {Trends in Ecology & Evolution},
+   volume = {16},
+   number = {8},
+   pages = {446-453},
+   ISSN = {0169-5347},
+   DOI = {Doi 10.1016/S0169-5347(01)02205-4},
+   url = {<Go to ISI>://WOS:000170031300011},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN4779,
+   author = {Zeil, J. and Hemmi, J. M.},
+   title = {The visual ecology of fiddler crabs},
+   journal = {J Comp Physiol A Neuroethol Sens Neural Behav Physiol},
+   volume = {192},
+   number = {1},
+   pages = {1-25},
+   ISSN = {0340-7594 (Print)
+0340-7594 (Linking)},
+   DOI = {10.1007/s00359-005-0048-7},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/16341863},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN5053,
+   author = {Zeil, J. and Hemmi, J. M. and Backwell, P. R.},
+   title = {Fiddler crabs},
+   journal = {Curr Biol},
+   volume = {16},
+   number = {2},
+   pages = {R40-1},
+   ISSN = {0960-9822 (Print)
+0960-9822 (Linking)},
+   DOI = {10.1016/j.cub.2006.01.012},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/16431353},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN5650,
+   author = {Zeil, J. and Nalbach, G. and Nalbach, H. O.},
+   title = {Eyes, Eye Stalks and the Visual World of Semiterrestrial Crabs},
+   journal = {Journal of Comparative Physiology a-Sensory Neural and Behavioral Physiology},
+   volume = {159},
+   number = {6},
+   pages = {801-811},
+   ISSN = {0340-7594},
+   DOI = {Doi 10.1007/Bf00603733},
+   url = {<Go to ISI>://WOS:A1986F281200008},
+   year = {1986},
+   type = {Journal Article}
+}
+
+@article{RN5245,
+   author = {Zhang, Keqi and Liu, Huiqing and Li, Yuepeng and Xu, Hongzhou and Shen, Jian and Rhome, Jamie and Smith, Thomas J.},
+   title = {The role of mangroves in attenuating storm surges},
+   journal = {Estuarine, Coastal and Shelf Science},
+   volume = {102-103},
+   pages = {11-23},
+   ISSN = {02727714},
+   DOI = {10.1016/j.ecss.2012.02.021},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN5147,
+   author = {Zhu, S. P. and Guo, Z. C. and Ma, L.},
+   title = {Shadow removal with background difference method based on shadow position and edges attributes},
+   journal = {Eurasip Journal on Image and Video Processing},
+   ISSN = {1687-5176},
+   DOI = {Artn 22
+10.1186/1687-5281-2012-22},
+   url = {<Go to ISI>://WOS:000314987100001},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN4780,
+   author = {Zion, Boaz},
+   title = {The use of computer vision technologies in aquaculture – A review},
+   journal = {Computers and Electronics in Agriculture},
+   volume = {88},
+   pages = {125-132},
+   ISSN = {01681699},
+   DOI = {10.1016/j.compag.2012.07.010},
+   year = {2012},
+   type = {Journal Article}
+}
+
