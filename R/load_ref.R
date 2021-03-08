@@ -1,20 +1,16 @@
-# This script loads all references used in César Herrera's thesis
+# This script loads all references used in César Herrera's thesis and
+# creates a few visualization summaries
 
 library(here)
 library(bib2df)
-
 here::here()
 
 path <- "data/raw/thesis_references.txt"
 
 df <- bib2df(path)
-colnames(df)
-
-df[df$YEAR=="2019},","BIBTEXKEY"]
-
-
-min(df$YEAR)
-max(df$YEAR)
+# colnames(df)
+# min(df$YEAR)
+# max(df$YEAR)
 
 library(dplyr)
 
@@ -26,11 +22,16 @@ ref_x_type <- df %>%
   dplyr::group_by(TYPE) %>%
   dplyr::summarise(n = n())
 
+ref_x_journal <- df %>%
+  dplyr::filter(TYPE == "Journal Article") %>%
+  dplyr::group_by(JOURNAL) %>%
+  dplyr::summarise(n = n()) %>%
+  dplyr::arrange(desc(n))
 
 library(ggplot2)
 library(extrafont)
-
-loadfonts(device = "win")
+loadfonts()
+# loadfonts(device = "win")
 
 # Custom theme:
 theme_custom_cesar <- function(...) {
@@ -80,9 +81,7 @@ theme_custom_cesar <- function(...) {
 }
 
 
-
-
-
+# Create visualization: number of references per year
 ref_per_year_p <- ggplot(ref_x_year, aes(x=YEAR, y=n)) +
   geom_bar(stat = "identity", fill = "#66003A") +
   # Year 1926
@@ -183,7 +182,7 @@ ref_per_year_p <- ggplot(ref_x_year, aes(x=YEAR, y=n)) +
                      breaks = seq(5, 30, 5),
                      expand = c(0, 0)) +
   labs(title = "Standing on the shoulders of giants",
-       subtitle = "References used in my thesis per year",
+       subtitle = "References in my thesis per year",
        x = "Year",
        y = "Number of references",
        caption = "CC BY-SA @cexynature") +
@@ -197,37 +196,153 @@ ggsave(filename = "analysis/figures/ref_per_year.png",
        width = 9, height = 8, units = "in", dpi = 600)
 
 
+# Create visualization: number of references per type
 library(waffle)
 library(hrbrthemes)
 
 ref_x_type_p <- ggplot(ref_x_type, aes(fill = TYPE, values = n)) +
-  geom_waffle(color = "white", size = .25, n_rows = 10, flip = TRUE) +
-  # facet_wrap(~category, nrow = 1, strip.position = "bottom") +
-  scale_x_discrete() + 
-  scale_y_continuous(labels = function(x) x * 10,
+  geom_waffle(color = "white", size = .25, n_rows = 20, flip = TRUE) +
+  scale_x_continuous(expand = c(0,0)) +
+  scale_y_continuous(labels = function(x) x * 20,
                      expand = c(0,0)) +
   scale_fill_manual(name = NULL,
-                    values = c("#9e2a2b", "#bc6c25", "#2d6a4f", "#74c69d", "#40916c", "#bcb8b1", "#b7e4c7")) +
-  # ggthemes::scale_fill_tableau(name=NULL) +
+                    values = c("#c9cba3", "#adc178", "#2d6a4f", 
+                               "#ff7aa2", "#b9375e", "#1780A1", 
+                               "#ffc300", "#8e9aaf", "#d08c60")) +
   coord_equal() +
-  labs(title = "Sampling effort",
-       # subtitle = paste0("Video success rate ", round(success_rate, 2)),
-       subtitle = "",
-       x = "", 
-       y = "Sampling events") +
+  labs(title = "Standing on the shoulders of giants",
+       subtitle = "References in my thesis per type",
+       caption = "CC BY-SA @cexynature") +
   theme_minimal(base_family = "Roboto Condensed") +
   theme(panel.grid = element_blank(), 
         axis.ticks.y = element_line(),
-        legend.position = "bottom") +
-  guides(fill = guide_legend(reverse = FALSE, nrow = 2))
+        legend.position = "bottom",
+        legend.box = "horizontal") +
+  guides(fill = guide_legend(reverse = FALSE, nrow = 3)) +
+  theme_custom_cesar()
 
-g01
+ref_x_type_p
 
-ggsave(filename = "fig/waffle_chart_all_1.png", g01, 
-       width = 16, height = 8, units = "in", dpi = 600)
-
-
+ggsave(filename = "analysis/figures/ref_per_type.png", ref_x_type_p, 
+       width = 9, height = 8, units = "in", dpi = 600)
 
 
+# Create visualization: number of references per journal (only most cited journals)
+# References per journal
+# "Australian Journal of Ecology" == "Austral Ecology"
+# "ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences" == "ISPRS Journal of Photogrammetry and Remote Sensing"
+sum(ref_x_journal$n)
+ref_x_journal_selection <- ref_x_journal[ref_x_journal$n > 3,]
+other_jouranls <- data.frame(JOURNAL = "Other journals", n = sum(ref_x_journal$n) - sum(ref_x_journal_selection$n))
+ref_x_journal_selection <- rbind(ref_x_journal_selection, other_jouranls)
+ref_x_journal_selection$JOURNAL <- factor(ref_x_journal_selection$JOURNAL, levels = c(ref_x_journal_selection$JOURNAL))
 
-df[df$TYPE == "Online Database", ]
+ref_x_journal_p <- ggplot(ref_x_journal_selection, aes(x = JOURNAL, y = n)) +
+  geom_bar(stat = "identity", fill = "#b392ac", color = "#4f5d75") +
+  scale_x_discrete(expand = c(0,0),
+                   limits = rev(levels(ref_x_journal_selection$JOURNAL))) +
+  scale_y_continuous(expand = c(0,0), 
+                     limits = c(1, 190),
+                     trans = "log10",
+                     breaks = c(5, 10, 15, 20, 180),
+                     labels = c("5", "10", "15", "20", "180")) +
+  # geom_hline(yintercept = 20,
+  #            linetype = "dotted",
+  #            color = "#bfc0c0") +
+  # geom_hline(yintercept = 15,
+  #            linetype = "dotted",
+  #            color = "#bfc0c0") +
+  # geom_hline(yintercept = 10,
+  #            linetype = "dotted",
+  #            color = "#bfc0c0") +
+  # geom_hline(yintercept = 5,
+  #            linetype = "dotted",
+  #            color = "#bfc0c0") +
+  coord_flip() +
+  labs(title = "Standing on the shoulders of giants",
+       subtitle = "References in my thesis per Journal",
+       caption = "CC BY-SA @cexynature",
+       y = bquote("Number of citations - "~log[10]~" scale")) +
+  geom_segment(aes(x = 0, y = 30, xend = 2, yend = 40),
+               color = "#f5f5f2",
+               size = 2) +
+  geom_segment(aes(x = 0, y = 34, xend = 2, yend = 45),
+               color = "#f5f5f2",
+               size = 2) +
+  theme_custom_cesar()
+
+ref_x_journal_p
+
+ggsave(filename = "analysis/figures/ref_per_journal.png", ref_x_journal_p, 
+       width = 12, height = 8, units = "in", dpi = 600)
+
+
+# Create visualization: number of references per author
+ls_authors <- unlist(df$AUTHOR)
+ls_authors_ln <- gsub(",.*$", "", ls_authors)
+ls_authors_ln <- data.frame(author = ls_authors_ln, n = 1)
+
+ls_authors_ln <- ls_authors_ln %>%
+  dplyr::group_by(author) %>%
+  na.omit() %>%
+  dplyr::summarise(n = n()) %>%
+  dplyr::arrange(desc(n))
+
+ls_authors_fn <- data.frame(author = ls_authors, n = 1)
+ls_authors_fn$author[ls_authors_fn$author == "Sheaves, Marcus"] <- "Sheaves, M."
+ls_authors_fn$author[ls_authors_fn$author == "Baker, Ronald"] <- "Baker, R."
+
+ls_authors_fn <- ls_authors_fn %>%
+  dplyr::group_by(author) %>%
+  na.omit() %>%
+  dplyr::summarise(n = n()) %>%
+  dplyr::arrange(desc(n))
+
+library(wordcloud2)
+colnames(ls_authors_ln) <- c("word", "freq")
+ls_authors_ln <- as.data.frame(ls_authors_ln)
+
+# test <- ls_authors_ln[ls_authors_ln$freq >2,]
+# library(webshot)
+# library(htmlwidgets)
+# webshot::install_phantomjs()
+
+out_wc <- wordcloud2(ls_authors_ln, 
+           figPath = "data/raw/thank_you.jpg", 
+           gridSize = 5,
+           size = 0.5,
+           minSize = 0.03,
+           color = "black",
+           shuffle = T,
+           backgroundColor="#FFC2D9")
+
+out_wc
+
+out_wc <- wordcloud2(ls_authors_ln, 
+                     figPath = "data/raw/thank_you.jpg", 
+                     gridSize = 5,
+                     size = 0.4,
+                     minSize = 0.03,
+                     color = "black",
+                     shuffle = T,
+                     backgroundColor="#FFC2D9")
+
+out_wc
+
+# saveWidget(out_wc, "tmp.html", selfcontained = F)
+# webshot("tmp.html","analysis/figures/thank_you_wc.png", delay = 1, vwidth = 1000, vheight=1000)
+
+letterCloud(ls_authors_ln, word = "Thank You", color="black", backgroundColor="#ff70a6")
+
+letterCloud(ls_authors_ln, word = "Thank You", 
+            gridSize = 4,
+            size = 0.3,
+            minSize = 0.03,
+            color = "black",
+            shuffle = T,
+            backgroundColor="#FFC2D9")
+
+
+
+with_sheaves <- which(sapply(df$AUTHOR, function(x) "Sheaves, M." %in% x))
+with_sheaves <- df[with_sheaves, ]
